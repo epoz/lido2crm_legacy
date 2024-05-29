@@ -1,0 +1,214 @@
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.lido-schema.org lido-v1.0.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:type="local" lido:source="digiCULT Verbund e.G.">DE-MUS-292813/lido/2007SUM103</lido:lidoRecID>
+    <!-- https://www.deutsche-digitale-bibliothek.de/item/C4RB7TKNN3SJJJDME5QXH53MSK4VVKJV -->
+    <lido:category>
+      <lido:conceptID lido:type="uri">http://www.cidoc-crm.org/crm-concepts/E22</lido:conceptID>
+      <lido:term xml:lang="en">Man-Made Object</lido:term>
+    </lido:category>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType>
+            <lido:term>Mysterieuse</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="Sachgruppe">
+            <lido:conceptID lido:type="local" lido:source="xTree">1.838</lido:conceptID>
+            <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4158309-7</lido:conceptID>
+            <lido:term lido:addedSearchTerm="yes" xml:lang="de">Messen und Wiegen</lido:term>
+            <lido:term lido:addedSearchTerm="yes" xml:lang="de">Zeitmeßgeräte</lido:term>
+            <lido:term lido:addedSearchTerm="no" xml:lang="de">Großuhren</lido:term>
+          </lido:classification>
+          <lido:classification lido:type="Sachgruppe">
+            <lido:conceptID lido:type="local" lido:source="xTree">20.3182</lido:conceptID>
+            <lido:term lido:addedSearchTerm="yes" xml:lang="de">Räderuhren</lido:term>
+            <lido:term lido:addedSearchTerm="no" xml:lang="de">Großuhren</lido:term>
+            <lido:term lido:addedSearchTerm="yes">Pioskop</lido:term>
+          </lido:classification>
+          <lido:classification lido:type="Sachgruppe">
+            <lido:conceptID lido:type="local" lido:source="xTree" />
+            <lido:term lido:addedSearchTerm="yes" xml:lang="de">Räderuhren</lido:term>
+            <lido:term lido:addedSearchTerm="yes" xml:lang="de">Uhrwerk</lido:term>
+            <lido:term lido:addedSearchTerm="yes" xml:lang="de">Gangregler</lido:term>
+            <lido:term lido:addedSearchTerm="yes" xml:lang="de">Pendel</lido:term>
+            <lido:term lido:addedSearchTerm="no" xml:lang="de">Ankergang</lido:term>
+          </lido:classification>
+          <lido:classification lido:type="Sachgruppe">
+            <lido:conceptID lido:type="local" lido:source="xTree">20.3231</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no" xml:lang="de">Uhrengehäuse</lido:term>
+          </lido:classification>
+          <lido:classification lido:type="europeana:type">
+            <lido:term>IMAGE</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue>Mysterieuse</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:inscriptionsWrap>
+          <lido:inscriptions lido:type="Signatur">
+            <lido:inscriptionDescription>
+              <lido:descriptiveNoteValue>beschriftet (Blechschild am Sockel: " PRISONNIÈRE PAR FERRAND ")</lido:descriptiveNoteValue>
+            </lido:inscriptionDescription>
+          </lido:inscriptions>
+        </lido:inscriptionsWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="uri">info:isil/DE-MUS-292813</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Saarländisches Uhrenmuseum</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>http://saarland.digicult-museen.net/objekte/inst.php?s=1&amp;inst=902</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="Inventarnummer">2007SUM103</lido:workID>
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue />
+              </lido:namePlaceSet>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:displayObjectMeasurements>H: 38 cm, D: 13 cm</lido:displayObjectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">http://www.cidoc-crm.org/crm-concepts/E12</lido:conceptID>
+              <lido:term>Herstellung</lido:term>
+            </lido:eventType>
+            <lido:eventDate>
+              <lido:displayDate>3. Viertel 19. Jahrhundert</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1851</lido:earliestDate>
+                <lido:latestDate>1875</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventPlace>
+              <lido:place>
+                <lido:placeID lido:type="local" lido:source="xTree">6.817</lido:placeID>
+                <lido:placeID lido:type="uri">http://d-nb.info/gnd/4044660-8</lido:placeID>
+                <lido:placeID lido:type="local" lido:source="TGN">7008038</lido:placeID>
+                <lido:namePlaceSet>
+                  <lido:appellationValue>Paris</lido:appellationValue>
+                  <lido:appellationValue lido:pref="alternative">Lutetia</lido:appellationValue>
+                  <lido:appellationValue lido:pref="alternative">Lutetia Parisiorum</lido:appellationValue>
+                  <lido:appellationValue lido:pref="alternative">Lucotecia</lido:appellationValue>
+                </lido:namePlaceSet>
+              </lido:place>
+            </lido:eventPlace>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="local" lido:source="xTree" />
+                  <lido:term lido:addedSearchTerm="yes" xml:lang="de">Metall</lido:term>
+                  <lido:term lido:addedSearchTerm="no" xml:lang="de">Regule</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="local" lido:source="xTree">7.10</lido:conceptID>
+                  <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4014002-7</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="yes" xml:lang="de">Metall</lido:term>
+                  <lido:term lido:addedSearchTerm="no" xml:lang="de">Eisen</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="local" lido:source="xTree">7.187</lido:conceptID>
+                  <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4152058-0</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no" xml:lang="de">Emaille</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Email</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Émail</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Glasfluss</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Saarländisches Uhrenmuseum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="local">902_2007SUM103</lido:recordID>
+        <lido:recordType>
+          <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource lido:type="europeana:dataProvider">
+          <lido:legalBodyName>
+            <lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordSource>
+          <lido:legalBodyName>
+            <lido:appellationValue>Saarländisches Uhrenmuseum</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Saarländisches Uhrenmuseum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink>http://saarland.digicult-museen.net/objekte/digi_einzBild.php?s=1&amp;pi=902_2007SUM103</lido:recordInfoLink>
+          <lido:recordMetadataDate lido:type="modification date">2011-12-14 16:51:35</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet>
+          <lido:resourceRepresentation lido:type="image_overview">
+            <lido:linkResource>http://www.museen-nord.de/eingabe/bilder/data/mitte/902/2007SUM103.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceSource>
+            <lido:legalBodyName>
+              <lido:appellationValue>Saarländisches Uhrenmuseum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="uri">http://www.europeana.eu/rights/rr-r/</lido:conceptID>
+              <lido:term>http://www.europeana.eu/rights/rr-r/</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyName>
+                <lido:appellationValue>Saarländisches Uhrenmuseum</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

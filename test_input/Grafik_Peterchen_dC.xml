@@ -1,0 +1,192 @@
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.lido-schema.org lido-v1.0.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:type="local" lido:source="digiCULT Verbund e.G.">DE-MUS-075910/lido/9-2005</lido:lidoRecID>
+    <!-- https://www.deutsche-digitale-bibliothek.de/item/JZKL3HZCNRTSKPKOBFVNDX4XTHPC5PHW -->
+    <lido:category>
+      <lido:conceptID lido:type="uri">http://www.cidoc-crm.org/crm-concepts/E22</lido:conceptID>
+      <lido:term xml:lang="en">Man-Made Object</lido:term>
+    </lido:category>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType>
+            <lido:term />
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="Sachgruppe">
+            <lido:conceptID lido:type="local" lido:source="xTree">1.408</lido:conceptID>
+            <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4544259-9</lido:conceptID>
+            <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4043183-6</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no" xml:lang="de">Öffentlichkeit und Gemeinwesen</lido:term>
+          </lido:classification>
+          <lido:classification lido:type="Sachgruppe">
+            <lido:conceptID lido:type="local" lido:source="xTree">1.484</lido:conceptID>
+            <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4059702-7</lido:conceptID>
+            <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4043582-9</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no" xml:lang="de">Theater / Oper</lido:term>
+<!-- Das Stück war keine Oper, sondern ein Theaterstück (Barbara Sichtermann: Mein erstes prägendes theatrales Medienerlebnis war
+„Peterchens Mondfahrt“, das Weihnachtsmärchen am Stadttheater Kiel. http://www.neamatzen.de/app/download/5807282858/epd+medien+Bella+Fromm.pdf). -->
+          </lido:classification>
+          <lido:classification lido:type="Sachgruppe">
+            <lido:conceptID lido:type="local" lido:source="xTree">1.1081</lido:conceptID>
+            <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4065077-7</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no" xml:lang="de">Weihnachten</lido:term>
+          </lido:classification>
+          <lido:classification lido:type="Sachgruppe">
+            <lido:conceptID lido:type="local" lido:source="xTree">1.479</lido:conceptID>
+            <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4156660-9</lido:conceptID>
+            <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4186996-5</lido:conceptID>
+            <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4018382-8</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no" xml:lang="de">Freizeit / Unterhaltung / Genuß</lido:term>
+          </lido:classification>
+          <lido:classification lido:type="Sachgruppe">
+            <lido:conceptID lido:type="local" lido:source="xTree">1.479</lido:conceptID>
+            <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4156660-9</lido:conceptID>
+            <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4186996-5</lido:conceptID>
+            <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4018382-8</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no" xml:lang="de">Freizeit / Unterhaltung / Genuß</lido:term>
+          </lido:classification>
+          <lido:classification lido:type="Sachgruppe">
+            <lido:conceptID lido:type="local" lido:source="xTree">1.479</lido:conceptID>
+            <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4156660-9</lido:conceptID>
+            <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4186996-5</lido:conceptID>
+            <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4018382-8</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no" xml:lang="de">Freizeit / Unterhaltung / Genuß</lido:term>
+          </lido:classification>
+          <lido:classification lido:type="europeana:type">
+            <lido:term>IMAGE</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet lido:type="Titel">
+            <lido:appellationValue>"Peterchens Mondfahrt"</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="uri">info:isil/DE-MUS-075910</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Stadtmuseum - Warleberger Hof</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>http://www.museen-nord.de/ml/inst.php?inst=146</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="Inventarnummer">9/2005</lido:workID>
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Kiel</lido:appellationValue>
+              </lido:namePlaceSet>
+              <lido:gml>
+                <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+                  <gml:name>Stadtmuseum - Warleberger Hof</gml:name>
+                  <gml:pos>54.323946 10.140371</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:displayObjectMeasurements>84 x 59,4 cm</lido:displayObjectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">http://www.cidoc-crm.org/crm-concepts/E12</lido:conceptID>
+              <lido:term>Herstellung</lido:term>
+            </lido:eventType>
+            <lido:eventDate>
+              <lido:displayDate>1953</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate />
+                <lido:latestDate />
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Technik">
+                  <lido:conceptID lido:type="local" lido:source="xTree" />
+                  <lido:term lido:addedSearchTerm="no" xml:lang="de">Farbdruck</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Stadtmuseum - Warleberger Hof</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="local">146_9-2005</lido:recordID>
+        <lido:recordType>
+          <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource lido:type="europeana:dataProvider">
+          <lido:legalBodyName>
+            <lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordSource>
+          <lido:legalBodyName>
+            <lido:appellationValue>Stadtmuseum - Warleberger Hof</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Stadtmuseum - Warleberger Hof</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink>http://www.museen-nord.de/ml/digi_einzBild.php?s=1&amp;pi=146_9-2005</lido:recordInfoLink>
+          <lido:recordMetadataDate lido:type="modification date">2007-11-15 14:53:28</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet>
+          <lido:resourceRepresentation lido:type="image_overview">
+            <lido:linkResource>http://www.museen-nord.de/eingabe/bilder/data/mitte/146/Bild0826.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceSource>
+            <lido:legalBodyName>
+              <lido:appellationValue>Stadtmuseum - Warleberger Hof</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="uri">http://www.europeana.eu/rights/rr-r/</lido:conceptID>
+              <lido:term>http://www.europeana.eu/rights/rr-r/</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyName>
+                <lido:appellationValue>Stadtmuseum - Warleberger Hof</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

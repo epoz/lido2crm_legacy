@@ -1,0 +1,266 @@
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.lido-schema.org lido-v1.0.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:type="local" lido:source="digiCULT Verbund e.G.">DE-MUS-789911/lido/Kos353</lido:lidoRecID>
+    <lido:category>
+      <lido:conceptID lido:type="uri">http://www.cidoc-crm.org/crm-concepts/E22</lido:conceptID>
+      <lido:term xml:lang="en">Man-Made Object</lido:term>
+    </lido:category>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType>
+            <lido:term>Seifendose mit Lava-Seife (Aluminium-Dose mit LAVA-Seife)</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="Sachgruppe">
+            <lido:conceptID lido:type="local" lido:source="xTree">1.1018</lido:conceptID>
+            <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4032551-9</lido:conceptID>
+            <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4073578-3</lido:conceptID>
+            <lido:term lido:addedSearchTerm="yes" xml:lang="de">Gesundheit</lido:term>
+            <lido:term lido:addedSearchTerm="yes" xml:lang="de">Körperpflege</lido:term>
+            <lido:term lido:addedSearchTerm="no" xml:lang="de">Kosmetika</lido:term>
+          </lido:classification>
+          <lido:classification lido:type="Sachgruppe">
+            <lido:conceptID lido:type="local" lido:source="xTree">1.421</lido:conceptID>
+            <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4073578-3</lido:conceptID>
+            <lido:term lido:addedSearchTerm="yes" xml:lang="de">Gesundheit</lido:term>
+            <lido:term lido:addedSearchTerm="no" xml:lang="de">Körperpflege</lido:term>
+          </lido:classification>
+          <lido:classification lido:type="europeana:type">
+            <lido:term>IMAGE</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet lido:type="Titel">
+            <lido:appellationValue>LAVA Seife</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:inscriptionsWrap>
+          <lido:inscriptions lido:type="Signatur">
+            <lido:inscriptionDescription>
+              <lido:descriptiveNoteValue>unsigniert (Dose)</lido:descriptiveNoteValue>
+            </lido:inscriptionDescription>
+            <lido:inscriptionDescription>
+              <lido:descriptiveNoteValue>Schriftzug (Seife vorn: LAVA)</lido:descriptiveNoteValue>
+            </lido:inscriptionDescription>
+            <lido:inscriptionDescription>
+              <lido:descriptiveNoteValue>Schriftzug (Seife hinten: PROCTER &amp; GAMBLE)</lido:descriptiveNoteValue>
+            </lido:inscriptionDescription>
+            <lido:inscriptionDescription>
+              <lido:descriptiveNoteValue>Schriftzug (Seife seitlich: 16 o H)</lido:descriptiveNoteValue>
+            </lido:inscriptionDescription>
+          </lido:inscriptions>
+        </lido:inscriptionsWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="uri">info:isil/DE-MUS-789911</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Frisörmuseum</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>http://www.museen-nord.de/ml/inst.php?inst=10010001563</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="Inventarnummer">Kos353</lido:workID>
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Eckernförde</lido:appellationValue>
+              </lido:namePlaceSet>
+              <lido:gml>
+                <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+                  <gml:name>Frisörmuseum</gml:name>
+                  <gml:pos>54.477767 9.83648</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:displayObjectMeasurements>B: 7,8 cm, B: 8,9 cm, T: 2,6 cm, T: 3,2 cm, H: 5,1 cm (Seife), H: 5,9 cm (Seifendose)</lido:displayObjectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">http://www.cidoc-crm.org/crm-concepts/E12</lido:conceptID>
+              <lido:term>Herstellung</lido:term>
+            </lido:eventType>
+            <lido:eventActor>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:nameActorSet>
+                    <lido:appellationValue lido:pref="preferred">Procter + Gamble UK</lido:appellationValue>
+                  </lido:nameActorSet>
+                </lido:actor>
+                <lido:roleActor>
+                  <lido:term>Hersteller</lido:term>
+                </lido:roleActor>
+                <lido:extentActor />
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:displayDate>3. Viertel 20. Jahrhundert</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1951</lido:earliestDate>
+                <lido:latestDate>1975</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventPlace>
+              <lido:place>
+                <lido:placeID lido:type="local" lido:source="xTree" />
+                <lido:namePlaceSet>
+                  <lido:appellationValue>unbekannt</lido:appellationValue>
+                </lido:namePlaceSet>
+              </lido:place>
+            </lido:eventPlace>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="local" lido:source="xTree">7.157</lido:conceptID>
+                  <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4117616-9</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="yes" xml:lang="de">Metall</lido:term>
+                  <lido:term lido:addedSearchTerm="no" xml:lang="de">Weißblech</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Weissblech</lido:term>
+                </lido:termMaterialsTech>
+                <lido:extentMaterialsTech>Seifendose</lido:extentMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="local" lido:source="xTree" />
+                  <lido:term lido:addedSearchTerm="no" xml:lang="de">Seife</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Technik">
+                  <!-- Gewalzt ist nicht die Seifendose, sondern das Weißblech als Vorprodukt --> 
+                  <lido:conceptID lido:type="local" lido:source="xTree">8.209</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="yes" xml:lang="de">Metalltechnik</lido:term>
+                  <lido:term lido:addedSearchTerm="no" xml:lang="de">gewalzt</lido:term>
+                </lido:termMaterialsTech>
+                <lido:extentMaterialsTech>Seifendose</lido:extentMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Technik">
+                  <!-- Wo kommt Holz vor und Holztechnik? -->
+                  <lido:conceptID lido:type="local" lido:source="xTree" />
+                  <lido:term lido:addedSearchTerm="yes" xml:lang="de">Holztechnik</lido:term>
+                  <lido:term lido:addedSearchTerm="no" xml:lang="de">geformt</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Technik">
+                  <!-- Wenn Extent "Seife" ist, kann die Technik "Metalltechnik" sein? --> 
+                  <lido:conceptID lido:type="local" lido:source="xTree">8.1</lido:conceptID>
+                  <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4169589-6</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="yes" xml:lang="de">Metalltechnik</lido:term>
+                  <lido:term lido:addedSearchTerm="no" xml:lang="de">gegossen</lido:term>
+                </lido:termMaterialsTech>
+                <lido:extentMaterialsTech>Seife</lido:extentMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Technik">
+                  <lido:conceptID lido:type="local" lido:source="xTree">8.182</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="yes" xml:lang="de">Metalltechnik</lido:term>
+                  <lido:term lido:addedSearchTerm="no" xml:lang="de">gepresst</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Technik">
+                  <lido:conceptID lido:type="local" lido:source="xTree">8.158</lido:conceptID>
+                  <lido:conceptID lido:type="uri">http://d-nb.info/gnd/4056944-5</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="yes" xml:lang="de">Metalltechnik</lido:term>
+                  <lido:term lido:addedSearchTerm="no" xml:lang="de">gestanzt</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Frisörmuseum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="local">10010001563_Kos353</lido:recordID>
+        <lido:recordType>
+          <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource lido:type="europeana:dataProvider">
+          <lido:legalBodyName>
+            <lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordSource>
+          <lido:legalBodyName>
+            <lido:appellationValue>Frisörmuseum</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term xml:lang="en">CC0 1.0 Public Domain Dedication</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Frisörmuseum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink>http://www.museen-nord.de/ml/digi_einzBild.php?s=1&amp;pi=10010001563_Kos353</lido:recordInfoLink>
+          <lido:recordMetadataDate lido:type="modification date">2009-10-18 12:16:19</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet>
+          <lido:resourceRepresentation lido:type="image_overview">
+            <lido:linkResource>http://www.museen-nord.de/eingabe/bilder/data/mitte/1001563/Kos353.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceSource>
+            <lido:legalBodyName>
+              <lido:appellationValue>Frisörmuseum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="uri">http://www.europeana.eu/rights/rr-r/</lido:conceptID>
+              <lido:term>http://www.europeana.eu/rights/rr-r/</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyName>
+                <lido:appellationValue>Frisörmuseum</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

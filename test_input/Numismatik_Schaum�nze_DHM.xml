@@ -1,0 +1,205 @@
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:goslib="http://www.zib.de/gos" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+  <lido:lido lido:relatedencoding="Konrad-Zuse-Zentrum fuer Informationstechnik GOS:FORMAT99">
+    <lido:lidoRecID lido:type="local" lido:source="Deutsches Historisches Museum">DE-MUS-319517/JU100623</lido:lidoRecID>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType lido:type="Sachbegriff">
+            <lido:term lido:encodinganalog="SACHBEGRIFF">Münze</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="europeana:type">
+            <lido:term lido:addedSearchTerm="no">IMAGE</lido:term>
+          </lido:classification>
+          <lido:classification lido:type="Gattung">
+            <lido:term lido:encodinganalog="GATTUNG" lido:pref="preferred">(Schaumünze)</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet lido:type="Original title">
+            <lido:appellationValue lido:encodinganalog="OBJ_TITEL" lido:pref="preferred">Münze mit Porträt von Georgi Dimitroff</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-319517</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Historisches Museum</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>http://www.dhm.de</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="Inventarnummer">SI 2000/827</lido:workID>
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Berlin</lido:appellationValue>
+              </lido:namePlaceSet>
+              <lido:partOfPlace lido:politicalEntity="Bundesland">
+                <lido:namePlaceSet>
+                  <lido:appellationValue>Berlin</lido:appellationValue>
+                </lido:namePlaceSet>
+                <lido:partOfPlace lido:politicalEntity="Staat">
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Deutschland</lido:appellationValue>
+                  </lido:namePlaceSet>
+                </lido:partOfPlace>
+              </lido:partOfPlace>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:displayObjectMeasurements lido:encodinganalog="MASSE">Durchmesser: 6 cm</lido:displayObjectMeasurements>
+            <lido:objectMeasurements>
+              <lido:measurementsSet>
+                <lido:measurementType>Durchmesser</lido:measurementType>
+                <lido:measurementUnit>cm</lido:measurementUnit>
+                <lido:measurementValue>6</lido:measurementValue>
+              </lido:measurementsSet>
+            </lido:objectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventID lido:type="URI" lido:source="LIDO Terminology">http://terminology.lido-schema.org/lido00007</lido:eventID>
+            <lido:eventType>
+              <lido:term>Herstellung</lido:term>
+            </lido:eventType>
+            <lido:eventDate>
+              <lido:displayDate lido:encodinganalog="DATIERUNG">vor 1990</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1988</lido:earliestDate>
+                <lido:latestDate>1990</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventPlace>
+              <lido:displayPlace />
+              <lido:place />
+            </lido:eventPlace>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Metall, gegossen</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Trägermaterial">
+                  <lido:term lido:encodinganalog="TRAEGERMAT">Metall</lido:term>
+                </lido:termMaterialsTech>
+                <lido:termMaterialsTech lido:type="Technik">
+                  <lido:term lido:encodinganalog="TECHNIK">gegossen</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+          <lido:subjectSet>
+            <lido:displaySubject lido:encodinganalog="SCHLAGWORT">Münze</lido:displaySubject>
+            <lido:subject lido:type="Schlagwort">
+              <lido:subjectObject>
+                <lido:object>
+                  <lido:objectNote>Münze</lido:objectNote>
+                </lido:object>
+              </lido:subjectObject>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject lido:type="Dargestellte Person">
+              <lido:subjectActor>
+                <lido:displayActor>Georgi Michailowitsch Dimitroff</lido:displayActor>
+                <lido:actor>
+                  <lido:nameActorSet>
+                    <lido:appellationValue lido:encodinganalog="BEZ_PERSON/PNAME" lido:pref="preferred">Dimitroff, Georgi Michailowitsch</lido:appellationValue>
+                    <lido:appellationValue lido:encodinganalog="BEZ_PERSON/PPSEUDONYM" lido:pref="alternate">Dimitrov, Georgi Michailowitsch</lido:appellationValue>
+                    <lido:appellationValue lido:encodinganalog="BEZ_PERSON/PPSEUDONYM" lido:pref="alternate">Dimitrow, Georgi Michailowitsch</lido:appellationValue>
+                  </lido:nameActorSet>
+                </lido:actor>
+              </lido:subjectActor>
+            </lido:subject>
+          </lido:subjectSet>
+        </lido:subjectWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsType>
+            <lido:conceptID lido:type="URI" lido:source="DDB">https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz</lido:conceptID>
+            <lido:term>Rechte vorbehalten – Freier Zugang</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-319517</lido:legalBodyID>
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Historisches Museum</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://www.dhm.de</lido:legalBodyWeblink>
+          </lido:rightsHolder>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="local">JU100623</lido:recordID>
+        <lido:recordType>
+          <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource>
+          <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-319517</lido:legalBodyID>
+          <lido:legalBodyName>
+            <lido:appellationValue>Deutsches Historisches Museum</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>http://www.dhm.de</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="URI" lido:source="DDB">https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz</lido:conceptID>
+            <lido:term>Rechte vorbehalten – Freier Zugang</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-319517</lido:legalBodyID>
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Historisches Museum</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://www.dhm.de</lido:legalBodyWeblink>
+          </lido:rightsHolder>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink lido:formatResource="html">http://www.dhm.de/datenbank/dhm.php?seite=5&amp;fld_0=JU100623</lido:recordInfoLink>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="local">JU100623</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_master">
+            <lido:linkResource lido:formatResource="jpg">http://www.dhm.de/datenbank/img.php?img=JU100623&amp;format=2</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>image</lido:term>
+          </lido:resourceType>
+          <lido:resourceSource lido:type="holder of image">
+            <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-319517</lido:legalBodyID>
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Historisches Museum</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://www.dhm.de</lido:legalBodyWeblink>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI" lido:source="DDB">https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz</lido:conceptID>
+              <lido:term>Rechte vorbehalten – Freier Zugang</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-319517</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Historisches Museum</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>http://www.dhm.de</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

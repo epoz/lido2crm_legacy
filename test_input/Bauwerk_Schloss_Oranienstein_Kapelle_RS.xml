@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:type="local" lido:source="Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg">DE-Mb112/lido/t3/20100361</lido:lidoRecID>
+    <lido:category>
+      <lido:conceptID lido:type="URI">www.cidoc-crm.org/rdfs/cidoc-crm-english-label#E22.Man-Made_Object</lido:conceptID>
+      <lido:term xml:lang="en">Man-Made Object</lido:term>
+    </lido:category>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType lido:type="Sachbegriff">
+            <lido:term>Schlosskapelle</lido:term>
+            <lido:term lido:addedSearchTerm="yes">Kapelle</lido:term>
+            <lido:term lido:addedSearchTerm="yes">Bauwerk</lido:term>
+            <lido:term lido:addedSearchTerm="yes">Sakralbau</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="europeana:type">
+            <lido:term>IMAGE</lido:term>
+          </lido:classification>
+          <lido:classification lido:type="Gattung">
+            <lido:term>Architektur</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred">Schloss Oranienstein — Ostflügel — Schlosskapelle</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Südostecke, 1. Obergeschoss</lido:appellationValue>
+              </lido:namePlaceSet>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Diez</lido:appellationValue>
+              </lido:namePlaceSet>
+              <lido:partOfPlace lido:politicalEntity="Kreis">
+                <lido:namePlaceSet>
+                  <lido:appellationValue>Rhein-Lahn-Kreis</lido:appellationValue>
+                </lido:namePlaceSet>
+                <lido:partOfPlace lido:politicalEntity="Bundesland">
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Rheinland-Pfalz</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:partOfPlace lido:politicalEntity="Staat">
+                    <lido:namePlaceSet>
+                      <lido:appellationValue>Deutschland</lido:appellationValue>
+                    </lido:namePlaceSet>
+                  </lido:partOfPlace>
+                </lido:partOfPlace>
+              </lido:partOfPlace>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:objectMeasurements>
+              <lido:shapeMeasurements>einschiffig</lido:shapeMeasurements>
+            </lido:objectMeasurements>
+          </lido:objectMeasurementsSet>
+          <lido:objectMeasurementsSet>
+            <lido:objectMeasurements>
+              <lido:shapeMeasurements>zweigeschossig</lido:shapeMeasurements>
+            </lido:objectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="URI" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+              <lido:term xml:lang="en">Production</lido:term>
+            </lido:eventType>
+            <lido:eventActor>
+              <lido:actorInRole>
+                <lido:actor lido:type="person">
+                  <lido:actorID lido:type="local">kue 20101938</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue lido:pref="preferred">Gräver, Johann Ludwig</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:nameActorSet>
+                    <lido:appellationValue lido:pref="alternative">Gräver, Johann Wilhelm</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:nationalityActor>
+                    <lido:term>Deutschland</lido:term>
+                  </lido:nationalityActor>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate lido:type="birthDate">1673</lido:earliestDate>
+                    <lido:latestDate lido:type="deathDate">1677</lido:latestDate>
+                  </lido:vitalDatesActor>
+                  <lido:genderActor>männlich</lido:genderActor>
+                </lido:actor>
+                <lido:roleActor>
+                  <lido:term>Baumeister</lido:term>
+                </lido:roleActor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="URI" lido:source="http://partage.vocnet.org/PPMaterial">http://partage.vocnet.org/part00597</lido:conceptID>
+                  <lido:term>Stein</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="URI" lido:source="http://partage.vocnet.org/PPMaterial">http://partage.vocnet.org/part00567</lido:conceptID>
+                  <lido:term>Backstein</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Keramik</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="URI" lido:source="AAT">http://vocab.getty.edu/aat/300011646</lido:conceptID>
+                  <lido:term>Schiefer</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Stein</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:term>Tannenholz</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Holz</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Technik">
+                  <lido:conceptID lido:type="URI" lido:source="AAT">http://vocab.getty.edu/aat/300053864</lido:conceptID>
+                  <lido:term>verputzt</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Putz</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="URI" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00006</lido:conceptID>
+              <lido:term xml:lang="en">Modification</lido:term>
+            </lido:eventType>
+            <lido:eventActor>
+              <lido:actorInRole>
+                <lido:actor lido:type="person">
+                  <lido:actorID lido:type="local">kue 00281603</lido:actorID>
+                  <lido:actorID lido:type="URI" lido:source="http://d-nb.info/gnd">http://d-nb.info/gnd/174243383</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue lido:pref="preferred">Marot, Daniel (der Ältere)</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:nationalityActor>
+                    <lido:term>Frankreich</lido:term>
+                  </lido:nationalityActor>
+                  <lido:nationalityActor>
+                    <lido:term>Niederlande</lido:term>
+                  </lido:nationalityActor>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate lido:type="evidenceDate">1663</lido:earliestDate>
+                    <lido:latestDate lido:type="deathDate">1752-06-04</lido:latestDate>
+                  </lido:vitalDatesActor>
+                  <lido:genderActor>männlich</lido:genderActor>
+                </lido:actor>
+                <lido:roleActor>
+                  <lido:term>Architekt</lido:term>
+                </lido:roleActor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventActor>
+              <lido:actorInRole>
+                <lido:actor lido:type="person">
+                  <lido:actorID lido:type="local">per 00311600</lido:actorID>
+                  <lido:actorID lido:type="URI" lido:source="http://d-nb.info/gnd">http://d-nb.info/gnd/124330959</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue lido:pref="preferred">Henriette Amalie (Anhalt-Dessau, Prinzessin)</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:nameActorSet>
+                    <lido:appellationValue lido:pref="alternative">Henriette Amalie (Anhalt-Dessau, Prinzessin)</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:nationalityActor>
+                    <lido:term>Deutschland</lido:term>
+                  </lido:nationalityActor>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate lido:type="birthDate">1720-12-07</lido:earliestDate>
+                    <lido:latestDate lido:type="deathDate">1793-12-05</lido:latestDate>
+                  </lido:vitalDatesActor>
+                  <lido:genderActor>weiblich</lido:genderActor>
+                </lido:actor>
+              </lido:actorInRole>
+            </lido:eventActor>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="URI" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+              <lido:term xml:lang="en">Production</lido:term>
+            </lido:eventType>
+            <lido:eventActor>
+              <lido:actorInRole>
+                <lido:actor lido:type="person">
+                  <lido:actorID lido:type="local">kue 20090342</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue lido:pref="preferred">Castelli, Eugenio</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:nameActorSet>
+                    <lido:appellationValue lido:pref="alternative">Castello, Eugenio</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:nationalityActor>
+                    <lido:term>Deutschland</lido:term>
+                  </lido:nationalityActor>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate lido:type="birthDate">1675</lido:earliestDate>
+                    <lido:latestDate lido:type="deathDate">1761-12-07</lido:latestDate>
+                  </lido:vitalDatesActor>
+                  <lido:genderActor>männlich</lido:genderActor>
+                </lido:actor>
+                <lido:roleActor>
+                  <lido:term>Stukkateur</lido:term>
+                </lido:roleActor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventActor>
+              <lido:actorInRole>
+                <lido:actor lido:type="person">
+                  <lido:actorID lido:type="local">kue 20010343</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue lido:pref="preferred">Genone, Antonio</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:nationalityActor>
+                    <lido:term>Italien</lido:term>
+                  </lido:nationalityActor>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate lido:type="birthDate">1705</lido:earliestDate>
+                    <lido:latestDate lido:type="deathDate">1708</lido:latestDate>
+                  </lido:vitalDatesActor>
+                  <lido:genderActor>männlich</lido:genderActor>
+                </lido:actor>
+                <lido:roleActor>
+                  <lido:term>Stukkateur</lido:term>
+                </lido:roleActor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventActor>
+              <lido:actorInRole>
+                <lido:actor lido:type="person">
+                  <lido:actorID lido:type="local">kue 20330148</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue lido:pref="preferred">Dyck, Jan van (1709)</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:nationalityActor>
+                    <lido:term>Niederlande</lido:term>
+                  </lido:nationalityActor>
+                  <lido:nationalityActor>
+                    <lido:term>Deutschland</lido:term>
+                  </lido:nationalityActor>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate lido:type="birthDate">1709</lido:earliestDate>
+                    <lido:latestDate lido:type="deathDate">1756</lido:latestDate>
+                  </lido:vitalDatesActor>
+                  <lido:genderActor>männlich</lido:genderActor>
+                </lido:actor>
+                <lido:roleActor>
+                  <lido:term>Maler</lido:term>
+                </lido:roleActor>
+              </lido:actorInRole>
+            </lido:eventActor>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="URI" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+              <lido:term xml:lang="en">Production</lido:term>
+            </lido:eventType>
+            <lido:eventDate>
+              <lido:displayDate>1716</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1716</lido:earliestDate>
+                <lido:latestDate>1716</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="URI" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00034</lido:conceptID>
+              <lido:term xml:lang="en">Restoration</lido:term>
+            </lido:eventType>
+            <lido:eventDate>
+              <lido:displayDate>1998</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1998</lido:earliestDate>
+                <lido:latestDate>1998</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:relatedWorksWrap>
+          <lido:relatedWorkSet>
+            <lido:relatedWork>
+              <lido:object>
+                <lido:objectID lido:type="local">t2/20100543</lido:objectID>
+                <lido:objectNote lido:type="Kurzbeschreibung">Ostflügel - Gebäudeflügel, Diez - Gräver, Johann Ludwig u.a. - 1671-1681</lido:objectNote>
+              </lido:object>
+            </lido:relatedWork>
+            <lido:relatedWorkRelType>
+              <lido:term>Teil von</lido:term>
+            </lido:relatedWorkRelType>
+          </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:recordWrap>
+        <lido:recordID lido:type="local">t3/20100361</lido:recordID>
+        <lido:recordType>
+          <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource lido:type="europeana:dataProvider">
+          <lido:legalBodyName>
+            <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="URI">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term>CC0 1.0 Public Domain Dedication</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink lido:formatResource="html">http://www.bildindex.de/dokumente/html/obj20186751</lido:recordInfoLink>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="local">fmd475475</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="jpg">http://www.bildindex.de/bilder/m/fmd475475</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceDescription lido:type="Beschreibung">Inneres - Blick zur Chorwand nach Osten</lido:resourceDescription>
+          <lido:resourceDateTaken>
+            <lido:displayDate>2013.03</lido:displayDate>
+          </lido:resourceDateTaken>
+          <lido:resourceSource lido:type="Fotograf">
+            <lido:legalBodyName>
+              <lido:appellationValue>Scheidt, Thomas / Stein, Christian / Heil, Verena</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID>
+              <lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">info:isil/DE-Mb112</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="local">fmd475476</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="jpg">http://www.bildindex.de/bilder/m/fmd475476</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceDescription lido:type="Beschreibung">Inneres - Blick zur Chorwand nach Osten</lido:resourceDescription>
+          <lido:resourceDateTaken>
+            <lido:displayDate>2013.03</lido:displayDate>
+          </lido:resourceDateTaken>
+          <lido:resourceSource lido:type="Fotograf">
+            <lido:legalBodyName>
+              <lido:appellationValue>Scheidt, Thomas / Stein, Christian / Heil, Verena</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID>
+              <lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">info:isil/DE-Mb112</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="local">fmd475477</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="jpg">http://www.bildindex.de/bilder/m/fmd475477</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceDescription lido:type="Beschreibung">Inneres - Blick zur Chorwand nach Osten</lido:resourceDescription>
+          <lido:resourceDateTaken>
+            <lido:displayDate>2013.03</lido:displayDate>
+          </lido:resourceDateTaken>
+          <lido:resourceSource lido:type="Fotograf">
+            <lido:legalBodyName>
+              <lido:appellationValue>Scheidt, Thomas / Stein, Christian / Heil, Verena</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID>
+              <lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">info:isil/DE-Mb112</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="local">fmd475478</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="jpg">http://www.bildindex.de/bilder/m/fmd475478</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceDescription lido:type="Beschreibung">Inneres - Gesamtansicht der Chorwand mit Altar, Kanzel und Orgel</lido:resourceDescription>
+          <lido:resourceDateTaken>
+            <lido:displayDate>2013.03</lido:displayDate>
+          </lido:resourceDateTaken>
+          <lido:resourceSource lido:type="Fotograf">
+            <lido:legalBodyName>
+              <lido:appellationValue>Scheidt, Thomas / Stein, Christian / Heil, Verena</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID>
+              <lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">info:isil/DE-Mb112</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="local">fmd475488</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="jpg">http://www.bildindex.de/bilder/m/fmd475488</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceDescription lido:type="Beschreibung">Inneres - Blick nach Westen</lido:resourceDescription>
+          <lido:resourceDateTaken>
+            <lido:displayDate>2013.03</lido:displayDate>
+          </lido:resourceDateTaken>
+          <lido:resourceSource lido:type="Fotograf">
+            <lido:legalBodyName>
+              <lido:appellationValue>Scheidt, Thomas / Stein, Christian / Heil, Verena</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID>
+              <lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">info:isil/DE-Mb112</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="local">fmd475489</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="jpg">http://www.bildindex.de/bilder/m/fmd475489</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceDescription lido:type="Beschreibung">Inneres - Blick nach Nordwesten</lido:resourceDescription>
+          <lido:resourceDateTaken>
+            <lido:displayDate>2013.03</lido:displayDate>
+          </lido:resourceDateTaken>
+          <lido:resourceSource lido:type="Fotograf">
+            <lido:legalBodyName>
+              <lido:appellationValue>Scheidt, Thomas / Stein, Christian / Heil, Verena</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID>
+              <lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">info:isil/DE-Mb112</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="local">fmd475483</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="jpg">http://www.bildindex.de/bilder/m/fmd475483</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceDescription lido:type="Beschreibung">Inneres - Blick auf die nördliche Seitenwand nach Norden</lido:resourceDescription>
+          <lido:resourceDateTaken>
+            <lido:displayDate>2013.03</lido:displayDate>
+          </lido:resourceDateTaken>
+          <lido:resourceSource lido:type="Fotograf">
+            <lido:legalBodyName>
+              <lido:appellationValue>Scheidt, Thomas / Stein, Christian / Heil, Verena</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID>
+              <lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">info:isil/DE-Mb112</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="local">fmd475484</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="jpg">http://www.bildindex.de/bilder/m/fmd475484</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceDescription lido:type="Beschreibung">Inneres - Teilansicht der nördlichen Seitenwand nach Nordosten</lido:resourceDescription>
+          <lido:resourceDateTaken>
+            <lido:displayDate>2013.03</lido:displayDate>
+          </lido:resourceDateTaken>
+          <lido:resourceSource lido:type="Fotograf">
+            <lido:legalBodyName>
+              <lido:appellationValue>Scheidt, Thomas / Stein, Christian / Heil, Verena</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID>
+              <lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">info:isil/DE-Mb112</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="local">fmd475485</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="jpg">http://www.bildindex.de/bilder/m/fmd475485</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceDescription lido:type="Beschreibung">Inneres - Blick nach Nordosten</lido:resourceDescription>
+          <lido:resourceDateTaken>
+            <lido:displayDate>2013.03</lido:displayDate>
+          </lido:resourceDateTaken>
+          <lido:resourceSource lido:type="Fotograf">
+            <lido:legalBodyName>
+              <lido:appellationValue>Scheidt, Thomas / Stein, Christian / Heil, Verena</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID>
+              <lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">info:isil/DE-Mb112</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="local">fmd475486</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="jpg">http://www.bildindex.de/bilder/m/fmd475486</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceDescription lido:type="Beschreibung">Inneres - Blick nach Südosten</lido:resourceDescription>
+          <lido:resourceDateTaken>
+            <lido:displayDate>2013.03</lido:displayDate>
+          </lido:resourceDateTaken>
+          <lido:resourceSource lido:type="Fotograf">
+            <lido:legalBodyName>
+              <lido:appellationValue>Scheidt, Thomas / Stein, Christian / Heil, Verena</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID>
+              <lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">info:isil/DE-Mb112</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="local">fmd475487</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="jpg">http://www.bildindex.de/bilder/m/fmd475487</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceDescription lido:type="Beschreibung">Inneres - Blick auf die sürdliche Seitenwand nach Süden</lido:resourceDescription>
+          <lido:resourceDateTaken>
+            <lido:displayDate>2013.03</lido:displayDate>
+          </lido:resourceDateTaken>
+          <lido:resourceSource lido:type="Fotograf">
+            <lido:legalBodyName>
+              <lido:appellationValue>Scheidt, Thomas / Stein, Christian / Heil, Verena</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID>
+              <lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">info:isil/DE-Mb112</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

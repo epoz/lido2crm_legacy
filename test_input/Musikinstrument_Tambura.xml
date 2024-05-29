@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" 
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+               xmlns:gml="http://www.opengis.net/gml" 
+               xsi:schemaLocation="http://www.lido-schema.org lido-v1.0.xsd">
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+   <lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">record_kuniweb_676140</lido:lidoRecID>
+   <lido:objectPublishedID lido:type="http://terminology.lido-schema.org/lido00099">http://sammlungen.uni-goettingen.de/objekt/kuniweb_676140</lido:objectPublishedID>
+   <lido:objectPublishedID lido:type="http://terminology.lido-schema.org/lido00099">https://hdl.handle.net/21.11107/0241a85a-c3e7-4259-b0f0-088506059852</lido:objectPublishedID>
+   <lido:category>
+      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://www.cidoc-crm.org/crm-concepts/#E22</lido:conceptID>
+      <lido:term xml:lang="en">Man-Made Object</lido:term>
+   </lido:category>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:type="URI">http://portal.wissenschaftliche-sammlungen.de/ObjectGenre/234</lido:conceptID>
+               <lido:term>Musikinstrument</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Hessische Systematik">
+               <lido:term>Freizeit/Unterhaltung/Genuß &gt; Musik</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Oberbegriffsdatei">
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://obg.vocnet.org/x003658x</lido:conceptID>
+               <lido:term>Musikinstrument, Klangkörper*</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet lido:sortorder="1">
+               <lido:appellationValue>Schalenlanghalslaute mit Schnarrsteg, Tambura [Tanpura]</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-MUS-160112</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Georg-August-Universität: Musikinstrumentensammlung des Musikwissenschaftlichen Seminars der Universität Göttingen</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://www.uni-goettingen.de/de/71170.html</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID>608</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Musikinstrumentensammlung des Musikwissenschaftlichen Seminars der Universität Göttingen</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point>
+                        <gml:pos>51.53019 9.93778</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+                  <lido:partOfPlace>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://sws.geonames.org/2918632/</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue />
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point>
+                           <gml:pos>51.53443 9.93228</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:partOfPlace>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet lido:type="production_purpose">
+               <lido:descriptiveNoteValue>Reines Ausstellungsstück (Sattel und Steg nicht funktionstüchtig)</lido:descriptiveNoteValue>
+            </lido:objectDescriptionSet>
+            <lido:objectDescriptionSet lido:type="description">
+               <lido:descriptiveNoteValue>Borduninstrument der nordindischen Kunstmusik; Bundlos. Dekor:
+reiche polychrome Bemalung mit Motiven aus der hinduistischen Mythologie.
+Unsigniert. Nordindien, Bengalen (?)</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Bestandskatalog MusInstrSlg Uni Gö (Stand 2015-07-14)</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00028</lido:conceptID>
+                  <lido:term xml:lang="en">Beginning of Existence</lido:term>
+                  <lido:term>Daseinsbeginn</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>1800? - 1964?</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate lido:type="estimated">1800</lido:earliestDate>
+                     <lido:latestDate lido:type="estimated">1964</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term xml:lang="en">Production</lido:term>
+                  <lido:term>Herstellung</lido:term>
+               </lido:eventType>
+               <lido:culture>
+                  <lido:term>Asien</lido:term>
+               </lido:culture>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Holz</lido:displayMaterialsTech>
+                  <lido:materialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300011914</lido:conceptID>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/4025668-6</lido:conceptID>
+                        <lido:term>Holz</lido:term>
+                     </lido:termMaterialsTech>
+                  </lido:materialsTech>
+               </lido:eventMaterialsTech>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Holztechnik</lido:displayMaterialsTech>
+                  <lido:materialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/4025684-4</lido:conceptID>
+                        <lido:term>Holztechnik</lido:term>
+                     </lido:termMaterialsTech>
+                  </lido:materialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:displaySubject>Laute</lido:displaySubject>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/4166936-8</lido:conceptID>
+                     <lido:term>Laute</lido:term>
+                     <lido:term lido:addedSearchTerm="yes">Lt (R:Abkürzung nach RAK-M)</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>A r c h i v a l i e n : • Zum Objekt: HICKMANN / MASCHER / WEISS 1980-82: Erf.-
+Nr. 72/1062. BRENNER 1987c. • Zu Vergleichsstücken: Im Inventar MOECK /
+HICKMANN / HICKMANN 1956-58: Korrespondenz mit Angelika Stadelmann 2002/03 (zu
+ihrer Diplomarbeit bei Prof. Andre Gingrich über die Tagore-Sammlung des Wiener
+Völkerkunde-Museums).
+L i t e r a t u r : • Zum Objekt: Hans HICKMANN 1960a: Taf. 14, Abb. 7 und 8.
+BRENNER 1987a: 30-31 (mit Abb.); 1989a: 88-90 (mit 2 Abb.); 2012d (mit 2 Abb.);
+2012e (mit 5 Abb.). BRENNER / STAEHELIN 2000: Abschn. 2.4. (mit Abb. 13-14); 2001:
+116-117 (mit Abb. 3). GÖTTINGER SYMPHONIE ORCHESTER 2001: 59 (2 Abb.). BRENNER
+2012d (mit 2 Abb.); 2012e (mit 4 Abb.); 2013a (mit 2 Abb.). • Parallelstücke: JANATA
+1961: Kat.-Nr. 356 (mit Abb.); 1975: 161, Kat.-Nr. 643 (dort Verweis auf zwei weitere
+Parallelstücke, diese aus der Slg. Tagore). TINTORI 1976: Tav. XXXIX-5. JENKINS /
+ROVSING OLSEN 1976: 21, 27 (Abb.), Kat.-Nr. D2 (laut briefl. Mitteilung vom 22. 8.
+1986 von Miss Margaret Birley nicht im Besitz des Horniman-Museums, jedoch seien
+dort wiederum sehr ähnliche Stücke vorhanden). • Zum Typus: CARTERETTE / VAUGHN
+/ JAIRAZBHOY 1989.</lido:displayObject>
+                  <lido:object>
+                     <lido:objectNote lido:type="description">A r c h i v a l i e n : • Zum Objekt: HICKMANN / MASCHER / WEISS 1980-82: Erf.-
+Nr. 72/1062. BRENNER 1987c. • Zu Vergleichsstücken: Im Inventar MOECK /
+HICKMANN / HICKMANN 1956-58: Korrespondenz mit Angelika Stadelmann 2002/03 (zu
+ihrer Diplomarbeit bei Prof. Andre Gingrich über die Tagore-Sammlung des Wiener
+Völkerkunde-Museums).
+L i t e r a t u r : • Zum Objekt: Hans HICKMANN 1960a: Taf. 14, Abb. 7 und 8.
+BRENNER 1987a: 30-31 (mit Abb.); 1989a: 88-90 (mit 2 Abb.); 2012d (mit 2 Abb.);
+2012e (mit 5 Abb.). BRENNER / STAEHELIN 2000: Abschn. 2.4. (mit Abb. 13-14); 2001:
+116-117 (mit Abb. 3). GÖTTINGER SYMPHONIE ORCHESTER 2001: 59 (2 Abb.). BRENNER
+2012d (mit 2 Abb.); 2012e (mit 4 Abb.); 2013a (mit 2 Abb.). • Parallelstücke: JANATA
+1961: Kat.-Nr. 356 (mit Abb.); 1975: 161, Kat.-Nr. 643 (dort Verweis auf zwei weitere
+Parallelstücke, diese aus der Slg. Tagore). TINTORI 1976: Tav. XXXIX-5. JENKINS /
+ROVSING OLSEN 1976: 21, 27 (Abb.), Kat.-Nr. D2 (laut briefl. Mitteilung vom 22. 8.
+1986 von Miss Margaret Birley nicht im Besitz des Horniman-Museums, jedoch seien
+dort wiederum sehr ähnliche Stücke vorhanden). • Zum Typus: CARTERETTE / VAUGHN
+/ JAIRAZBHOY 1989.</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Literatur in Zusammenhang</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Musikinstrumentensammlung</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="Digitale Sammlung - Kulturerbe Niedersachsen">slg_1029</lido:objectID>
+                     <lido:objectNote lido:type="title">Musikinstrumentensammlung</lido:objectNote>
+                     <lido:objectNote lido:type="description">Die als Lehr- und Forschungssammlung dem Musikwissenschaft-lichen Seminar der Universität Göttingen angegliederte Musikin-strumentensammlung zählt zu den größten in Deutschland. Ihr typologisch, historisch u. kulturgeographisch weitgefächerter Bestand umfasst Musikinstrumente aus aller Welt, insbes. solche Europas, Asiens u. Afrikas einschließlich Altägyptens. Sie dient primär der musikinstrumentenkundlichen Lehre u. Forschung, ist im Rahmen der „Sonntagsspaziergänge“ aber auch öffentlich zugänglich.</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term xml:lang="en">collection</lido:term>
+                  <lido:term>Sammlung</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:recordWrap>
+         <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">676140</lido:recordID>
+         <lido:recordType>
+            <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+            <lido:term>Einzelobjekt</lido:term>
+            <lido:term xml:lang="en">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource>
+            <lido:legalBodyName>
+               <lido:appellationValue>kuniweb</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://kuniweb.gbv.de</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:term>Verwertungsrecht</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-MUS-160112</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Georg-August-Universität Göttingen, Musikinstrumentensammlung des Musikwissenschaftlichen Seminars</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink />
+            </lido:rightsHolder>
+         </lido:recordRights>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://creativecommons.org/publicdomain/zero/1.0/deed.de</lido:conceptID>
+               <lido:term>CC0 1.0 Universell (CC0 1.0)</lido:term>
+               <lido:term xml:lang="en">CC0 1.0 Universal (CC0 1.0)</lido:term>
+            </lido:rightsType>
+         </lido:recordRights>
+         <lido:recordInfoSet lido:type="http://terminology.lido-schema.org/lido00471">
+            <lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/lido00472">2016-07-25T09:45:34+00</lido:recordMetadataDate>
+            <lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/lido00473">2016-12-02T08:45:44+00</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+         <lido:recordInfoSet lido:type="http://terminology.lido-schema.org/lido00470">
+            <lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/lido00472">2016-12-12T12:09:17+01</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="kuniweb">record_kuniweb_676140_media/record_kuniweb_676140_363735.jpg</lido:resourceID>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00481">
+               <lido:linkResource lido:formatResource="image/jpeg">http://sammlungen.uni-goettingen.de/iiif/image/record_kuniweb_676140/record_kuniweb_676140_363735.jpg/full/full/0/default.jpg</lido:linkResource>
+               <lido:resourceMeasurementsSet>
+                  <lido:measurementType xml:lang="en">width</lido:measurementType>
+                  <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                  <lido:measurementValue>2832</lido:measurementValue>
+               </lido:resourceMeasurementsSet>
+               <lido:resourceMeasurementsSet>
+                  <lido:measurementType xml:lang="en">height</lido:measurementType>
+                  <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                  <lido:measurementValue>4256</lido:measurementValue>
+               </lido:resourceMeasurementsSet>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00480">
+               <lido:linkResource lido:formatResource="image/jpeg">http://sammlungen.uni-goettingen.de/iiif/image/record_kuniweb_676140/record_kuniweb_676140_363735.jpg/full/300,/0/default.jpg</lido:linkResource>
+               <lido:resourceMeasurementsSet>
+                  <lido:measurementType xml:lang="en">width</lido:measurementType>
+                  <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                  <lido:measurementValue>300</lido:measurementValue>
+               </lido:resourceMeasurementsSet>
+               <lido:resourceMeasurementsSet>
+                  <lido:measurementType xml:lang="en">height</lido:measurementType>
+                  <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                  <lido:measurementValue>451</lido:measurementValue>
+               </lido:resourceMeasurementsSet>
+            </lido:resourceRepresentation>
+            <lido:resourceDateTaken>
+               <lido:displayDate>6. Dezember 2011</lido:displayDate>
+               <lido:date>
+                  <lido:earliestDate>2011-12-06</lido:earliestDate>
+                  <lido:latestDate>2011-12-06</lido:latestDate>
+               </lido:date>
+            </lido:resourceDateTaken>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:term>Urheberrecht</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stephan Eckardt</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:term>Verwertungsrecht</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-MUS-160112</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Georg-August-Universität Göttingen, Musikinstrumentensammlung des Musikwissenschaftlichen Seminars</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink />
+               </lido:rightsHolder>
+            </lido:rightsResource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://creativecommons.org/licenses/by/3.0/de/</lido:conceptID>
+                  <lido:term>Namensnennung 3.0 Deutschland (CC BY 3.0 DE)</lido:term>
+                  <lido:term xml:lang="en">Attribution 3.0 Germany (CC BY 3.0 DE)</lido:term>
+               </lido:rightsType>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

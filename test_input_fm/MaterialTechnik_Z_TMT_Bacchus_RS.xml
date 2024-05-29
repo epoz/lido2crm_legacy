@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Metadaten:
+Title:		 
+Creator: Regine Stein
+Contributor:	
+Date Created:	
+Date Changed:	
+Is Part Of:  	
+Replaces:		
+References:
+Subject: termMaterialsTech		
+File Name:	
+-->
+<lidoWrap xmlns="http://www.lido-schema.org"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.lido-schema.org ../schema/lido-v1.0.xsd"
+ xmlns:lido="http://www.lido-schema.org">
+  <lido>
+    <lidoRecID lido:type=""></lidoRecID>
+    <category></category><descriptiveMetadata xml:lang="de">
+      <objectClassificationWrap>
+        <objectWorkTypeWrap>
+          <objectWorkType></objectWorkType>
+        </objectWorkTypeWrap>
+      </objectClassificationWrap>
+      <objectIdentificationWrap>
+        <titleWrap>
+          <titleSet>
+            <appellationValue></appellationValue>
+          </titleSet>
+        </titleWrap>
+      </objectIdentificationWrap>
+    
+            <eventWrap>
+<!-- Variante 1 für Material/Technik Angaben: Diese Aufbereitung entspricht der aktuellen Datenquelle von Foto Marburg. -->
+                <eventSet>
+                    <event>
+                        <eventType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+							<lido:term xml:lang="en">Production</lido:term>
+							<lido:term lido:addedSearchTerm="yes">Herstellung</lido:term>
+                        </eventType>
+    
+<eventMaterialsTech>
+ <displayMaterialsTech>Feder in Schwarz auf grau grundiertem Papier; grau laviert; weiß gehöht.</displayMaterialsTech>
+  <lido:materialsTech>
+    <lido:termMaterialsTech lido:type="material">
+      <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300015012</lido:conceptID>
+      <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4185528-0</lido:conceptID>
+      <lido:term xml:lang="en">ink</lido:term>
+      <lido:term xml:lang="de">Tinte</lido:term>
+    </lido:termMaterialsTech>
+    <lido:termMaterialsTech lido:type="material">
+      <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300015018</lido:conceptID>
+      <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4186499-2</lido:conceptID>
+      <lido:term xml:lang="en">India ink</lido:term>
+      <lido:term xml:lang="de">Tusche</lido:term>
+    </lido:termMaterialsTech>
+    <lido:termMaterialsTech lido:type="material">
+      <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4694875-2</lido:conceptID>
+      <lido:term xml:lang="de">Deckfarbe</lido:term>
+    </lido:termMaterialsTech>
+    <lido:termMaterialsTech lido:type="material">
+      <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300013724</lido:conceptID>
+      <lido:term xml:lang="en">opaque white pigment</lido:term>
+      <lido:term xml:lang="de">Deckweiß</lido:term>
+    </lido:termMaterialsTech>
+    <lido:termMaterialsTech lido:type="support">
+      <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300014109</lido:conceptID>
+      <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4044522-7</lido:conceptID>
+      <lido:term xml:lang="en">paper (fiber product)</lido:term>
+      <lido:term xml:lang="de">Papier</lido:term>
+    </lido:termMaterialsTech>
+    <lido:termMaterialsTech lido:type="technique">
+      <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300053400</lido:conceptID>
+      <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4563934-6</lido:conceptID>
+      <lido:term xml:lang="en">priming (coating process)</lido:term>
+      <lido:term xml:lang="de">Grundierung (Technik)</lido:term>
+    </lido:termMaterialsTech>
+    <lido:termMaterialsTech lido:type="technique">
+      <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300182748</lido:conceptID>
+      <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4552376-9</lido:conceptID>
+       <lido:term xml:lang="en">wash technique</lido:term>
+       <lido:term xml:lang="de">Lavierung</lido:term>
+    </lido:termMaterialsTech>
+    <lido:termMaterialsTech lido:type="implement">
+      <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300022452</lido:conceptID>
+      <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4348438-4</lido:conceptID>
+      <lido:term xml:lang="en">pen [oder "qill pen"?]</lido:term>
+      <lido:term xml:lang="de">Schreibfeder</lido:term>
+    </lido:termMaterialsTech>
+    <lido:termMaterialsTech lido:type="implement">
+      <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300022552</lido:conceptID>
+      <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4289278-8</lido:conceptID>
+      <lido:term xml:lang="en">artist's brush</lido:term>
+      <lido:term xml:lang="de">Pinsel</lido:term>
+    </lido:termMaterialsTech>
+  </lido:materialsTech>
+</eventMaterialsTech>
+
+                    </event>
+                </eventSet>
+
+<!-- Variante 2 für Material/Technik Angaben: Diese Aufbereitung wäre m.E. zu wählen, wenn die Gruppierung entsprechend aus der Datenquelle hervorgeht -->
+                <eventSet>
+                    <event>
+                        <eventType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+							<lido:term xml:lang="en">Production</lido:term>
+							<lido:term lido:addedSearchTerm="yes">Herstellung</lido:term>
+                        </eventType>
+    
+<!-- Feder in Schwarz auf grau grundiertem Papier -->
+<eventMaterialsTech>
+ <displayMaterialsTech>Feder in Schwarz auf grau grundiertem Papier</displayMaterialsTech>
+  <lido:materialsTech>
+    <lido:termMaterialsTech lido:type="medium">
+      <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300015012</lido:conceptID>
+      <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4185528-0</lido:conceptID>
+      <lido:term xml:lang="en">ink</lido:term>
+      <lido:term xml:lang="de">Tinte</lido:term>
+    </lido:termMaterialsTech>
+    <lido:termMaterialsTech lido:type="medium">
+      <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300015018</lido:conceptID>
+      <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4186499-2</lido:conceptID>
+      <lido:term xml:lang="en">India ink</lido:term>
+      <lido:term xml:lang="de">Tusche</lido:term>
+    </lido:termMaterialsTech>
+    <lido:termMaterialsTech lido:type="support">
+      <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300014109</lido:conceptID>
+      <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4044522-7</lido:conceptID>
+      <lido:term xml:lang="en">paper (fiber product)</lido:term>
+      <lido:term xml:lang="de">Papier</lido:term>
+    </lido:termMaterialsTech>
+    <lido:termMaterialsTech lido:type="technique">
+      <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300053400</lido:conceptID>
+      <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4563934-6</lido:conceptID>
+      <lido:term xml:lang="en">priming (coating process)</lido:term>
+      <lido:term xml:lang="de">Grundierung (Technik)</lido:term>
+    </lido:termMaterialsTech>
+    <lido:termMaterialsTech lido:type="implement">
+      <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300022452</lido:conceptID>
+      <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4348438-4</lido:conceptID>
+      <lido:term xml:lang="en">pen [oder "qill pen"?]</lido:term>
+      <lido:term xml:lang="de">Schreibfeder</lido:term>
+    </lido:termMaterialsTech>
+    <lido:termMaterialsTech lido:type="implement">
+      <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300022552</lido:conceptID>
+      <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4289278-8</lido:conceptID>
+      <lido:term xml:lang="en">artist's brush</lido:term>
+      <lido:term xml:lang="de">Pinsel</lido:term>
+    </lido:termMaterialsTech>
+  </lido:materialsTech>
+</eventMaterialsTech>
+
+<!-- grau laviert -->
+<eventMaterialsTech>
+ <displayMaterialsTech>grau laviert</displayMaterialsTech>
+  <lido:materialsTech>
+    <lido:termMaterialsTech lido:type="technique">
+      <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300182748</lido:conceptID>
+      <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4552376-9</lido:conceptID>
+       <lido:term xml:lang="en">wash technique</lido:term>
+       <lido:term xml:lang="de">Lavierung</lido:term>
+    </lido:termMaterialsTech>
+  </lido:materialsTech>
+</eventMaterialsTech>
+
+<!-- weiß gehöht -->
+<eventMaterialsTech>
+ <displayMaterialsTech>weiß gehöht</displayMaterialsTech>
+  <lido:materialsTech>
+    <lido:termMaterialsTech lido:type="material">
+      <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4694875-2</lido:conceptID>
+      <lido:term xml:lang="de">Deckfarbe</lido:term>
+    </lido:termMaterialsTech>
+    <lido:termMaterialsTech lido:type="material">
+      <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300013724</lido:conceptID>
+      <lido:term xml:lang="en">opaque white pigment</lido:term>
+      <lido:term xml:lang="de">Deckweiß</lido:term>
+    </lido:termMaterialsTech>
+  </lido:materialsTech>
+</eventMaterialsTech>
+
+                  </event>
+                </eventSet>
+
+    </eventWrap>
+
+    </descriptiveMetadata>
+    <administrativeMetadata xml:lang="de">
+      <recordWrap>
+        <recordID lido:type=""></recordID>
+        <recordType></recordType>
+        <recordSource></recordSource>
+      </recordWrap>
+    </administrativeMetadata>
+  </lido>
+</lidoWrap>

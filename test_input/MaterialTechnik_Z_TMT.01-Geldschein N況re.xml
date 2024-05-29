@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+  <!-- Dieses Objekt ist Teil einer Serie/eines Sets -->
+    <lido:lidoRecID lido:type="local">record_DE-68_kenom_126134</lido:lidoRecID>
+    <lido:objectPublishedID lido:type="URI">http://www.kenom.de/id/record_DE-68_kenom_126134</lido:objectPublishedID>
+    <lido:objectPublishedID lido:type="handle">http://hdl.handle.net/428894.vzg/4bdef65a-55c9-40d9-94a7-ebaaca1e8d3b</lido:objectPublishedID>
+    <lido:category>
+        <lido:conceptID lido:type="URI">http://www.cidoc-crm.org/crm-concepts/E22</lido:conceptID>
+        <lido:term xml:lang="en">Man-Made Object</lido:term>
+    </lido:category>
+    <lido:descriptiveMetadata xml:lang="de">
+        <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+              <!-- oder Papiergeld aus der GND? -->
+                <lido:objectWorkType type="form">
+                    <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4004469-5</lido:conceptID>
+                    <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300191324</lido:conceptID>
+                    <lido:conceptID lido:type="URI">http://nomisma.org/id/paper_money</lido:conceptID>
+                    <lido:term lido:pref="preferred" xml:lang="de">Banknote</lido:term>
+                    <lido:term lido:pref="preferred" xml:lang="en">paper money</lido:term>
+                    <lido:term lido:pref="alternative" xml:lang="de">Geldschein</lido:term>
+                    <lido:term lido:pref="alternative" xml:lang="de">Banknoten</lido:term>
+                    <lido:term lido:pref="alternative" xml:lang="en">banknotes</lido:term>
+                    <lido:term lido:pref="local" xml:lang="de" lido:addedSearchTerm="yes">Geldschein / Notgeld</lido:term>
+                    <lido:term lido:pref="broader" xml:lang="de">Geldzeichen</lido:term>
+                    <lido:term lido:pref="broader" xml:lang="de">Papiergeld</lido:term>
+                    <lido:term lido:pref="broader" xml:lang="en">money</lido:term>
+                </lido:objectWorkType>
+                <lido:objectWorkType type="function">
+                    <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4173214-5</lido:conceptID>
+                    <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300193656</lido:conceptID>
+                    <lido:term lido:pref="preferred" xml:lang="de">Papiernotgeld</lido:term>
+                    <lido:term lido:pref="preferred" xml:lang="en">emergency currency</lido:term>
+                    <lido:term lido:pref="broader" xml:lang="de">Notgeld</lido:term>
+                    <lido:term lido:pref="broader" xml:lang="en">money</lido:term>
+                </lido:objectWorkType>
+                <lido:objectWorkType type="denomination name">
+                    <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4174023-3</lido:conceptID>
+                    <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300196014</lido:conceptID>
+                    <lido:term lido:pref="preferred" xml:lang="de">Pfennig</lido:term>
+                    <lido:term lido:pref="preferred" xml:lang="en">pfennigs</lido:term>
+                    <lido:term lido:pref="local" xml:lang="de" lido:addedSearchTerm="yes">Pfennigschein</lido:term>
+                    <lido:term lido:pref="broader" xml:lang="de">Münze</lido:term>
+                    <lido:term lido:pref="broader" xml:lang="en">coins</lido:term>
+                </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+            <lido:classificationWrap> https://www.wikidata.org/wiki/Q560355 Mark (1871)
+         <!--  <lido:classification lido:type="nominal">
+                    <lido:term>75 Pfennig </lido:term>
+                </lido:classification>
+                <lido:classification lido:type="standard of alloy">
+                    <lido:term>Mark</lido:term>
+                </lido:classification>
+                <lido:classification lido:type="authenticity">
+                    <lido:term>Original</lido:term>
+                </lido:classification> -->
+            </lido:classificationWrap>
+        </lido:objectClassificationWrap>
+        <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+                <lido:titleSet lido:type="generated_short" lido:sortorder="1">
+                    <lido:appellationValue>Geldschein / Notgeld, 75 Pfennig , 12.1921</lido:appellationValue>
+                </lido:titleSet>
+                <lido:titleSet lido:type="generated_long" lido:sortorder="3">
+                    <lido:appellationValue>Geldschein / Notgeld
+    Bilsen
+    Gemeinde Bilsen
+    75 Pfennig , 12.1921</lido:appellationValue>
+                </lido:titleSet>
+                <lido:titleSet lido:type="generated_kenom" lido:sortorder="4">
+                    <lido:appellationValue>75 Pfennig , 12.1921</lido:appellationValue>
+                </lido:titleSet>
+            </lido:titleWrap>
+            <lido:inscriptionsWrap>
+                <lido:inscriptions lido:type="front">
+                    <lido:inscriptionTranscription>Faksimile-Unterschriften: "i.A. Si[...]" (Finanzausschuss); "[...] Hackmann" (Amtsvorsteher).</lido:inscriptionTranscription>
+                </lido:inscriptions>
+                <lido:inscriptions lido:type="back">
+                    <lido:inscriptionTranscription>"Ein Sträußchen am Hute, / Den Stab in der Hand, / Zieht einsam ein Wandrer von Lande zu Land".</lido:inscriptionTranscription>
+                    <lido:inscriptionDescription>
+                        <lido:descriptiveNoteValue>Im Rechteck: links stehender und Ausschau haltender Wanderer mit Wanderstock nach rechts auf einem Hügel; im Hintergrund Allee, dahinter Silhouette eines Dorfes mit Kirchturm.</lido:descriptiveNoteValue>
+                    </lido:inscriptionDescription>
+                </lido:inscriptions>
+                <lido:inscriptions lido:type="control number">
+                    <lido:inscriptionTranscription>1611</lido:inscriptionTranscription>
+                </lido:inscriptions>
+            </lido:inscriptionsWrap>
+            <lido:repositoryWrap>
+                <lido:repositorySet lido:type="current">
+                    <lido:repositoryName>
+                        <lido:legalBodyID lido:type="URI">http://ld.zdb-services.de/resource/organisations/DE-68</lido:legalBodyID>
+                        <lido:legalBodyName>
+                            <lido:appellationValue>Schleswig-Holsteinische Landesbibliothek</lido:appellationValue>
+                        </lido:legalBodyName>
+                        <lido:legalBodyWeblink>http://www.shlb.de/</lido:legalBodyWeblink>
+                    </lido:repositoryName>
+                    <lido:workID>Rasmussen 8020</lido:workID>
+                </lido:repositorySet>
+            </lido:repositoryWrap>
+            <lido:objectDescriptionWrap>
+                <lido:objectDescriptionSet lido:type="annotation">
+                    <lido:descriptiveNoteValue>Notgeldperiode: Kleingeldscheine 1916-19122 / Serienscheine.
+        Die sogenannten "Serienscheine" der Kleingeldperiode waren im Gegensatz der früheren Notgeldausgaben zur echten Beseitigung von 
+        Kleingeldmangel nur noch für Sammler bestimmt. Die meisten dieser bunten, mit viel Lokalkolorit versehenen Kleingeldscheine kamen nie in den Umlauf. 
+        Das Reichsgesetz vom 17. Juli 1922 stoppte mit einem Verbot den Druck dieser Notgeldausgaben.
+        Rückseite: Auszug aus dem Wanderlied "Ein Sträußchen am Hute, den Stab in der Hand" nach der Komposition "Ein Reislein am Hute" (1825) von 
+        Conrad Rotter http://d-nb.info/gnd/142574473 ; 1935 erstmals veröffentlicht von Friedrich Silcher http://d-nb.info/gnd/118614339. </lido:descriptiveNoteValue>
+                </lido:objectDescriptionSet>
+            </lido:objectDescriptionWrap>
+            <lido:objectMeasurementsWrap>
+                <lido:objectMeasurementsSet>
+                    <lido:displayObjectMeasurements>Höhe: 70 mm; Breite: 100 mm</lido:displayObjectMeasurements>
+                    <lido:objectMeasurements>
+                        <lido:measurementsSet>
+                            <lido:measurementType xml:lang="en">height</lido:measurementType>
+                            <lido:measurementType>Höhe</lido:measurementType>
+                            <lido:measurementUnit>mm</lido:measurementUnit>
+                            <lido:measurementValue>70</lido:measurementValue>
+                        </lido:measurementsSet>
+                        <lido:measurementsSet>
+                            <lido:measurementType xml:lang="en">width</lido:measurementType>
+                            <lido:measurementType>Breite</lido:measurementType>
+                            <lido:measurementUnit>mm</lido:measurementUnit>
+                            <lido:measurementValue>100</lido:measurementValue>
+                        </lido:measurementsSet>
+                    </lido:objectMeasurements>
+                </lido:objectMeasurementsSet>
+            </lido:objectMeasurementsWrap>
+        </lido:objectIdentificationWrap>
+        <lido:eventWrap>
+            <lido:eventSet>
+                <lido:event>
+                    <lido:eventType>
+                        <lido:conceptID lido:type="URI">http://terminology.lido-schema.org/lido00001</lido:conceptID>
+                        <lido:term xml:lang="en">Acquisition</lido:term>
+                        <lido:term>Erwerbung</lido:term>
+                    </lido:eventType>
+                    <lido:eventDate>
+                        <lido:displayDate>August 2005</lido:displayDate>
+                    </lido:eventDate>
+                </lido:event>
+            </lido:eventSet>
+            <lido:eventSet>
+                <lido:event>
+                    <lido:eventType>
+                        <lido:conceptID lido:type="URI">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                        <lido:term xml:lang="en">Production</lido:term>
+                        <lido:term>Herstellung</lido:term>
+                    </lido:eventType>
+                    <lido:eventActor>
+                        <lido:displayActorInRole>Konrad Hanf (Drucker)</lido:displayActorInRole>
+                        <lido:actorInRole>
+                            <lido:actor lido:type="corporate">
+                                <lido:nameActorSet>
+                                    <lido:appellationValue>Konrad Hanf https://www.wikidata.org/wiki/Q18957743</lido:appellationValue>
+                                </lido:nameActorSet>
+                            </lido:actor>
+                            <lido:roleActor>
+                              <!-- War Hanf Drucker oder Verleger? -->
+                                <lido:conceptID lido:type="URI">http://id.loc.gov/vocabulary/relators/prt</lido:conceptID>
+                                <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4013091-5</lido:conceptID>
+                                <lido:term>Drucker</lido:term>
+                            </lido:roleActor>
+                        </lido:actorInRole>
+                    </lido:eventActor>
+                    <lido:eventDate>
+                        <lido:displayDate>12.1921</lido:displayDate>
+                        <lido:date>
+                            <lido:earliestDate>1921-12-01</lido:earliestDate>
+                            <lido:latestDate>1921-12-31</lido:latestDate>
+                        </lido:date>
+                    </lido:eventDate>
+                    <lido:eventPlace>
+                        <lido:displayPlace>Bilsen</lido:displayPlace>
+                        <lido:place lido:politicalEntity="minting_authority_country_place">
+                            <lido:namePlaceSet>
+                                <lido:appellationValue>Bilsen</lido:appellationValue>
+                            </lido:namePlaceSet>
+                        </lido:place>
+                    </lido:eventPlace>
+                    <lido:eventPlace>
+                        <lido:displayPlace>Deutsches Reich, preußische Provinz Schleswig-Holstein, Kreis Pinneberg</lido:displayPlace>
+                        <lido:place lido:politicalEntity="region_dynasty">
+                            <lido:namePlaceSet>
+                                <lido:appellationValue>Deutsches Reich, preußische Provinz Schleswig-Holstein, Kreis Pinneberg</lido:appellationValue>
+                            </lido:namePlaceSet>
+                        </lido:place>
+                    </lido:eventPlace>
+                    <lido:eventPlace>
+                        <lido:displayPlace>Bilsen</lido:displayPlace>
+                        <lido:place lido:geographicalEntity="country_place">
+                            <lido:placeID lido:type="URI">http://www.geonames.org/2948902</lido:placeID>
+                            <lido:namePlaceSet>
+                                <lido:appellationValue>Bilsen</lido:appellationValue>
+                            </lido:namePlaceSet>
+                        </lido:place>
+                    </lido:eventPlace>
+                    <lido:eventMaterialsTech>
+                      <!-- termMaterialsTech@type Term "Eigenschaft" (http://vocab.getty.edu/aat/300123559) zu diskutieren -->
+                        <lido:displayMaterialsTech>Papier, glänzend</lido:displayMaterialsTech>
+                        <lido:materialsTech>
+                            <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                                <lido:term>Papier</lido:term>
+                            </lido:termMaterialsTech>
+                            <lido:termMaterialsTech>
+                                <lido:term>glänzend</lido:term>
+                            </lido:termMaterialsTech>
+                        </lido:materialsTech>
+                    </lido:eventMaterialsTech>
+                    <lido:eventMaterialsTech>
+                        <lido:displayMaterialsTech>Buchdruck, farbig</lido:displayMaterialsTech>
+                        <lido:materialsTech>
+                            <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                                <lido:term>Buchdruck</lido:term>
+                            </lido:termMaterialsTech>
+                            <lido:termMaterialsTech>
+                                <lido:term>farbig</lido:term>
+                            </lido:termMaterialsTech>
+                        </lido:materialsTech>
+                    </lido:eventMaterialsTech>
+                </lido:event>
+            </lido:eventSet>
+            <lido:eventSet>
+                <lido:event>
+                    <lido:eventType>
+                        <lido:conceptID lido:type="URI">http://terminology.lido-schema.org/lido00228</lido:conceptID>
+                        <lido:term xml:lang="en">Publication</lido:term>
+                        <lido:term>Veröffentlichung</lido:term>
+                    </lido:eventType>
+                    <lido:eventActor>
+                        <lido:displayActorInRole>Gemeinde Bilsen (Herausgeber)</lido:displayActorInRole>
+                        <lido:actorInRole>
+                            <lido:actor lido:type="corporate">
+                                <lido:nameActorSet>
+                                    <lido:appellationValue>Gemeinde Bilsen</lido:appellationValue>
+                                </lido:nameActorSet>
+                            </lido:actor>
+                            <lido:roleActor>
+                                <lido:conceptID lido:type="URI">http://id.loc.gov/vocabulary/relators/edt</lido:conceptID>
+                                <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4159575-0</lido:conceptID>
+                                <lido:term>Herausgeber</lido:term>
+                            </lido:roleActor>
+                        </lido:actorInRole>
+                    </lido:eventActor>
+                </lido:event>
+            </lido:eventSet>
+            <lido:eventSet>
+                <lido:event>
+                    <lido:eventType>
+                        <lido:conceptID lido:type="URI">http://terminology.lido-schema.org/lido00011</lido:conceptID>
+                        <lido:term xml:lang="en">Use</lido:term>
+                        <lido:term>Gebrauch</lido:term>
+                    </lido:eventType>
+                    <lido:eventDate>
+                        <lido:displayDate>-31.12.1921</lido:displayDate>
+                        <lido:date>
+                            <lido:earliestDate>1921-12-31</lido:earliestDate>
+                            <lido:latestDate>1921-12-31</lido:latestDate>
+                        </lido:date>
+                    </lido:eventDate>
+                </lido:event>
+            </lido:eventSet>
+        </lido:eventWrap>
+        <lido:objectRelationWrap>
+            <lido:subjectWrap>
+                <lido:subjectSet>
+                    <lido:displaySubject>Allee</lido:displaySubject>
+                    <lido:subject>
+                        <lido:subjectConcept>
+                            <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4179642-1</lido:conceptID>
+                            <lido:term>Allee</lido:term>
+                        </lido:subjectConcept>
+                    </lido:subject>
+                </lido:subjectSet>
+                <lido:subjectSet>
+                    <lido:displaySubject>Dorf</lido:displaySubject>
+                    <lido:subject>
+                        <lido:subjectConcept>
+                            <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4012775-8</lido:conceptID>
+                            <lido:term>Dorf</lido:term>
+                            <lido:term lido:addedSearchTerm="yes">Bäuerliche Gemeinde</lido:term>
+                            <lido:term lido:addedSearchTerm="yes">Ländliche Gemeinde</lido:term>
+                            <lido:term lido:addedSearchTerm="yes">Dörfer</lido:term>
+                        </lido:subjectConcept>
+                    </lido:subject>
+                </lido:subjectSet>
+                <lido:subjectSet>
+                    <lido:displaySubject>Wanderstock</lido:displaySubject>
+                    <lido:subject>
+                        <lido:subjectConcept>
+                            <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4189074-7</lido:conceptID>
+                            <lido:term>Wanderstock</lido:term>
+                        </lido:subjectConcept>
+                    </lido:subject>
+                </lido:subjectSet>
+                <lido:subjectSet>
+                    <lido:displaySubject>Wanderer</lido:displaySubject>
+                    <lido:subject>
+                        <lido:subjectConcept>
+                            <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4189059-0</lido:conceptID>
+                            <lido:term>Wanderer</lido:term>
+                        </lido:subjectConcept>
+                    </lido:subject>
+                </lido:subjectSet>
+                <lido:subjectSet>
+                    <lido:displaySubject>Gutschein</lido:displaySubject>
+                    <lido:subject>
+                        <lido:subjectConcept>
+                            <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4303013-0</lido:conceptID>
+                            <lido:term>Gutschein</lido:term>
+                        </lido:subjectConcept>
+                    </lido:subject>
+                </lido:subjectSet>
+                <lido:subjectSet>
+                    <lido:displaySubject>Weltkrieg</lido:displaySubject>
+                    <lido:subject>
+                        <lido:subjectConcept>
+                            <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4079167-1</lido:conceptID>
+                            <lido:term>Weltkrieg</lido:term>
+                            <lido:term lido:addedSearchTerm="yes">Zweiter Weltkrieg</lido:term>
+                        </lido:subjectConcept>
+                    </lido:subject>
+                </lido:subjectSet>
+                <lido:subjectSet>
+                    <lido:displaySubject>Mangel</lido:displaySubject>
+                    <lido:subject>
+                        <lido:subjectConcept>
+                            <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4168823-5</lido:conceptID>
+                            <lido:term>Mangel</lido:term>
+                            <lido:term lido:addedSearchTerm="yes">Defizit &lt;Mangel&gt;</lido:term>
+                        </lido:subjectConcept>
+                    </lido:subject>
+                </lido:subjectSet>
+                <lido:subjectSet>
+                    <lido:displaySubject>Zahlungsverkehr</lido:displaySubject>
+                    <lido:subject>
+                        <lido:subjectConcept>
+                            <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4067287-6</lido:conceptID>
+                            <lido:term>Zahlungsverkehr</lido:term>
+                        </lido:subjectConcept>
+                    </lido:subject>
+                </lido:subjectSet>
+                <lido:subjectSet>
+                    <lido:displaySubject>Notgeld</lido:displaySubject>
+                    <lido:subject>
+                        <lido:subjectConcept>
+                            <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4042678-6</lido:conceptID>
+                            <lido:term>Notgeld</lido:term>
+                            <lido:term lido:addedSearchTerm="yes">Geldersatzmarke</lido:term>
+                            <lido:term lido:addedSearchTerm="yes">Notmünze</lido:term>
+                            <lido:term lido:addedSearchTerm="yes">Ersatzgeld</lido:term>
+                        </lido:subjectConcept>
+                    </lido:subject>
+                </lido:subjectSet>
+            </lido:subjectWrap>
+            <lido:relatedWorksWrap>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectWebResource>http://www.kenom.de/id/record_DE-68_kenom_126136</lido:objectWebResource>
+                            <lido:objectID lido:type="local">record_DE-68_kenom_126136</lido:objectID>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:term>Beziehung zu einem anderen Objekt</lido:term>
+                        <lido:term xml:lang="en">Related object</lido:term>
+                    </lido:relatedWorkRelType>
+                </lido:relatedWorkSet>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectWebResource>http://www.kenom.de/id/record_DE-68_kenom_126114</lido:objectWebResource>
+                            <lido:objectID lido:type="local">record_DE-68_kenom_126114</lido:objectID>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:term>Beziehung zu einem anderen Objekt</lido:term>
+                        <lido:term xml:lang="en">Related object</lido:term>
+                    </lido:relatedWorkRelType>
+                </lido:relatedWorkSet>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectWebResource>http://www.kenom.de/id/record_DE-68_kenom_126116</lido:objectWebResource>
+                            <lido:objectID lido:type="local">record_DE-68_kenom_126116</lido:objectID>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:term>Beziehung zu einem anderen Objekt</lido:term>
+                        <lido:term xml:lang="en">Related object</lido:term>
+                    </lido:relatedWorkRelType>
+                </lido:relatedWorkSet>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectWebResource>http://www.kenom.de/id/record_DE-68_kenom_126118</lido:objectWebResource>
+                            <lido:objectID lido:type="local">record_DE-68_kenom_126118</lido:objectID>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:term>Beziehung zu einem anderen Objekt</lido:term>
+                        <lido:term xml:lang="en">Related object</lido:term>
+                    </lido:relatedWorkRelType>
+                </lido:relatedWorkSet>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectWebResource>http://www.kenom.de/id/record_DE-68_kenom_126120</lido:objectWebResource>
+                            <lido:objectID lido:type="local">record_DE-68_kenom_126120</lido:objectID>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:term>Beziehung zu einem anderen Objekt</lido:term>
+                        <lido:term xml:lang="en">Related object</lido:term>
+                    </lido:relatedWorkRelType>
+                </lido:relatedWorkSet>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectWebResource>http://www.kenom.de/id/record_DE-68_kenom_126132</lido:objectWebResource>
+                            <lido:objectID lido:type="local">record_DE-68_kenom_126132</lido:objectID>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:term>Beziehung zu einem anderen Objekt</lido:term>
+                        <lido:term xml:lang="en">Related object</lido:term>
+                    </lido:relatedWorkRelType>
+                </lido:relatedWorkSet>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectWebResource>http://www.kenom.de/id/record_DE-68_kenom_126122</lido:objectWebResource>
+                            <lido:objectID lido:type="local">record_DE-68_kenom_126122</lido:objectID>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:term>Beziehung zu einem anderen Objekt</lido:term>
+                        <lido:term xml:lang="en">Related object</lido:term>
+                    </lido:relatedWorkRelType>
+                </lido:relatedWorkSet>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectWebResource>http://www.kenom.de/id/record_DE-68_kenom_126124</lido:objectWebResource>
+                            <lido:objectID lido:type="local">record_DE-68_kenom_126124</lido:objectID>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:term>Beziehung zu einem anderen Objekt</lido:term>
+                        <lido:term xml:lang="en">Related object</lido:term>
+                    </lido:relatedWorkRelType>
+                </lido:relatedWorkSet>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectWebResource>http://www.kenom.de/id/record_DE-68_kenom_126128</lido:objectWebResource>
+                            <lido:objectID lido:type="local">record_DE-68_kenom_126128</lido:objectID>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:term>Beziehung zu einem anderen Objekt</lido:term>
+                        <lido:term xml:lang="en">Related object</lido:term>
+                    </lido:relatedWorkRelType>
+                </lido:relatedWorkSet>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectWebResource>http://www.kenom.de/id/record_DE-68_kenom_126130</lido:objectWebResource>
+                            <lido:objectID lido:type="local">record_DE-68_kenom_126130</lido:objectID>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:term>Beziehung zu einem anderen Objekt</lido:term>
+                        <lido:term xml:lang="en">Related object</lido:term>
+                    </lido:relatedWorkRelType>
+                </lido:relatedWorkSet>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectNote>Gädtgens: Der Kreis Pinneberg, ein eifriger Notgeldproduzent 1921/22, in: Jahrbuch für den Kreis Pinneberg (1992), S. 13-18.</lido:objectNote>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:term>Literatur zum Typ</lido:term>
+                    </lido:relatedWorkRelType>
+                </lido:relatedWorkSet>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectNote>Keller: Das deutsche Notgeld. Kleingeldscheine 1916-1922, IV: Serienscheine (1975), S. 22 (Katalognr.: 77).</lido:objectNote>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:term>Standardzitierwerk</lido:term>
+                    </lido:relatedWorkRelType>
+                </lido:relatedWorkSet>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectNote>Sammlung Dr. Rasmussen</lido:objectNote>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:term xml:lang="en">Collection</lido:term>
+                        <lido:term>Sammlung</lido:term>
+                    </lido:relatedWorkRelType>
+                </lido:relatedWorkSet>
+            </lido:relatedWorksWrap>
+        </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+        <lido:rightsWorkWrap>
+            <lido:rightsWorkSet>
+                <lido:rightsHolder>
+                    <lido:legalBodyID lido:type="URI">http://ld.zdb-services.de/resource/organisations/DE-68</lido:legalBodyID>
+                    <lido:legalBodyName>
+                        <lido:appellationValue>Schleswig-Holsteinische Landesbibliothek</lido:appellationValue>
+                    </lido:legalBodyName>
+                    <lido:legalBodyWeblink>http://www.shlb.de/</lido:legalBodyWeblink>
+                </lido:rightsHolder>
+            </lido:rightsWorkSet>
+        </lido:rightsWorkWrap>
+        <lido:recordWrap>
+            <lido:recordID lido:type="local">126134</lido:recordID>
+            <lido:recordType>
+                <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4019715-3</lido:conceptID>
+                <lido:term xml:lang="en">item</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+                <lido:legalBodyName>
+                    <lido:appellationValue>kenom</lido:appellationValue>
+                </lido:legalBodyName>
+                <lido:legalBodyWeblink>http://kenom.gbv.de</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+                <lido:rightsHolder>
+                    <lido:legalBodyID lido:type="URI">http://ld.zdb-services.de/resource/organisations/DE-68</lido:legalBodyID>
+                    <lido:legalBodyName>
+                        <lido:appellationValue>Schleswig-Holsteinische Landesbibliothek</lido:appellationValue>
+                    </lido:legalBodyName>
+                    <lido:legalBodyWeblink>http://www.shlb.de/</lido:legalBodyWeblink>
+                </lido:rightsHolder>
+            </lido:recordRights>
+            <lido:recordInfoSet>
+                <lido:recordMetadataDate lido:type="created">2014-04-25T13:50:29</lido:recordMetadataDate>
+                <lido:recordMetadataDate lido:type="last_modified">2015-04-26T15:35:32</lido:recordMetadataDate>
+            </lido:recordInfoSet>
+        </lido:recordWrap>
+        <lido:resourceWrap>
+            <lido:resourceSet lido:sortorder="1">
+                <lido:resourceID lido:type="local">record_DE-68_kenom_126134_media/record_DE-68_kenom_126134_vs.jpg</lido:resourceID>
+                <lido:resourceType>
+                    <lido:term xml:lang="en">digital image</lido:term>
+                </lido:resourceType>
+                <lido:resourcePerspective>
+                    <lido:conceptID lido:type="URI">http://d-nb.info/gnd/7707654-0</lido:conceptID>
+                    <lido:term xml:lang="en">front</lido:term>
+                </lido:resourcePerspective>
+                <lido:rightsResource>
+                    <lido:rightsType>
+                        <lido:term xml:lang="en">copyright</lido:term>
+                    </lido:rightsType>
+                    <lido:rightsHolder>
+                        <lido:legalBodyName>
+                            <lido:appellationValue>Sönke Ehlert, Schleswig-Holsteinische Landesbibliothek Kiel</lido:appellationValue>
+                        </lido:legalBodyName>
+                    </lido:rightsHolder>
+                </lido:rightsResource>
+                <lido:rightsResource>
+                    <lido:rightsType>
+                        <lido:term xml:lang="en">publication right</lido:term>
+                    </lido:rightsType>
+                    <lido:rightsHolder>
+                        <lido:legalBodyID lido:type="URI">http://ld.zdb-services.de/resource/organisations/DE-68</lido:legalBodyID>
+                        <lido:legalBodyName>
+                            <lido:appellationValue>Schleswig-Holsteinische Landesbibliothek</lido:appellationValue>
+                        </lido:legalBodyName>
+                        <lido:legalBodyWeblink>http://www.shlb.de/</lido:legalBodyWeblink>
+                    </lido:rightsHolder>
+                </lido:rightsResource>
+            </lido:resourceSet>
+            <lido:resourceSet lido:sortorder="2">
+                <lido:resourceID lido:type="local">record_DE-68_kenom_126134_media/record_DE-68_kenom_126134_rs.jpg</lido:resourceID>
+                <lido:resourceType>
+                    <lido:term xml:lang="en">digital image</lido:term>
+                </lido:resourceType>
+                <lido:resourcePerspective>
+                    <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4468345-5</lido:conceptID>
+                    <lido:term xml:lang="en">back</lido:term>
+                </lido:resourcePerspective>
+                <lido:rightsResource>
+                    <lido:rightsType>
+                        <lido:term xml:lang="en">copyright</lido:term>
+                    </lido:rightsType>
+                    <lido:rightsHolder>
+                        <lido:legalBodyName>
+                            <lido:appellationValue>Sönke Ehlert, Schleswig-Holsteinische Landesbibliothek Kiel</lido:appellationValue>
+                        </lido:legalBodyName>
+                    </lido:rightsHolder>
+                </lido:rightsResource>
+                <lido:rightsResource>
+                    <lido:rightsType>
+                        <lido:term xml:lang="en">publication right</lido:term>
+                    </lido:rightsType>
+                    <lido:rightsHolder>
+                        <lido:legalBodyID lido:type="URI">http://ld.zdb-services.de/resource/organisations/DE-68</lido:legalBodyID>
+                        <lido:legalBodyName>
+                            <lido:appellationValue>Schleswig-Holsteinische Landesbibliothek</lido:appellationValue>
+                        </lido:legalBodyName>
+                        <lido:legalBodyWeblink>http://www.shlb.de/</lido:legalBodyWeblink>
+                    </lido:rightsHolder>
+                </lido:rightsResource>
+            </lido:resourceSet>
+        </lido:resourceWrap>
+    </lido:administrativeMetadata>
+</lido:lido>

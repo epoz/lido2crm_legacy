@@ -1,0 +1,286 @@
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns:schemaLocation="http://schemas.opengis.net/gml/3.1.1/base/feature.xsd" xmlns:xalan="http://xml.apache.org/xalan" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:source="http://www.museum-digital.de/westfalen" lido:type="local">DE-MUS-100412/588</lido:lidoRecID>
+    <!-- https://www.deutsche-digitale-bibliothek.de/item/X2XVGQCD4YWRPOSQB6VKZT6ESD3PHBZN -->
+    <lido:category />
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType>
+            <lido:term xml:lang="de">Fossil</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification>
+            <lido:conceptID lido:source="local" lido:type="collection_id">51</lido:conceptID>
+            <lido:term xml:lang="de" lido:addedSearchTerm="no">Fossilien Europas</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred">Schnecke Ampullina</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="isil">DE-MUS-100412</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Geomuseum der WWU Münster</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>http://www.uni-muenster.de/Geomuseum</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="inventory number">o. Nr.</lido:workID>
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Münster</lido:appellationValue>
+              </lido:namePlaceSet>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteValue>Die Schnecke Ampullina (Ampullinopsis) crassatina (LAMARCK) lebte räuberisch in Flachwasserbereichen kalkreicher Ozeane. Sie gehört zur Famiie der Mondschnecken, die als Räuber andere Weichtiere im Meeresboden aufspüren, anbohren und aussaugen.&lt;br&gt;
+&lt;br&gt;
+Alter: ca. 28 Mio. Jahre, Chattium, ob. Oligozän&lt;br&gt;
+Fundort: Gaas, Dept. Landes/ Frankreich</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote>Geomuseum der WWU Münster</lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:displayObjectMeasurements>ca. 8 x 6 x 6 cm</lido:displayObjectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventID lido:type="local">1057</lido:eventID>
+            <lido:eventType>
+              <lido:term lido:addedSearchTerm="no">Gefunden</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue>Gefunden --- Objekt 588</lido:appellationValue>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:displayActorInRole>Arnold Müller (1949-)</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:actorID lido:source="gnd" lido:type="local">124004911</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Müller, Arnold</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate>1949</lido:earliestDate>
+                    <lido:latestDate />
+                  </lido:vitalDatesActor>
+                </lido:actor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:displayDate>1990er Jahre</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1991</lido:earliestDate>
+                <lido:latestDate>1999</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventPlace>
+              <lido:displayPlace>Gaas (Landes)</lido:displayPlace>
+              <lido:place>
+                <lido:placeID lido:type="local" lido:source="geonames">3016875</lido:placeID>
+                <lido:placeID lido:type="local" lido:source="gnd">1050297954</lido:placeID>
+                <lido:namePlaceSet>
+                  <lido:appellationValue>Gaas (Landes)</lido:appellationValue>
+                </lido:namePlaceSet>
+                <lido:gml>
+                  <gml:Point srsName="EPSG:4326">
+                    <gml:pos>43.612548198250 -1.033401489257</gml:pos>
+                  </gml:Point>
+                </lido:gml>
+              </lido:place>
+            </lido:eventPlace>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventID lido:type="local">1058</lido:eventID>
+            <lido:eventType>
+              <lido:term lido:addedSearchTerm="no">Hat gelebt</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue>Hat gelebt --- Objekt 588</lido:appellationValue>
+            </lido:eventName>
+            <lido:eventDate>
+              <lido:displayDate>Chattium (28,4-23 Mio. Jahre vor heute)</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>-28400000</lido:earliestDate>
+                <lido:latestDate>-23000000</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventPlace>
+              <lido:displayPlace>Westeuropa</lido:displayPlace>
+              <lido:place>
+                <lido:placeID lido:type="local" lido:source="geonames">9408659</lido:placeID>
+                <lido:placeID lido:type="local" lido:source="TGN">4003761</lido:placeID>
+                <lido:placeID lido:type="local" lido:source="gnd">4079215-8</lido:placeID>
+                <lido:namePlaceSet>
+                  <lido:appellationValue>Westeuropa</lido:appellationValue>
+                </lido:namePlaceSet>
+                <lido:gml>
+                  <gml:Point srsName="EPSG:4326">
+                    <gml:pos>49.444319227247 3.0322265625</gml:pos>
+                  </gml:Point>
+                </lido:gml>
+              </lido:place>
+            </lido:eventPlace>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectDate>
+                <lido:displayDate>Oligozän (34-23 Mio. Jahre vor heute)</lido:displayDate>
+                <lido:date>
+                  <lido:earliestDate>-33900000</lido:earliestDate>
+                  <lido:latestDate>-23030000</lido:latestDate>
+                </lido:date>
+              </lido:subjectDate>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectPlace>
+                <lido:displayPlace>Frankreich</lido:displayPlace>
+                <lido:place>
+                  <lido:placeID lido:type="local" lido:source="geonames">3017382</lido:placeID>
+                  <lido:placeID lido:type="local" lido:source="TGN">1000070</lido:placeID>
+                  <lido:placeID lido:type="local" lido:source="gnd">35061-8</lido:placeID>
+                  <lido:gml>
+                    <gml:Point srsName="EPSG:4326">
+                      <gml:pos>46 2</gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:subjectPlace>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="gnd" lido:type="local">4017999-0</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="local">sh89005492</lido:conceptID>
+                <lido:conceptID lido:source="oberbegriffsdatei" lido:type="local">5889</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Fossil</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="gnd" lido:type="local">4017999-0</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="local">sh89005492</lido:conceptID>
+                <lido:conceptID lido:source="oberbegriffsdatei" lido:type="local">5889</lido:conceptID>
+                <lido:term lido:addedSearchTerm="yes" xml:lang="en">Fossil</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+        </lido:subjectWrap>
+        <lido:relatedWorksWrap />
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Geomuseum der WWU Münster</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="museum-digital">588</lido:recordID>
+        <lido:recordType>
+          <lido:term lido:addedSearchTerm="no">item</lido:term>
+        </lido:recordType>
+        <lido:recordSource lido:type="dataProvider">
+          <lido:legalBodyName>
+            <lido:appellationValue>museum-digital</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>http://www.museum-digital.de</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordSource>
+          <lido:legalBodyID lido:type="isil">DE-MUS-100412</lido:legalBodyID>
+          <lido:legalBodyName>
+            <lido:appellationValue>Geomuseum der WWU Münster</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no">CC0</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyID lido:type="isil">DE-MUS-100412</lido:legalBodyID>
+            <lido:legalBodyName>
+              <lido:appellationValue>Geomuseum der WWU Münster</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://www.uni-muenster.de/Geomuseum</lido:legalBodyWeblink>
+          </lido:rightsHolder>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink>http://www.museum-digital.de/westfalen/index.php?t=objekt&amp;oges=588</lido:recordInfoLink>
+          <lido:recordMetadataDate>2015-10-07 11:57:30</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet lido:sortorder="1">
+          <lido:resourceID lido:type="local" lido:source="image">1057</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="image/jpeg">http://www.museum-digital.de/data/westfalen/images/201210/100h_26152825276.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_preview">
+            <lido:linkResource lido:formatResource="image/jpeg">http://www.museum-digital.de/data/westfalen/images/201210/200w_26152825276.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_master">
+            <lido:linkResource lido:formatResource="image/jpeg">http://www.museum-digital.de/data/westfalen/images/201210/26152825276.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>image</lido:term>
+          </lido:resourceType>
+          <lido:resourceRelType>
+            <lido:term>Hauptansicht</lido:term>
+          </lido:resourceRelType>
+          <lido:resourceDescription />
+          <lido:resourceSource lido:type="owner">
+            <lido:legalBodyName>
+              <lido:appellationValue>Geomuseum der WWU Münster</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:resourceSource lido:type="creator">
+            <lido:legalBodyName>
+              <lido:appellationValue />
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="uri">http://creativecommons.org/licenses/by-nc-sa/4.0/</lido:conceptID>
+              <lido:term>CC BY-NC-SA</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyName>
+                <lido:appellationValue>Geomuseum der WWU Münster</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine />
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

@@ -1,0 +1,246 @@
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:type="local" lido:source="Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg">DE-Mb112/lido/obj/20371656</lido:lidoRecID>
+    <lido:category>
+ <!-- Weshalb dieser URI für CIDOC-CRM-Klassen? Löst nicht auf E22 auf ; warum URI auf CIDOC-CRM und nicht auf LIDO-Term? -->
+      <lido:conceptID lido:type="URI">www.cidoc-crm.org/rdfs/cidoc-crm-english-label#E22.Man-Made_Object</lido:conceptID>
+      <lido:term xml:lang="en">Man-Made Object</lido:term>
+    </lido:category>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <!-- Lässt sich der Typ des Frieses genauer bestimmen? -->
+          <lido:objectWorkType lido:type="Sachbegriff">
+            <lido:conceptID lido:type="URI" lido:source="AAT">http://vocab.getty.edu/aat/300123582</lido:conceptID>
+            <lido:term>Fries</lido:term>
+            <!-- Ein Fries wird gewöhnlich nicht als "Bauwerk" bezeichnet. Ist ein Fries ein Typ eines Bauwerks? Wie wirkt sich dieser hinzugefügte Suchterm 
+                 auf die Retrievalqualität aus? -->
+            <lido:term lido:addedSearchTerm="yes">Bauelement</lido:term>
+            <lido:term lido:addedSearchTerm="yes">Bauwerk</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="europeana:type">
+            <lido:term>IMAGE</lido:term>
+          </lido:classification>
+          <lido:classification lido:type="Gattung">
+            <lido:term>Bauskulptur</lido:term>
+            <lido:term lido:addedSearchTerm="yes">Skulptur</lido:term>
+          </lido:classification>
+          <lido:classification lido:type="Art">
+            <lido:term>Reliefplastik</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred">Westfries</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryName>
+              <lido:legalBodyName>
+                <lido:appellationValue>British Museum (London)</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:repositoryName>
+            <lido:workID lido:type="Inventarnummer">326</lido:workID>
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>London</lido:appellationValue>
+              </lido:namePlaceSet>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="URI" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+              <lido:term xml:lang="en">Production</lido:term>
+            </lido:eventType>
+            <lido:eventDate>
+              <lido:displayDate>447ante/432ante</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>-447</lido:earliestDate>
+                <lido:latestDate>-432</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:term>Marmor (pentelisch)</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Marmor</lido:term>
+                </lido:termMaterialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="URI" lido:source="http://partage.vocnet.org/PPMaterial">http://partage.vocnet.org/part00516</lido:conceptID>
+                  <lido:term>Marmor</lido:term>
+                </lido:termMaterialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="URI" lido:source="AAT">http://vocab.getty.edu/aat/300011443</lido:conceptID>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+          <lido:subjectSet>
+            <lido:subject lido:type="Beschreibung">
+              <lido:subjectConcept>
+                <lido:conceptID lido:type="URI" lido:source="http://iconclass.org">http://iconclass.org/12E91(PANATHENAEA)</lido:conceptID>
+                <lido:term lido:pref="alternative">12 E 91 (PANATHENAEA)</lido:term>
+                <lido:term lido:pref="preferred">die Panathenaea, Fest zu Ehren der Minerva</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject lido:type="Beschreibung">
+              <lido:subjectConcept>
+                <lido:conceptID lido:type="URI" lido:source="http://iconclass.org">http://iconclass.org/46C131</lido:conceptID>
+                <lido:term lido:pref="alternative">46 C 13 1</lido:term>
+                <lido:term lido:pref="preferred">auf einem Pferd, Esel, Maultier, etc. reiten; Reiter(in)</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject lido:type="Beschreibung">
+              <lido:subjectConcept>
+                <lido:conceptID lido:type="URI" lido:source="http://iconclass.org">http://iconclass.org/46C13141</lido:conceptID>
+                <lido:term lido:pref="alternative">46 C 13 14 1</lido:term>
+                <lido:term lido:pref="preferred">Pferd</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+        </lido:subjectWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:recordWrap>
+        <lido:recordID lido:type="local">obj/20371656</lido:recordID>
+        <lido:recordType>
+          <!-- Teil einer Museumssammlung, daher  vermutlich als item bezeichnet. Da das Fries aber ein Gebäudeteil ist, 
+               würden wir versuchen eine Empfehlung zugunsten des Herstellungskontexts auszusprechen, 
+               das ist component für einen unselbstständigen Gebäudebestandteil. Dafür ist es notwendig, dass über den RelatedWorkSet
+               das Herkunftsgebäude strukturiert referenzierbar ist. Dies sind eindeutig Empfehlungen an die Abdresse der Erfassung.
+               Dem entgegen steht die Sicht, dass der RecordType nur Aussagen über die Katalogisierungsebene des aktuellen Datensatzes machen soll. 
+               Dies wäre durchaus "item" aus der Sicht des Datenlieferanten. 
+
+               JL 2016-06-24: Für diesen Datensatz, der zwei Platten (I, II 2-3) aus dem Westfries des Parthenon beschreibt, 
+               fehlen Beziehungen zum Datensatz mit Abbildungen von Platten (III-XVI) des Westfrieses. Diese Teile haben bei Foto Marburg
+               und in der DDB keine direkte Verbindung zueinander und lassen sich nur schwer gemeinsam auffinden. 
+               Platten I und II sind im British Museum, die anderen Platten im Akropolis-Museum (vgl. http://www.parthenonfrieze.gr/#/view/westfrieze).  
+               2016-10-09: Siehe Anmerkung in CDWA Abschnitt 1.1. Catalog Level <http://www.getty.edu/research/publications/electronic_publications/cdwa/1object.html#RTFToC2a> 
+               – DISCUSSION and GUIDELINES
+                  – Item: "For disassembled works: For works that formerly were part of a larger whole and are now disassembled, often held by different repositories, 
+                    choose catalog level item. These works are treated as individual items by their repositories, not as components. 
+                    They may be linked to a record representing the former whole as whole/part through RELATED WORKS, AS Hierarchical Relationships." und
+                  – Component: "Disassembled works: For works that were historically components of a larger whole, but are now detached from the original whole, 
+                    particularly when the former part stands alone in a different repository from other parts, catalog each part as an item rather than a 
+                    component (although historical whole/part relationships may be made between the item and its former whole through RELATED WORKS." -->    
+       
+          <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource lido:type="europeana:dataProvider">
+          <lido:legalBodyName>
+            <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="URI">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term>CC0 1.0 Public Domain Dedication</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink lido:formatResource="html">http://www.bildindex.de/dokumente/html/obj20371656</lido:recordInfoLink>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="local">1.103.071</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="jpg">http://www.bildindex.de/bilder/m/gr00031f11</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+          </lido:resourceType>
+          <lido:resourceDescription lido:type="Beschreibung">I, 1: Festordner</lido:resourceDescription>
+          <lido:resourceDateTaken>
+            <lido:displayDate>um 1920/1939?</lido:displayDate>
+          </lido:resourceDateTaken>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID>
+              <lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">info:isil/DE-Mb112</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="local">1.021.185</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="jpg">http://www.bildindex.de/bilder/m/fm1021185</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceDescription lido:type="Beschreibung">II, 2-3: Reiter</lido:resourceDescription>
+          <lido:resourceDateTaken>
+            <lido:displayDate>vor 1906</lido:displayDate>
+          </lido:resourceDateTaken>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID>
+              <lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">info:isil/DE-Mb112</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="local">1.103.072</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="jpg">http://www.bildindex.de/bilder/m/gr00031f13</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+          </lido:resourceType>
+          <lido:resourceDescription lido:type="Beschreibung">II, 2-3: Reiter</lido:resourceDescription>
+          <lido:resourceDateTaken>
+            <lido:displayDate>um 1920/1939?</lido:displayDate>
+          </lido:resourceDateTaken>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID>
+              <lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">info:isil/DE-Mb112</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

@@ -1,0 +1,141 @@
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:type="local" lido:source="Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg">DE-Mb112/lido/obj/20064768</lido:lidoRecID>
+    <lido:category>
+      <lido:conceptID lido:type="URI">www.cidoc-crm.org/rdfs/cidoc-crm-english-label#E22.Man-Made_Object</lido:conceptID>
+      <lido:term xml:lang="en">Man-Made Object</lido:term>
+    </lido:category>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType lido:type="Sachbegriff">
+            <lido:conceptID lido:type="URI" lido:source="http://partage.vocnet.org/PPRefiningObjectType">http://partage.vocnet.org/part00804</lido:conceptID>
+            <lido:term>Kommode</lido:term>
+            <lido:term lido:addedSearchTerm="yes">Möbel</lido:term>
+          </lido:objectWorkType>
+          <lido:objectWorkType>
+            <lido:conceptID lido:type="URI" lido:source="http://partage.vocnet.org/PPObjectType">http://partage.vocnet.org/part00099</lido:conceptID>
+            <lido:term>Möbel</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="europeana:type">
+            <lido:term>IMAGE</lido:term>
+          </lido:classification>
+          <lido:classification lido:type="Gattung">
+            <lido:term>Angewandte Kunst</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred">Jean-Henri-Riesener-Kommode</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Ruhenthal, Schloss, Schloss Ruhenthal &amp; Rundāle pils, Audienzkabinett des Herzogs, Decke</lido:appellationValue>
+              </lido:namePlaceSet>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="URI" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+              <lido:term xml:lang="en">Production</lido:term>
+            </lido:eventType>
+            <lido:eventDate>
+              <lido:displayDate>1780/1789</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1780</lido:earliestDate>
+                <lido:latestDate>1789</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="URI" lido:source="http://partage.vocnet.org/PPMaterial">http://partage.vocnet.org/part00295</lido:conceptID>
+                  <lido:term>Holz</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="URI" lido:source="http://partage.vocnet.org/PPMaterial">http://partage.vocnet.org/part00516</lido:conceptID>
+                  <lido:term>Marmor</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Stein</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap />
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:recordWrap>
+        <lido:recordID lido:type="local">obj/20064768</lido:recordID>
+        <lido:recordType>
+          <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource lido:type="europeana:dataProvider">
+          <lido:legalBodyName>
+            <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="URI">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term>CC0 1.0 Public Domain Dedication</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink lido:formatResource="html">http://www.bildindex.de/dokumente/html/obj20064768</lido:recordInfoLink>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="local">fmd471342</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="jpg">http://www.bildindex.de/bilder/m/fmd471342</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceDateTaken>
+            <lido:displayDate>2010</lido:displayDate>
+          </lido:resourceDateTaken>
+          <lido:resourceSource lido:type="Fotograf">
+            <lido:legalBodyName>
+              <lido:appellationValue>Lancmanis, Imants</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID>
+              <lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)">info:isil/DE-Mb112</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

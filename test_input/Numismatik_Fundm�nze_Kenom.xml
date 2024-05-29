@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Metadaten für diesen Datensatz:
+Title:		 
+Creator: Kenom	
+Contributor:
+Date Created:	
+Date Changed:
+Is Part Of:  	
+Replaces:		
+References:
+Comment:
+-->
+
+<lido:lidoWrap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.lido-schema.org ../schema/lido-v1.0.xsd"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:lido="http://www.lido-schema.org">
+
+    <lido:lido>
+        <lido:lidoRecID lido:type=""></lido:lidoRecID>
+        <lido:objectPublishedID lido:type="handle">http://hdl.handle.net/428894.vzg/fcac0ca4-0fb1-4cf9-a6d4-2d5c7535f710"></lido:objectPublishedID>
+        <lido:category>
+            <lido:conceptID lido:type="URI">http://www.cidoc-crm.org/crm-concepts/E22</lido:conceptID>
+            <lido:term xml:lang="en">Man-Made Object</lido:term>
+        </lido:category>
+        <lido:descriptiveMetadata xml:lang="de">
+            <lido:objectClassificationWrap>
+            <!-- Beispiele in CDWA: http://www.getty.edu/research/publications/electronic_publications/cdwa/1object.html#examples -->
+                <lido:objectWorkTypeWrap>
+                    <lido:objectWorkType lido:type="">
+                        <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4126078-8</lido:conceptID>
+                        <lido:conceptID lido:type="URI">http://nomisma.org/id/coin</lido:conceptID>
+                        <lido:term>Fundmünze</lido:term>
+                        <lido:term lido:addedSearchTerm="yes">Münze</lido:term>
+                        <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                    </lido:objectWorkType>
+                </lido:objectWorkTypeWrap>
+                <lido:classificationWrap>
+                    <lido:classification lido:type="nominal">
+                        <lido:conceptID lido:type=""></lido:conceptID>
+                        <lido:term>Denar</lido:term>
+                        <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                    </lido:classification>
+                </lido:classificationWrap>
+            </lido:objectClassificationWrap>
+            <lido:objectIdentificationWrap>
+                <lido:titleWrap>
+                    <lido:titleSet lido:type="">
+                        <lido:appellationValue lido:pref="pref" xml:lang="de"></lido:appellationValue>
+                        <lido:sourceAppellation></lido:sourceAppellation>
+                    </lido:titleSet>
+                    <lido:titleSet lido:type="generated_short" lido:sortorder="1">
+                        <lido:appellationValue>Fundmünze, Denar, 230?</lido:appellationValue>
+                    </lido:titleSet>
+                    <lido:titleSet lido:type="generated_long" lido:sortorder="3">
+                        <lido:appellationValue>Fundmünze Römische Kaiserzeit Severus Alexander (222–235) Denar, 230?</lido:appellationValue>
+                    </lido:titleSet>
+                    <lido:titleSet lido:type="generated_kenom" lido:sortorder="4">
+                        <lido:appellationValue>Denar, 230?</lido:appellationValue>
+                    </lido:titleSet>
+                </lido:titleWrap>
+                <lido:inscriptionsWrap>
+                    <lido:inscriptions lido:type="">
+                        <lido:inscriptionTranscription></lido:inscriptionTranscription>
+                        <lido:inscriptionDescription>
+                            <lido:descriptiveNoteID lido:type=""></lido:descriptiveNoteID>
+                            <lido:descriptiveNoteValue></lido:descriptiveNoteValue>
+                            <lido:sourceDescriptiveNote></lido:sourceDescriptiveNote>
+                        </lido:inscriptionDescription>
+                    </lido:inscriptions>
+                </lido:inscriptionsWrap>
+                <lido:repositoryWrap>
+                    <lido:repositorySet>
+                        <lido:repositoryName>
+                            <lido:legalBodyID lido:type=""></lido:legalBodyID>
+                            <lido:legalBodyName>
+                                <lido:appellationValue xml:lang="de"></lido:appellationValue>
+                                <lido:sourceAppellation></lido:sourceAppellation>
+                            </lido:legalBodyName>
+                            <lido:legalBodyWeblink></lido:legalBodyWeblink>
+                        </lido:repositoryName>
+                        <lido:workID></lido:workID>
+                        <lido:repositoryLocation>
+                            <lido:placeID lido:type=""></lido:placeID>
+                            <lido:namePlaceSet>
+                                <lido:appellationValue></lido:appellationValue>
+                                <lido:sourceAppellation></lido:sourceAppellation>
+                            </lido:namePlaceSet>
+                            <lido:gml>
+                                <gml:Point xmlns="">
+                                    <gml:pos></gml:pos>
+                                </gml:Point>
+                                <gml:LineString>
+                                    <gml:posList></gml:posList>
+                                </gml:LineString>
+                                <gml:Polygon></gml:Polygon>
+                            </lido:gml>
+                            <lido:partOfPlace></lido:partOfPlace>
+                            <lido:placeClassification>
+                                <lido:conceptID lido:type=""></lido:conceptID>
+                                <lido:term></lido:term>
+                            </lido:placeClassification>
+                        </lido:repositoryLocation>
+                    </lido:repositorySet>
+                </lido:repositoryWrap>
+                <lido:displayStateEditionWrap>
+                    <lido:displayState></lido:displayState>
+                    <lido:displayEdition></lido:displayEdition>
+                    <lido:sourceStateEdition></lido:sourceStateEdition>
+                </lido:displayStateEditionWrap>
+                <lido:objectDescriptionWrap>
+                    <lido:objectDescriptionSet>
+                        <lido:descriptiveNoteID lido:type=""></lido:descriptiveNoteID>
+                        <lido:descriptiveNoteValue></lido:descriptiveNoteValue>
+                        <lido:sourceDescriptiveNote></lido:sourceDescriptiveNote>
+                    </lido:objectDescriptionSet>
+                </lido:objectDescriptionWrap>
+                <lido:objectMeasurementsWrap>
+                    <lido:objectMeasurementsSet>
+                        <lido:displayObjectMeasurements></lido:displayObjectMeasurements>
+                        <lido:objectMeasurements>
+                            <lido:measurementsSet>
+                                <lido:measurementType></lido:measurementType>
+                                <lido:measurementUnit></lido:measurementUnit>
+                                <lido:measurementValue></lido:measurementValue>
+                            </lido:measurementsSet>
+                            <lido:extentMeasurements></lido:extentMeasurements>
+                            <lido:qualifierMeasurements></lido:qualifierMeasurements>
+                            <lido:formatMeasurements></lido:formatMeasurements>
+                            <lido:shapeMeasurements></lido:shapeMeasurements>
+                            <lido:scaleMeasurements></lido:scaleMeasurements>
+                        </lido:objectMeasurements>
+                    </lido:objectMeasurementsSet>
+                </lido:objectMeasurementsWrap>
+            </lido:objectIdentificationWrap>
+            <lido:eventWrap>
+                <lido:eventSet>
+                    <lido:displayEvent></lido:displayEvent>
+                    <lido:event>
+                        <lido:eventID lido:type=""></lido:eventID>
+                        <lido:eventType>
+                            <lido:conceptID lido:type=""></lido:conceptID>
+                            <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                        </lido:eventType>
+                        <lido:roleInEvent>
+                            <lido:conceptID lido:type=""></lido:conceptID>
+                            <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                        </lido:roleInEvent>
+                        <lido:eventName>
+                            <lido:appellationValue lido:pref="pref" xml:lang="de"></lido:appellationValue>
+                            <lido:sourceAppellation></lido:sourceAppellation>
+                        </lido:eventName>
+                        <lido:eventActor>
+                            <lido:displayActorInRole></lido:displayActorInRole>
+                            <lido:actorInRole>
+                                <lido:actor>
+                                    <lido:actorID lido:type=""></lido:actorID>
+                                    <lido:nameActorSet>
+                                        <lido:appellationValue lido:pref="pref" xml:lang="de"></lido:appellationValue>
+                                        <lido:sourceAppellation></lido:sourceAppellation>
+                                    </lido:nameActorSet>
+                                    <lido:nationalityActor>
+                                        <lido:conceptID lido:type=""></lido:conceptID>
+                                        <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                                    </lido:nationalityActor>
+                                    <lido:vitalDatesActor>
+                                        <lido:earliestDate></lido:earliestDate>
+                                        <lido:latestDate></lido:latestDate>
+                                    </lido:vitalDatesActor>
+                                    <lido:genderActor></lido:genderActor>
+                                </lido:actor>
+                                <lido:roleActor>
+                                    <lido:conceptID lido:type=""></lido:conceptID>
+                                    <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                                </lido:roleActor>
+                                <lido:attributionQualifierActor></lido:attributionQualifierActor>
+                                <lido:extentActor></lido:extentActor>
+                            </lido:actorInRole>
+                        </lido:eventActor>
+                        <lido:culture>
+                            <lido:conceptID lido:type=""></lido:conceptID>
+                            <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                        </lido:culture>
+                        <lido:eventDate>
+                            <lido:displayDate></lido:displayDate>
+                            <lido:date>
+                                <lido:earliestDate></lido:earliestDate>
+                                <lido:latestDate></lido:latestDate>
+                            </lido:date>
+                        </lido:eventDate>
+                        <lido:periodName>
+                            <lido:conceptID lido:type=""></lido:conceptID>
+                            <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                        </lido:periodName>
+                        <lido:eventPlace>
+                            <lido:displayPlace></lido:displayPlace>
+                            <lido:place>
+                                <lido:placeID lido:type=""></lido:placeID>
+                                <lido:namePlaceSet>
+                                    <lido:appellationValue lido:pref="pref" xml:lang="de"></lido:appellationValue>
+                                    <lido:sourceAppellation></lido:sourceAppellation>
+                                </lido:namePlaceSet>
+                                <lido:gml>
+                                    <gml:Point xmlns="http://www.opengis.net/gml">
+                                        <pos></pos>
+                                    </gml:Point>
+                                    <gml:LineString xmlns="http://www.opengis.net/gml">
+                                        <posList></posList>
+                                    </gml:LineString>
+                                    <Polygon xmlns="http://www.opengis.net/gml"></Polygon>
+                                </lido:gml>
+                                <lido:partOfPlace></lido:partOfPlace>
+                                <lido:placeClassification>
+                                    <lido:conceptID lido:type=""></lido:conceptID>
+                                    <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>                                
+                                </lido:placeClassification>
+                            </lido:place>
+                        </lido:eventPlace>
+                        <lido:eventMethod>
+                            <lido:conceptID lido:type=""></lido:conceptID>
+                            <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                        </lido:eventMethod>
+<!-- Beispiele in CDWA: http://www.getty.edu/research/publications/electronic_publications/cdwa/8materials.html#examples -->
+                        <lido:eventMaterialsTech>
+                          <lido:displayMaterialsTech></lido:displayMaterialsTech>
+                            <lido:materialsTech>
+                                <lido:termMaterialsTech>
+                                    <lido:conceptID lido:type=""></lido:conceptID>
+                                    <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                                </lido:termMaterialsTech>
+                                <lido:extentMaterialsTech></lido:extentMaterialsTech>
+                                <lido:sourceMaterialsTech></lido:sourceMaterialsTech>
+                            </lido:materialsTech>
+                        </lido:eventMaterialsTech>
+                        <lido:thingPresent>
+                            <lido:displayObject></lido:displayObject>
+                            <lido:object>
+                                <lido:objectWebResource></lido:objectWebResource>
+                                <lido:objectID lido:type=""></lido:objectID>
+                                <lido:objectNote></lido:objectNote>
+                            </lido:object>
+                        </lido:thingPresent>
+                        <lido:relatedEventSet>
+                            <lido:relatedEvent></lido:relatedEvent>
+                            <lido:relatedEventRelType>
+                                <lido:conceptID lido:type=""></lido:conceptID>
+                                <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                            </lido:relatedEventRelType>
+                        </lido:relatedEventSet>
+                        <lido:eventDescriptionSet>
+                            <lido:descriptiveNoteID lido:type=""></lido:descriptiveNoteID>
+                            <lido:descriptiveNoteValue></lido:descriptiveNoteValue>
+                            <lido:sourceDescriptiveNote></lido:sourceDescriptiveNote>
+                        </lido:eventDescriptionSet>
+                    </lido:event>
+                </lido:eventSet>
+            </lido:eventWrap>
+            <lido:objectRelationWrap>
+                <lido:subjectWrap>
+                    <lido:subjectSet>
+                        <lido:displaySubject></lido:displaySubject>
+                        <lido:subject>
+                            <lido:extentSubject></lido:extentSubject>
+                            <lido:subjectConcept>
+                                <lido:conceptID lido:type=""></lido:conceptID>
+                                <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                            </lido:subjectConcept>
+                            <lido:subjectActor>
+                                <lido:displayActor></lido:displayActor>
+                                <lido:actor>
+                                    <lido:actorID lido:type=""></lido:actorID>
+                                    <lido:nameActorSet>
+                                        <lido:appellationValue></lido:appellationValue>
+                                        <lido:sourceAppellation></lido:sourceAppellation>
+                                    </lido:nameActorSet>
+                                    <lido:nationalityActor>
+                                        <lido:conceptID lido:type=""></lido:conceptID>
+                                        <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                                    </lido:nationalityActor>
+                                    <lido:vitalDatesActor>
+                                        <lido:earliestDate></lido:earliestDate>
+                                        <lido:latestDate></lido:latestDate>
+                                    </lido:vitalDatesActor>
+                                    <lido:genderActor></lido:genderActor>
+                                </lido:actor>
+                            </lido:subjectActor>
+                            <lido:subjectDate>
+                                <lido:displayDate></lido:displayDate>
+                                <lido:date>
+                                    <lido:earliestDate></lido:earliestDate>
+                                    <lido:latestDate></lido:latestDate>
+                                </lido:date>
+                            </lido:subjectDate>
+                            <lido:subjectEvent>
+                                <lido:displayEvent></lido:displayEvent>
+                                <lido:event>
+                                    <lido:eventID lido:type=""></lido:eventID>
+                                    <lido:eventType>
+                                        <lido:conceptID lido:type=""></lido:conceptID>
+                                        <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                                    </lido:eventType>
+                                    <lido:roleInEvent>
+                                        <lido:conceptID lido:type=""></lido:conceptID>
+                                        <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                                    </lido:roleInEvent>
+                                    <lido:eventName>
+                                        <lido:appellationValue></lido:appellationValue>
+                                        <lido:sourceAppellation></lido:sourceAppellation>
+                                    </lido:eventName>
+                                    <lido:eventActor>
+                                        <lido:displayActorInRole></lido:displayActorInRole>
+                                        <lido:actorInRole>
+                                            <lido:actor>
+                                                <lido:actorID lido:type=""></lido:actorID>
+                                                <lido:nameActorSet>
+                                                    <lido:appellationValue></lido:appellationValue>
+                                                    <lido:sourceAppellation></lido:sourceAppellation>
+                                                </lido:nameActorSet>
+                                                <lido:nationalityActor>
+                                                    <lido:conceptID lido:type=""></lido:conceptID>
+                                                    <lido:term></lido:term>
+                                                </lido:nationalityActor>
+                                                <lido:vitalDatesActor>
+                                                    <lido:earliestDate></lido:earliestDate>
+                                                    <lido:latestDate></lido:latestDate>
+                                                </lido:vitalDatesActor>
+                                                <lido:genderActor></lido:genderActor>
+                                            </lido:actor>
+                                            <lido:roleActor>
+                                                <lido:conceptID lido:type=""></lido:conceptID>
+                                                <lido:term></lido:term>
+                                            </lido:roleActor>
+                                            <lido:attributionQualifierActor></lido:attributionQualifierActor>
+                                            <lido:extentActor></lido:extentActor>
+                                        </lido:actorInRole>
+                                    </lido:eventActor>
+                                    <lido:culture>
+                                        <lido:conceptID lido:type=""></lido:conceptID>
+                                        <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                                    </lido:culture>
+                                    <lido:eventDate>
+                                        <lido:displayDate></lido:displayDate>
+                                        <lido:date>
+                                            <lido:earliestDate></lido:earliestDate>
+                                            <lido:latestDate></lido:latestDate>
+                                        </lido:date>
+                                    </lido:eventDate>
+                                    <lido:periodName>
+                                        <lido:conceptID lido:type=""></lido:conceptID>
+                                        <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                                    </lido:periodName>
+                                    <lido:eventPlace>
+                                        <lido:displayPlace></lido:displayPlace>
+                                        <lido:place>
+                                            <lido:placeID lido:type=""></lido:placeID>
+                                            <lido:namePlaceSet>
+                                                <lido:appellationValue></lido:appellationValue>
+                                                <lido:sourceAppellation></lido:sourceAppellation>
+                                            </lido:namePlaceSet>
+                                            <lido:gml>
+                                                <gml:Point xmlns="http://www.opengis.net/gml">
+                                                    <gml:pos></gml:pos>
+                                                </gml:Point>
+                                                <gml:LineString xmlns="http://www.opengis.net/gml">
+                                                    <gml:posList></gml:posList>
+                                                </gml:LineString>
+                                                <Polygon xmlns="http://www.opengis.net/gml"></Polygon>
+                                            </lido:gml>
+                                            <lido:partOfPlace></lido:partOfPlace>
+                                            <lido:placeClassification>
+                                                <lido:conceptID lido:type=""></lido:conceptID>
+                                                <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                                            </lido:placeClassification>
+                                        </lido:place>
+                                    </lido:eventPlace>
+                                    <lido:eventMethod>
+                                        <lido:conceptID lido:type=""></lido:conceptID>
+                                        <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                                    </lido:eventMethod>
+<!-- Beispiele für Materials/Techniques in CDWA: http://www.getty.edu/research/publications/electronic_publications/cdwa/8materials.html#examples -->
+                                    <lido:eventMaterialsTech>
+                                      <lido:displayMaterialsTech></lido:displayMaterialsTech>
+                                        <lido:materialsTech>
+                                            <lido:termMaterialsTech>
+                                                <lido:conceptID lido:type=""></lido:conceptID>
+                                                <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                                            </lido:termMaterialsTech>
+                                            <lido:extentMaterialsTech></lido:extentMaterialsTech>
+                                            <lido:sourceMaterialsTech></lido:sourceMaterialsTech>
+                                        </lido:materialsTech>
+                                    </lido:eventMaterialsTech>
+                                    <lido:thingPresent>
+                                        <lido:displayObject></lido:displayObject>
+                                        <lido:object>
+                                            <lido:objectWebResource></lido:objectWebResource>
+                                            <lido:objectID lido:type=""></lido:objectID>
+                                            <lido:objectNote></lido:objectNote>
+                                        </lido:object>
+                                    </lido:thingPresent>
+                                    <lido:relatedEventSet>
+                                        <lido:relatedEvent></lido:relatedEvent>
+                                        <lido:relatedEventRelType>
+                                            <lido:conceptID lido:type=""></lido:conceptID>
+                                            <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                                        </lido:relatedEventRelType>
+                                    </lido:relatedEventSet>
+                                    <lido:eventDescriptionSet>
+                                        <lido:descriptiveNoteID lido:type=""></lido:descriptiveNoteID>
+                                        <lido:descriptiveNoteValue></lido:descriptiveNoteValue>
+                                        <lido:sourceDescriptiveNote></lido:sourceDescriptiveNote>
+                                    </lido:eventDescriptionSet>
+                                </lido:event>
+                            </lido:subjectEvent>
+                            <lido:subjectPlace>
+                                <lido:displayPlace></lido:displayPlace>
+                                <lido:place>
+                                    <lido:placeID lido:type=""></lido:placeID>
+                                    <lido:namePlaceSet>
+                                        <lido:appellationValue></lido:appellationValue>
+                                        <lido:sourceAppellation></lido:sourceAppellation>
+                                    </lido:namePlaceSet>
+                                    <lido:gml>
+                                        <gml:Point>
+                                            <gml:pos></gml:pos>
+                                        </gml:Point>
+                                        <gml:LineString>
+                                            <gml:posList></gml:posList>
+                                        </gml:LineString>
+                                        <gml:Polygon></gml:Polygon>
+                                    </lido:gml>
+                                    <lido:partOfPlace></lido:partOfPlace>
+                                    <lido:placeClassification>
+                                        <lido:conceptID lido:type=""></lido:conceptID>
+                                        <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                                    </lido:placeClassification>
+                                </lido:place>
+                            </lido:subjectPlace>
+                            <lido:subjectObject>
+                                <lido:displayObject></lido:displayObject>
+                                <lido:object>
+                                    <lido:objectWebResource></lido:objectWebResource>
+                                    <lido:objectID lido:type=""></lido:objectID>
+                                    <lido:objectNote></lido:objectNote>
+                                </lido:object>
+                            </lido:subjectObject>
+                        </lido:subject>
+                    </lido:subjectSet>
+                </lido:subjectWrap>
+                <lido:relatedWorksWrap>
+                    <lido:relatedWorkSet>
+                        <lido:relatedWork>
+                            <lido:displayObject></lido:displayObject>
+                            <lido:object>
+                                <lido:objectWebResource></lido:objectWebResource>
+                                <lido:objectID lido:type=""></lido:objectID>
+                                <lido:objectNote></lido:objectNote>
+                            </lido:object>
+                        </lido:relatedWork>
+                        <lido:relatedWorkRelType>
+                            <lido:conceptID lido:type=""></lido:conceptID>
+                            <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                        </lido:relatedWorkRelType>
+                    </lido:relatedWorkSet>
+                </lido:relatedWorksWrap>
+            </lido:objectRelationWrap>
+        </lido:descriptiveMetadata>
+        <lido:administrativeMetadata xml:lang="de">
+            <lido:rightsWorkWrap>
+                <lido:rightsWorkSet>
+                    <lido:rightsType>
+                        <lido:conceptID lido:type=""></lido:conceptID>
+                        <lido:term></lido:term>
+                    </lido:rightsType>
+                    <lido:rightsDate>
+                        <lido:earliestDate></lido:earliestDate>
+                        <lido:latestDate></lido:latestDate>
+                    </lido:rightsDate>
+                    <lido:rightsHolder>
+                        <lido:legalBodyID lido:type=""></lido:legalBodyID>
+                        <lido:legalBodyName>
+                            <lido:appellationValue></lido:appellationValue>
+                            <lido:sourceAppellation></lido:sourceAppellation>
+                        </lido:legalBodyName>
+                        <lido:legalBodyWeblink></lido:legalBodyWeblink>
+                    </lido:rightsHolder>
+                    <lido:creditLine></lido:creditLine>
+                </lido:rightsWorkSet>
+            </lido:rightsWorkWrap>
+            <lido:recordWrap>
+                <lido:recordID lido:type=""></lido:recordID>
+<!-- Beispiele für record Type in CDWA: http://www.getty.edu/research/publications/electronic_publications/cdwa/1object.html#examples -->
+                <lido:recordType>
+                  <lido:conceptID lido:type=""></lido:conceptID>
+                    <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                </lido:recordType>
+                <lido:recordSource>
+                    <lido:legalBodyID lido:type=""></lido:legalBodyID>
+                    <lido:legalBodyName>
+                        <lido:appellationValue></lido:appellationValue>
+                        <lido:sourceAppellation></lido:sourceAppellation>
+                    </lido:legalBodyName>
+                    <lido:legalBodyWeblink></lido:legalBodyWeblink>
+                </lido:recordSource>
+                <lido:recordRights>
+                    <lido:rightsType>
+                        <lido:conceptID lido:type=""></lido:conceptID>
+                        <lido:term></lido:term>
+                    </lido:rightsType>
+                    <lido:rightsDate>
+                        <lido:earliestDate></lido:earliestDate>
+                        <lido:latestDate></lido:latestDate>
+                    </lido:rightsDate>
+                    <lido:rightsHolder>
+                        <lido:legalBodyID lido:type=""></lido:legalBodyID>
+                        <lido:legalBodyName>
+                            <lido:appellationValue></lido:appellationValue>
+                            <lido:sourceAppellation></lido:sourceAppellation>
+                        </lido:legalBodyName>
+                        <lido:legalBodyWeblink></lido:legalBodyWeblink>
+                    </lido:rightsHolder>
+                    <lido:creditLine></lido:creditLine>
+                </lido:recordRights>
+                <lido:recordInfoSet>
+                    <lido:recordInfoID lido:type=""></lido:recordInfoID>
+                    <lido:recordInfoLink></lido:recordInfoLink>
+                    <lido:recordMetadataDate></lido:recordMetadataDate>
+                </lido:recordInfoSet>
+            </lido:recordWrap>
+            <lido:resourceWrap>
+                <lido:resourceSet>
+                    <lido:resourceID lido:type=""></lido:resourceID>
+                    <lido:resourceRepresentation>
+                        <lido:linkResource></lido:linkResource>
+                        <lido:resourceMeasurementsSet>
+                            <lido:measurementType></lido:measurementType>
+                            <lido:measurementUnit></lido:measurementUnit>
+                            <lido:measurementValue></lido:measurementValue>
+                        </lido:resourceMeasurementsSet>
+                    </lido:resourceRepresentation>
+                    <lido:resourceType>
+                        <lido:conceptID lido:type=""></lido:conceptID>
+                        <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                    </lido:resourceType>
+                    <lido:resourceRelType>
+                        <lido:conceptID lido:type=""></lido:conceptID>
+                        <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                    </lido:resourceRelType>
+                    <lido:resourcePerspective>
+                        <lido:conceptID lido:type=""></lido:conceptID>
+                        <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                    </lido:resourcePerspective>
+                    <lido:resourceDescription></lido:resourceDescription>
+                    <lido:resourceDateTaken>
+                        <lido:displayDate></lido:displayDate>
+                        <lido:date>
+                            <lido:earliestDate></lido:earliestDate>
+                            <lido:latestDate></lido:latestDate>
+                        </lido:date>
+                    </lido:resourceDateTaken>
+                    <lido:resourceSource>
+                        <lido:legalBodyID lido:type=""></lido:legalBodyID>
+                        <lido:legalBodyName>
+                            <lido:appellationValue></lido:appellationValue>
+                            <lido:sourceAppellation></lido:sourceAppellation>
+                        </lido:legalBodyName>
+                        <lido:legalBodyWeblink></lido:legalBodyWeblink>
+                    </lido:resourceSource>
+                    <lido:rightsResource>
+                        <lido:rightsType>
+                            <lido:conceptID lido:type=""></lido:conceptID>
+                            <lido:term lido:pref="pref" xml:lang="de" lido:addedSearchTerm="no"></lido:term>
+                        </lido:rightsType>
+                        <lido:rightsDate>
+                            <lido:earliestDate></lido:earliestDate>
+                            <lido:latestDate></lido:latestDate>
+                        </lido:rightsDate>
+                        <lido:rightsHolder>
+                            <lido:legalBodyID lido:type=""></lido:legalBodyID>
+                            <lido:legalBodyName>
+                                <lido:appellationValue></lido:appellationValue>
+                                <lido:sourceAppellation></lido:sourceAppellation>
+                            </lido:legalBodyName>
+                            <lido:legalBodyWeblink></lido:legalBodyWeblink>
+                        </lido:rightsHolder>
+                        <lido:creditLine></lido:creditLine>
+                    </lido:rightsResource>
+                </lido:resourceSet>
+            </lido:resourceWrap>
+        </lido:administrativeMetadata>
+    </lido:lido>
+</lido:lidoWrap>

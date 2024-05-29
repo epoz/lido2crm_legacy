@@ -1,0 +1,544 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:fmc="http://www.fotomarburg.de/content/"
+    xmlns:crm_pc="http://www.cidoc-crm.org/cidoc-crm-pc/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20223983">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_4">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20223983_704">
+      <rdfs:label>Digitales Bild</rdfs:label>
+      <rdfs:label>Digitales Bild (retrodigitalisiert)</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi00636e05</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi00636e05</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>188.022</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P43_has_dimension>
+   <crm:E54_Dimension rdf:about="http://www.fotomarburg.de/content/obj20223983_208_2">
+    <crm:P3_has_note>basilikal</crm:P3_has_note>
+   </crm:E54_Dimension>
+  </crm:P43_has_dimension>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_19">
+    <crm:P3_has_note>Teilansicht der Südseite; in restauro</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10776e08</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10776e08</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.882/10</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_26">
+    <crm:P3_has_note>Inneres nach Osten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd456435</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd456435</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd456435</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_15">
+    <crm:P3_has_note>Teilansicht der Südseite; in restauro</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10776e10</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10776e10</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.882/12</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_35">
+    <crm:P3_has_note>Inneres, Langhaus, südliches Seitenschiff nach Osten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd456421</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd456421</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd456421</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_38">
+    <crm:P3_has_note>Inneres, Langhaus, Mittelschiff, Westwand, nördliches Biforium, ehemals zur Nonnenempore im Westbau geöffnet, Ansicht von Osten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd456424</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd456424</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd456424</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_21">
+    <crm:P3_has_note>Teilansicht der Südseite</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10776e11</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10776e11</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 20.882/19</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_5">
+    <crm:P3_has_note>Teilansicht von Westen: Fenstergruppe</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10776e05</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10776e05</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 20.821/19</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_17">
+    <crm:P3_has_note>Ansicht von Süden</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd456412</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd456412</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd456412</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20223983_301_3"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_10">
+    <crm:P3_has_note>Blick zum Chor von Nordosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10776e07</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10776e07</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.808/3</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_33">
+    <crm:P3_has_note>Inneres, Langhaus, Mittelschiff, Südwand von Nordwesten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd456420</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd456420</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd456420</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P43_has_dimension>
+   <crm:E54_Dimension rdf:about="http://www.fotomarburg.de/content/obj20223983_208_1">
+    <crm:P3_has_note>dreischiffig</crm:P3_has_note>
+   </crm:E54_Dimension>
+  </crm:P43_has_dimension>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_27">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi04709a12</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi04709a12</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.170.648</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20223983_101_1">
+    <crm:P3_has_note>Sakralbau</crm:P3_has_note>
+    <crm:P3_has_note>Bauwerk</crm:P3_has_note>
+    <crm:P3_has_note>Kloster</crm:P3_has_note>
+    <crm:P3_has_note>Klosterkirche</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4225043-2</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300007495</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_3">
+    <crm:P3_has_note>Westfassade von Nordwesten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd456415</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd456415</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd456415</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_29">
+    <crm:P3_has_note>Inneres - Nördliches Seitenschiff nach Südwesten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10776e14</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10776e14</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 20.882/25</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_24">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi04709a10</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi04709a10</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>KBB 10.790</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_22">
+    <crm:P3_has_note>Teilansicht der Südseite (in restauro), im Hintergrund: Westbau</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10776e12</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10776e12</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.882/8</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20223983_301_4"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_16">
+    <crm:P3_has_note>Ansicht von Südosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10776e09</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10776e09</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 20.881/17</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_36">
+    <crm:P3_has_note>Inneres - Südliches Seitenschiff, Detail: Würfelkapitell</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10776f04</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10776f04</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 20.882/20</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_34">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi04709a13</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi04709a13</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.170.647</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20223983_102_1">
+    <crm:P3_has_note>Architektur</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4002851-3</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300263552</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_6">
+    <crm:P3_has_note>Teilansicht von Westen: nördlicher Turm</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10776e04</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10776e04</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 20.821/20</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_18">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi00636e03</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi00636e03</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>188.021</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_11">
+    <crm:P3_has_note>Chor von Nordosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd456417</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd456417</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd456417</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_31">
+    <crm:P3_has_note>Inneres - Südliches Querhaus nach Südosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10776f02</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10776f02</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 20.882/21</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_8">
+    <crm:P3_has_note>nördliches Seitenschiff und Nordwestturm von Nordosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd456416</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd456416</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd456416</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_1">
+    <crm:P3_has_note>Gesamtansicht von Westen; in restauro</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10776e01</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10776e01</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.808/7</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_13">
+    <crm:P3_has_note>Chor von Süden</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd456413</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd456413</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd456413</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20223983_201_1">
+    <crm:P1_is_identified_by>Ehemalige Stiftskirche Sankt Cyriakus</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20223983_205"/>
+  </crm:P55_has_current_location>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_23">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi00636e04</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi00636e04</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>147.358</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_39">
+    <crm:P3_has_note>Inneres, Westbau, Treppe zur Nonnenempore</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd456434</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd456434</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd456434</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20223983_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_25">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi04709a11</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi04709a11</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>KBB 10.790</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_9">
+    <crm:P3_has_note>Teilansicht der Nordseite</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10776e06</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10776e06</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.807/39</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_37">
+    <crm:P3_has_note>Inneres, Langhaus, Mittelschiff, Westwand, südliches Biforium zur Nonnenempore im Westbau, Ansicht von Osten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd456425</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd456425</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd456425</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_30">
+    <crm:P3_has_note>Inneres, Chor nach Osten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd456422</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd456422</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd456422</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20223983_301_5"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_20">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi04709a09</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi04709a09</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>KBB 10.789</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_7">
+    <crm:P3_has_note>Westbau, Teilansicht von Südosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd456414</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd456414</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd456414</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_2">
+    <crm:P3_has_note>Gesamtansicht von Nordwesten; in restauro</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10776e02</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10776e02</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.808/5</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_14">
+    <crm:P3_has_note>Südflanke und Westbau von Südosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd456411</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd456411</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd456411</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20223983_301_1"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_12">
+    <crm:P3_has_note>südliches Seitenschiff mit Nebenapsis und Südwestturm von Osten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd456418</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd456418</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd456418</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_32">
+    <crm:P3_has_note>Inneres, Langhaus, Mittelschiff, Südwand von Nordosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd456423</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd456423</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd456423</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20223983_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20223983</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20223983_301_2"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_701_28">
+    <crm:P3_has_note>Inneres, nördliches Seitenschiff nach Südosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20223983_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd456432</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd456432</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd456432</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+ </crm:E18_Physical_Thing>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20223983P1P1P1">
+  <crm:P1_is_identified_by>Deutschland</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20223983_205">
+  <crm:P46i_forms_part_of>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20223983P1"/>
+  </crm:P46i_forms_part_of>
+  <crm:P1_is_identified_by>Seeland (Salzlandkreis) - Frose</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20223983P1">
+  <crm:P46i_forms_part_of>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20223983P1P1"/>
+  </crm:P46i_forms_part_of>
+  <crm:P1_is_identified_by>Salzlandkreis</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20223983P1P1">
+  <crm:P46i_forms_part_of rdf:resource="http://www.fotomarburg.de/content/obj20223983P1P1P1"/>
+  <crm:P1_is_identified_by>Sachsen-Anhalt</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20223983_301_4">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20223983_312__4">
+    <crm:P80_end_is_qualified_by>1892</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1858</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20223983_304_4">
+    <crm:P3_has_note>Restaurierung_5060_4</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20223983_301_5">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20223983_312__5">
+    <crm:P80_end_is_qualified_by>1991</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1991</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20223983_304_5">
+    <crm:P3_has_note>Restaurierung_5060_5</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20223983_301_1">
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20223983_304_1">
+    <crm:P3_has_note>Auftrag</crm:P3_has_note>
+    <crm:P3_has_note>Commissioning</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00226</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20223983_301_2">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20223983_312__2">
+    <crm:P80_end_is_qualified_by>1170</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1170</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20223983_304_2">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20223983_301_3">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20223983_312__3">
+    <crm:P80_end_is_qualified_by>1800</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1701</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20223983_304_3">
+    <crm:P3_has_note>Restaurierung_5060_3</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20223983__308_1_1">
+  <crm:P1_is_identified_by>Benediktiner</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20223983_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20223983_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20223983_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20223983_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20223983_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20223983_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20223983_603">
+    <rdfs:label>Einzelobjekt</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00141</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20223983_309_1_1">
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/obj20223983__308_1_1"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20223983_301_1"/>
+ </crm:PC14_carried_out_by>
+</rdf:RDF>

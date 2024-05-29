@@ -1,0 +1,359 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:fmc="http://www.fotomarburg.de/content/"
+    xmlns:crm_pc="http://www.cidoc-crm.org/cidoc-crm-pc/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20144943">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20144943_701_8">
+    <crm:P3_has_note>Parterre</crm:P3_has_note>
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20144943_704">
+      <rdfs:label>Digitales Bild</rdfs:label>
+      <rdfs:label>Digitales Bild (retrodigitalisiert)</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02592b13</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02592b13</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>123.258</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20144943_701_2">
+    <crm:P3_has_note>Parterre</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20144943_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fm719321</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fm719321</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>719.321</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20144943_701_10">
+    <crm:P3_has_note>Hauptparterre nach Westen; rechts: Statue des Bacchus (R. A. Boos, 1782)</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20144943_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fm1554101</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fm1554101</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.554.101</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20144943_301_1"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20144943_701_6">
+    <crm:P3_has_note>Parterre</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20144943_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02592c04</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02592c04</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 506/1</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20144943_301_2"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20144943_701_9">
+    <crm:P3_has_note>Parterre</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20144943_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02592c05</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02592c05</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 514/9</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20144943_301_3"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20144943_701_3">
+    <crm:P3_has_note>Blick von der Freitreppe nach Nordosten übers Hauptparterre</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20144943_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmlac42732</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmlac42732</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>LAC 42.732</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20144943_701_13">
+    <crm:P3_has_note>Blick aus einem Fenster der Pagodenburg nach Südosten zum See</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20144943_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmc1570774</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmc1570774</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>C 1.570.774</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20144943_301_4"/>
+  </crm:P12i_was_present_at>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20144943_201_1">
+    <crm:P1_is_identified_by>Schlosspark Nymphenburg</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20144943_102_1">
+    <crm:P3_has_note>Architektur</crm:P3_has_note>
+    <crm:P3_has_note>Gartenkunst</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4125179-9</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300054157</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20144943_701_7">
+    <crm:P3_has_note>Parterre</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20144943_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02592b14</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02592b14</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>123.257</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20144943_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20144943_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20144943</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20144943_701_1">
+    <crm:P3_has_note>Parterre</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20144943_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02592c02</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02592c02</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>719.322</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20144943_701_11">
+    <crm:P3_has_note>Blick von der Badenburg über den See zum Monopteros</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20144943_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fm1554091</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fm1554091</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.554.091</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20144943_701_14">
+    <crm:P3_has_note>Blick aus einem Fenster der Pagodenburg nach Südosten zum See</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20144943_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fm1554149</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fm1554149</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.554.149</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20144943_701_5">
+    <crm:P3_has_note>Parterre</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20144943_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02592c03</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02592c03</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>719.323</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20144943_101_1">
+    <crm:P3_has_note>Regierungsgebäude</crm:P3_has_note>
+    <crm:P3_has_note>Profanbau öffentlich</crm:P3_has_note>
+    <crm:P3_has_note>Bauwerk</crm:P3_has_note>
+    <crm:P3_has_note>Schloss</crm:P3_has_note>
+    <crm:P3_has_note>Schlosspark</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4140684-9</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300008090</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20144943_205"/>
+  </crm:P55_has_current_location>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20144943_701_4">
+    <crm:P3_has_note>Blick von der Terrasse nach Nordwesten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20144943_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmlac719322</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmlac719322</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>LAC 719.322</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20144943_701_12">
+    <crm:P3_has_note>Blick aus einem Fenster der Pagodenburg nach Norden auf das Pagodenburger Tal</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20144943_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmc1570771</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmc1570771</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>C 1.570.771</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+ </crm:E18_Physical_Thing>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20144943_205">
+  <crm:P46i_forms_part_of>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20144943P1"/>
+  </crm:P46i_forms_part_of>
+  <crm:P1_is_identified_by>München - Nymphenburg</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20144943P1P1">
+  <crm:P46i_forms_part_of>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20144943P1P1P1"/>
+  </crm:P46i_forms_part_of>
+  <crm:P1_is_identified_by>Oberbayern, Regierungsbezirk</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20144943P1P1P1">
+  <crm:P46i_forms_part_of>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20144943P1P1P1P1"/>
+  </crm:P46i_forms_part_of>
+  <crm:P1_is_identified_by>Bayern</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20144943P1P1P1P1">
+  <crm:P1_is_identified_by>Deutschland</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20144943P1">
+  <crm:P46i_forms_part_of rdf:resource="http://www.fotomarburg.de/content/obj20144943P1P1"/>
+  <crm:P1_is_identified_by>kreisfrei</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20144943_301_1">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20144943_312__1">
+    <crm:P80_end_is_qualified_by>1664</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1664</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20144943_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20144943_301_3">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20144943_312__3">
+    <crm:P80_end_is_qualified_by>1715</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1715</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20144943_304_3">
+    <crm:P3_has_note>Ausbau</crm:P3_has_note>
+    <crm:P3_has_note>Part Addition</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00008</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20144943_301_2">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20144943_312__2">
+    <crm:P80_end_is_qualified_by>1702</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1702</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20144943_304_2">
+    <crm:P3_has_note>Erweiterung</crm:P3_has_note>
+    <crm:P3_has_note>Part Addition</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00008</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20144943_301_4">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20144943_312__4">
+    <crm:P80_end_is_qualified_by>1823</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1799</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20144943_304_4">
+    <crm:P3_has_note>Umgestaltung</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20144943_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20144943_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20144943_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20144943_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20144943_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20144943_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20144943_603">
+    <rdfs:label>Einzelobjekt</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00141</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20144943_309_3_2">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20144943_310_3_2_1">
+    <rdfs:label>Architekt</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20144943_301_3"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20144943_309_4_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20144943_310_4_1_1">
+    <rdfs:label>Gartenarchitekt</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20144943_301_4"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20144943_309_2_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20144943_310_2_1_1">
+    <rdfs:label>Gartenarchitekt</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20144943_301_2"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20144943_309_3_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20144943_310_3_1_1">
+    <rdfs:label>Gartenarchitekt</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20144943_301_3"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20144943_309_1_2">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20144943_310_1_2_1">
+    <rdfs:label>Bauleiter</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20144943_301_1"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20144943_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20144943_310_1_1_1">
+    <rdfs:label>Architekt</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20144943_301_1"/>
+ </crm:PC14_carried_out_by>
+</rdf:RDF>

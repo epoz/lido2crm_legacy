@@ -1,0 +1,354 @@
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dex="http://schema.digicult-verbund.de/dex" xmlns:gml="http://www.opengis.net/gml" xmlns:schemaLocation="http://schemas.opengis.net/gml/3.1.1/base/feature.xsd" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:type="local" lido:source="digiCULT Verbund eG">DE-MUS-059918/lido/mkg-e00121162</lido:lidoRecID>
+    <lido:category>
+      <lido:conceptID lido:type="URI" lido:source="CIDOC-CRM">http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object</lido:conceptID>
+    </lido:category>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType lido:type="Objektbezeichnung">
+            <lido:conceptID lido:type="uri" lido:source="xTree">http://obg.vocnet.org/x001212x</lido:conceptID>
+            <lido:conceptID lido:type="uri" lido:source="AAT">http://vocab.getty.edu/aat/300046300</lido:conceptID>
+            <lido:conceptID lido:type="uri" lido:source="GND">http://d-nb.info/gnd/4045895-7</lido:conceptID>
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+            <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Photo</lido:term>
+            <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Foto</lido:term>
+            <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Photographie</lido:term>
+            <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Lichtbild</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="Sachgruppe">
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Sachfotografie</lido:term>
+            <lido:term lido:pref="alternative" lido:addedSearchTerm="no" xml:lang="de">Objektstudien</lido:term>
+            <lido:term lido:pref="alternative" lido:addedSearchTerm="no" xml:lang="de">Sachphotographie</lido:term>
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="yes" xml:lang="de">Fotografie</lido:term>
+            <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Photographie</lido:term>
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="yes" xml:lang="de">Bildwerke/Angewandte und Bildende Kunst</lido:term>
+          </lido:classification>
+          <lido:classification lido:type="Sachgruppe">
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Experimentelle Fotografie</lido:term>
+            <lido:term lido:pref="alternative" lido:addedSearchTerm="no" xml:lang="de">Experimentelle Photographie</lido:term>
+            <lido:term lido:pref="alternative" lido:addedSearchTerm="no" xml:lang="de">Experimentalfotografie</lido:term>
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="yes" xml:lang="de">Fotografie</lido:term>
+            <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Photographie</lido:term>
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="yes" xml:lang="de">Bildwerke/Angewandte und Bildende Kunst</lido:term>
+          </lido:classification>
+          <lido:classification lido:type="Sammlung">
+            <lido:conceptID lido:type="URI" lido:source="http://collection.vocnet.org" />
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Fotografie und neue Medien</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred">"Cutting the Playing Card Quickly" aus dem Portfolio "Seeing the Unseen"</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:inscriptionsWrap>
+          <lido:inscriptions lido:type="Signatur">
+            <lido:inscriptionDescription>
+              <lido:descriptiveNoteValue>signiert
+Wo: verso
+Was: "35/60 Harold Edgerton"</lido:descriptiveNoteValue>
+            </lido:inscriptionDescription>
+          </lido:inscriptions>
+          <lido:inscriptions lido:type="Signatur">
+            <lido:inscriptionDescription>
+              <lido:descriptiveNoteValue>Stempel
+Wo: verso
+Was: MKG Sammlung zur Geschichte der Photographie, alte Inv.Nr.</lido:descriptiveNoteValue>
+            </lido:inscriptionDescription>
+          </lido:inscriptions>
+        </lido:inscriptionsWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet>
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="URI">info:isil/DE-MUS-059918</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Museum für Kunst und Gewerbe Hamburg</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>http://www.mkg-hamburg.de</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="Inventarnummer">P1979.3647.11</lido:workID>
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Hamburg</lido:appellationValue>
+              </lido:namePlaceSet>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet lido:type="Beschreibung Veröffentlichung">
+            <lido:descriptiveNoteValue>"The Jack of Diamonds is bisected by a .30 caliber bullet which has a speed of 2800 feet per second. The exposure time is about 0.5 microseconds (1/2000 seconds)." (Einleitung Mappenwerk)</lido:descriptiveNoteValue>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:displayObjectMeasurements>Bildmaß: Höhe: 28,00 cm; Breite: 35,00 cm
+Blattmaß: Höhe: 33,20 cm; Breite: 40,30 cm
+Passepartout (außen): Höhe: 40,60 cm; Breite: 50,70 cm</lido:displayObjectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+<!-- Warum wird eventType="Herstellung" wiederholt? -->
+              <lido:conceptID lido:type="URI" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+              <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Herstellung</lido:term>
+            </lido:eventType>
+            <lido:eventActor>
+              <lido:displayActorInRole>Edgerton, Harold E. (Fotograf/in)</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor lido:type="person">
+                  <lido:actorID lido:type="local" lido:source="digiCULT.web">2487</lido:actorID>
+                  <lido:actorID lido:type="URI" lido:source="GND">http://d-nb.info/gnd/118846949</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue lido:pref="preferred">Edgerton, Harold E.</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:nameActorSet>
+                    <lido:appellationValue lido:pref="alternative">Edgerton, Harold</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:nameActorSet>
+                    <lido:appellationValue lido:pref="alternative">Edgerton, Harold Eugene</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate>1903</lido:earliestDate>
+                    <lido:latestDate>1990</lido:latestDate>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+                <lido:roleActor>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Fotograf/in</lido:term>
+                </lido:roleActor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:displayDate>ca. 1964</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1964</lido:earliestDate>
+                <lido:latestDate>1964</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+<!-- Warum ist event:MaterialsTech zweimal vorhanden? Siehe nach eventPlace unten -->
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Dye-Transfer</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00212</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Dye-Transfer</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Farbpositivverfahren</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Technik">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/technik/tech00167</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Farbpositivverfahren</lido:term>
+                  <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Farbfotografie</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="URI" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+              <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Herstellung</lido:term>
+            </lido:eventType>
+            <lido:eventActor>
+              <lido:displayActorInRole>Boris Color Laboratory (Hersteller/in (Firma/Fabrikant/Manufaktur))</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor lido:type="corporation">
+                  <lido:actorID lido:type="local" lido:source="digiCULT.web">mkg-a0099100</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue lido:pref="preferred">Boris Color Laboratory</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor />
+                </lido:actor>
+                <lido:roleActor>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Hersteller/in (Firma/Fabrikant/Manufaktur)</lido:term>
+                </lido:roleActor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:date>
+                <lido:earliestDate>1977</lido:earliestDate>
+                <lido:latestDate>1977</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventPlace>
+              <lido:displayPlace>Boston (Mass.)</lido:displayPlace>
+              <lido:place>
+                <lido:placeID lido:type="uri" lido:source="xTree">http://digicult.vocnet.org/ort/6.5308</lido:placeID>
+                <lido:placeID lido:type="uri" lido:source="GND">http://d-nb.info/gnd/4007840-1</lido:placeID>
+                <lido:placeID lido:type="local" lido:source="TGN">7013445</lido:placeID>
+                <lido:placeID lido:type="uri" lido:source="GeoNames">http://www.geonames.org/4930956/boston.html</lido:placeID>
+                <lido:placeID lido:type="url" lido:source="Wikipedia de">http://de.wikipedia.org/wiki/Boston</lido:placeID>
+                <lido:placeID lido:type="url" lido:source="Wikipedia en">http://en.wikipedia.org/wiki/Boston</lido:placeID>
+                <lido:namePlaceSet>
+                  <lido:appellationValue lido:pref="preferred" xml:lang="de">Boston (Mass.)</lido:appellationValue>
+                </lido:namePlaceSet>
+              </lido:place>
+            </lido:eventPlace>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Dye-Transfer</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00212</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Dye-Transfer</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Farbpositivverfahren</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Technik">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/technik/tech00167</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Farbpositivverfahren</lido:term>
+                  <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Farbfotografie</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="URI" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00025</lido:conceptID>
+              <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Vollendung</lido:term>
+            </lido:eventType>
+            <lido:eventActor>
+              <lido:displayActorInRole>Kayafas, Gus (Herausgeber/in)</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor lido:type="person">
+                  <lido:actorID lido:type="local" lido:source="digiCULT.web">mkg-a0099098</lido:actorID>
+                  <lido:actorID lido:type="URI" lido:source="GND">http://d-nb.info/gnd/184658950</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue lido:pref="preferred">Kayafas, Gus</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor />
+                </lido:actor>
+                <lido:roleActor>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Herausgeber/in</lido:term>
+                </lido:roleActor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:date>
+                <lido:earliestDate>1977</lido:earliestDate>
+                <lido:latestDate>1977</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventPlace>
+              <lido:displayPlace>Boston (Mass.)</lido:displayPlace>
+              <lido:place>
+                <lido:placeID lido:type="uri" lido:source="xTree">http://digicult.vocnet.org/ort/6.5308</lido:placeID>
+                <lido:placeID lido:type="uri" lido:source="GND">http://d-nb.info/gnd/4007840-1</lido:placeID>
+                <lido:placeID lido:type="local" lido:source="TGN">7013445</lido:placeID>
+                <lido:placeID lido:type="uri" lido:source="GeoNames">http://www.geonames.org/4930956/boston.html</lido:placeID>
+                <lido:placeID lido:type="url" lido:source="Wikipedia de">http://de.wikipedia.org/wiki/Boston</lido:placeID>
+                <lido:placeID lido:type="url" lido:source="Wikipedia en">http://en.wikipedia.org/wiki/Boston</lido:placeID>
+                <lido:namePlaceSet>
+                  <lido:appellationValue lido:pref="preferred" xml:lang="de">Boston (Mass.)</lido:appellationValue>
+                </lido:namePlaceSet>
+              </lido:place>
+            </lido:eventPlace>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+          <lido:subjectSet>
+            <lido:subject lido:type="Ikonographie">
+              <lido:subjectConcept>
+                <lido:conceptID lido:type="uri" lido:source="xTree">http://digicult.vocnet.org/ikonographie/3.3482</lido:conceptID>
+                <lido:conceptID lido:type="uri" lido:source="GND">http://d-nb.info/gnd/4056228-1</lido:conceptID>
+                <lido:conceptID lido:type="local" lido:source="Iconclass">43C512</lido:conceptID>
+                <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Spielkarten</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject lido:type="Ikonographie">
+              <lido:subjectConcept>
+                <lido:conceptID lido:type="uri" lido:source="xTree">http://digicult.vocnet.org/ikonographie/3.3375</lido:conceptID>
+                <lido:conceptID lido:type="local" lido:source="Iconclass">45 C 17</lido:conceptID>
+                <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Geschosse, Projektile, Sprengkörper</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+        </lido:subjectWrap>
+        <lido:relatedWorksWrap />
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsType>
+            <lido:term lido:addedSearchTerm="no">urheberrechtlich geschützt</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>2010 Massachusetts Institute of Technology</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="local">mkg-e00121162</lido:recordID>
+        <lido:recordType>
+          <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource>
+          <lido:legalBodyName>
+            <lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>http://www.digicult-verbund.de</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordSource>
+          <lido:legalBodyName>
+            <lido:appellationValue>Museum für Kunst und Gewerbe Hamburg</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>http://www.mkg-hamburg.de</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="URI" lido:source="http://creativecommons.org">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">CC0 1.0</lido:term>
+          </lido:rightsType>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink>http://sammlungonline.mkg-hamburg.de/de/object/%22Cutting+the+Playing+Card+Quickly%22+aus+dem+Portfolio+%22Seeing+the+Unseen%22/P1979.3647.11/mkg-e00121162</lido:recordInfoLink>
+          <lido:recordMetadataDate lido:type="Erstellt">2016-09-15T20:18:18+02:00</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet lido:sortorder="1">
+          <lido:resourceRepresentation lido:type="image_thumbnail">
+            <lido:linkResource lido:formatResource="JPEG">http://resources.digicult-museen.net/dam/preview_image_thumbnail/m57d2f95d2275f</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term lido:addedSearchTerm="no">digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz</lido:conceptID>
+              <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Rechte vorbehalten - freier Zugang</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyName>
+                <lido:appellationValue>2010 Massachusetts Institute of Technology</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

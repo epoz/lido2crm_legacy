@@ -1,0 +1,354 @@
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" 
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+               xmlns:gml="http://www.opengis.net/gml" 
+               xsi:schemaLocation="http://www.lido-schema.org lido-v1.0.xsd">
+<lido:lido>
+  <lido:lidoRecID lido:type="local" lido:source="digiCULT Verbund eG">DE-MUS-059918/lido/dc00000680</lido:lidoRecID>
+<!-- EZXBSL5IGG7CCSNKQ2VA3UFI3DUOXHBO ; http://www.museumhuelsmann.de/cms/archiv-roerstrand.html ; 
+     s.a. http://www.europeana.eu/portal/de/record/2048429/item_EZXBSL5IGG7CCSNKQ2VA3UFI3DUOXHBO.html
+     zum Vergleich: https://www.deutsche-digitale-bibliothek.de/item/BFM2FF5MG3ZRRCOI4VFZMRWJORSIW3DY
+     https://www.deutsche-digitale-bibliothek.de/item/6OJFO3A6S4B5GFCW6XJQYMYKH7FYHUMR 
+     https://www.deutsche-digitale-bibliothek.de/item/IE55LO3PLBAKAPCJR37MHTE4RRVQHX4S RÖRSTAND!
+     Beispiel für "Vase" aus CDWA http://www.getty.edu/research/publications/electronic_publications/cdwa/examples/78_Chinese_vase.html -->
+ 
+  <lido:category>
+<!-- Wofür dient category? Welcher URI soll für CIDOC-CRM angegeben werden?  -->    
+    <lido:conceptID lido:type="URI" lido:source="CIDOC-CRM">http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object</lido:conceptID>
+  </lido:category>
+  <lido:descriptiveMetadata xml:lang="de">
+    <lido:objectClassificationWrap>
+
+      <lido:objectWorkTypeWrap>
+<!-- Was bedeutet type="Objektbezeichnung", manchmal "Sachbegriff"? -->
+        <lido:objectWorkType lido:type="Objektbezeichnung">
+<!-- "xTree" ist keine Quelle, oder? Wie sollen Quellenangaben für a) URI/IRI-Referenzen b) nicht LD-Ressourcen aussehen?
+     Dieses Objekt lässt sich nicht mit dem generischen Einfachbegriff "Vase" finden, wenn nicht der Oberbegriff der OBG 
+     für ein automatisches Explode (Suchausweitung über Hierarchien) zur Verfügung steht. 
+     http://d-nb.info/gnd/1104959879 Keramikvase -->           
+          <lido:conceptID lido:type="uri" lido:source="xTree">http://obg.vocnet.org/20.8545</lido:conceptID>
+          <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Bodenvase</lido:term>
+          <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">Bodenvase</lido:term>
+     <!-- <lido:term lido:addedSearchTerm="yes" xml:lang="de">Vase</lido:term> -->
+        </lido:objectWorkType>
+      </lido:objectWorkTypeWrap>
+      <lido:classificationWrap>
+<!-- Für einen browsenden Zugang zu dem Objekt müssten Klassen aus allgemeinen Klassifikationen ergänzt werden, 
+     zum Beispiel DDC 738.3 Irden- und Steingut BT 738 Keramikkunst ; http://udcdata.info/065191 738 Kunstkeramik. Kunsttöpferei ;
+     http://udcdata.info/065196 738.3 Steingut ; http://d-nb.info/standards/vocab/gnd/gnd-sc#13.6 Kunsthandwerk --> 
+        <lido:classification lido:type="Sachgruppe">
+          <lido:conceptID lido:type="uri" lido:source="xTree">http://digicult.vocnet.org/sachgruppe/1.632</lido:conceptID>
+          <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Zierobjekte</lido:term>
+        </lido:classification>
+<!-- Wieso wird "Stil" als Typ von classification betrachtet und nicht in einem eigenen Element 
+     http://www.getty.edu/research/publications/electronic_publications/cdwa/17styles.html erfasst? 
+     Siehe CIDOC-CRM http://www.cidoc-crm.org/Entity/E4-Period/Version-6.2. 
+     Sind Wikipedia-Seiten als Identifikatoren geeignet? Stattdessen http://de.dbpedia.org/resource/Jugendstil (offensichtlich nicht mehr gepflegt) 
+     oder http://dbpedia.org/resource/Art_Nouveau; vorzugsweise Wikidata https://www.wikidata.org/wiki/Q34636 wegen Verlinkung zu Normdaten
+     (Abschnitt Identifiers) und kann automatischer Abfragemöglichkeit (Sparql) -->
+        <lido:classification lido:type="Stil">
+          <lido:conceptID lido:type="uri" lido:source="xTree">http://digicult.vocnet.org/stil/601.42</lido:conceptID>
+          <lido:conceptID lido:type="uri" lido:source="GND">http://d-nb.info/gnd/4028939-4</lido:conceptID>
+          <lido:conceptID lido:type="url" lido:source="Wikipedia de">http://de.wikipedia.org/wiki/Jugendstil</lido:conceptID>
+          <lido:conceptID lido:type="url" lido:source="Wikipedia en">http://en.wikipedia.org/wiki/Art_Nouveau</lido:conceptID>
+          <lido:conceptID lido:type="url" lido:source="Wikipedia da">http://da.wikipedia.org/wiki/Jugendstil</lido:conceptID>
+          <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Jugendstil</lido:term>
+          <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Art nouveau</lido:term>
+          <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Stile floreale</lido:term>
+          <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Stile liberty</lido:term>
+        </lido:classification>
+        <lido:classification lido:type="Sammlung">
+          <lido:conceptID lido:type="URI" lido:source="http://collection.vocnet.org"></lido:conceptID>
+          <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Moderne</lido:term>
+        </lido:classification>
+      </lido:classificationWrap>
+    </lido:objectClassificationWrap>
+    <lido:objectIdentificationWrap>
+      <lido:titleWrap>
+<!-- Titel mit Aussagekraft sind besser, um auf den ersten Blick in einer Ergebnisliste relevante Objekte erkennen zu können 
+     (solange es keine echte Facettierung gibt). Zum Beispiel: type="descriptive": Schwedische Jugendstilvase mit Meeresmotiven -->
+        <lido:titleSet lido:type="Objektbezeichnung">
+          <lido:appellationValue lido:pref="preferred">Bodenvase</lido:appellationValue>
+        </lido:titleSet>
+      </lido:titleWrap>
+      <lido:inscriptionsWrap>
+        <lido:inscriptions lido:type="Signatur">
+          <lido:inscriptionDescription>
+            <lido:descriptiveNoteValue>unbezeichnet</lido:descriptiveNoteValue>
+          </lido:inscriptionDescription>
+        </lido:inscriptions>
+      </lido:inscriptionsWrap>
+      <lido:repositoryWrap>
+        <lido:repositorySet>
+          <lido:repositoryName>
+            <lido:legalBodyID lido:type="URI">info:isil/DE-MUS-059918</lido:legalBodyID>
+            <lido:legalBodyName>
+              <lido:appellationValue>Museum f&#xFC;r Kunst und Gewerbe Hamburg</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://www.mkg-hamburg.de</lido:legalBodyWeblink>
+          </lido:repositoryName>
+          <lido:workID lido:type="Inventarnummer">1988.234</lido:workID>
+        </lido:repositorySet>
+      </lido:repositoryWrap>
+      <lido:objectDescriptionWrap/>
+      <lido:objectMeasurementsWrap>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>Gesamt: H&#xF6;he: 114,00 cm; M&#xFC;ndungsdurchmesser: 33,50 cm; Bodendurchmesser: 28,00 cm (Standfu&#xDF;)</lido:displayObjectMeasurements>
+        </lido:objectMeasurementsSet>
+      </lido:objectMeasurementsWrap>
+    </lido:objectIdentificationWrap>
+    <lido:eventWrap>
+      <lido:eventSet>
+        <lido:event>
+          <lido:eventType>
+            <lido:conceptID lido:type="URI" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00224</lido:conceptID>
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Entwurf</lido:term>
+          </lido:eventType>
+          <lido:eventActor>
+            <lido:displayActorInRole>Wallander, Alf (K&#xFC;nstler/in)</lido:displayActorInRole>
+            <lido:actorInRole>
+              <lido:actor lido:type="person">
+                <lido:actorID lido:type="local" lido:source="digiCULT.web">10664</lido:actorID>
+                <lido:actorID lido:type="URI" lido:source="GND">http://d-nb.info/gnd/1031315950</lido:actorID>
+                <lido:nameActorSet>
+                  <lido:appellationValue lido:pref="preferred">Wallander, Alf</lido:appellationValue>
+                </lido:nameActorSet>
+                <lido:vitalDatesActor>
+                  <lido:earliestDate>1862</lido:earliestDate>
+                  <lido:latestDate>1914</lido:latestDate>
+                </lido:vitalDatesActor>
+              </lido:actor>
+              <lido:roleActor>
+                <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">K&#xFC;nstler/in</lido:term>
+              </lido:roleActor>
+            </lido:actorInRole>
+          </lido:eventActor>
+          <lido:eventDate>
+            <lido:date>
+              <lido:earliestDate>1898</lido:earliestDate>
+              <lido:latestDate>1898</lido:latestDate>
+            </lido:date>
+          </lido:eventDate>
+          <lido:eventPlace>
+            <lido:displayPlace>Stockholm</lido:displayPlace>
+            <lido:place>
+              <lido:placeID lido:type="uri" lido:source="xTree">http://digicult.vocnet.org/ort/6.870</lido:placeID>
+              <lido:namePlaceSet>
+                <lido:appellationValue lido:pref="preferred" xml:lang="de">Stockholm</lido:appellationValue>
+              </lido:namePlaceSet>
+            </lido:place>
+          </lido:eventPlace>
+        </lido:event>
+      </lido:eventSet>
+      <lido:eventSet>
+        <lido:event>
+          <lido:eventType>
+            <lido:conceptID lido:type="URI" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00031</lido:conceptID>
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Ausf&#xFC;hrung</lido:term>
+          </lido:eventType>
+          <lido:eventActor>
+            <lido:displayActorInRole>R&#xF6;rstrand Porzellan- und Fayencenmanfaktur (Hersteller/in (Firma/Fabrikant/Manufaktur))</lido:displayActorInRole>
+            <lido:actorInRole>
+              <lido:actor lido:type="corporation">
+                <lido:actorID lido:type="local" lido:source="digiCULT.web">mkg-a0101111</lido:actorID>
+                <lido:actorID lido:type="URI" lido:source="GND">http://d-nb.info/gnd/16313754-7</lido:actorID>
+<!-- Wieso Wiederholung von nameActorSet für alternative Bezeichnungen? Sprache fehlt. Wie verhalten sich die folgenden Hinweise zueinander?
+     lido:appellationValue: How to record: If there is more than one name, repeat the appellation element. 
+     lido:nameActorSet: How to record: if there exists more than one name for a single actor, repeat Name Actor Set. -->
+                <lido:nameActorSet>
+                  <lido:appellationValue lido:pref="preferred">R&#xF6;rstrand Porzellan- und Fayencenmanfaktur</lido:appellationValue>
+                </lido:nameActorSet>
+                <lido:nameActorSet>
+                  <lido:appellationValue lido:pref="alternative">R&#xF6;rstrand (Porzellanmanufaktur, Stockholm)</lido:appellationValue>
+                </lido:nameActorSet>
+                <lido:nameActorSet>
+                  <lido:appellationValue lido:pref="alternative">R&#xF6;rstrand Porslinsfabriker A.B.</lido:appellationValue>
+                </lido:nameActorSet>
+                <lido:vitalDatesActor/>
+              </lido:actor>
+              <lido:roleActor>
+                <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Hersteller/in (Firma/Fabrikant/Manufaktur)</lido:term>
+              </lido:roleActor>
+            </lido:actorInRole>
+          </lido:eventActor>
+          <lido:eventDate>
+            <lido:date>
+              <lido:earliestDate>1898</lido:earliestDate>
+              <lido:latestDate>1898</lido:latestDate>
+            </lido:date>
+          </lido:eventDate>
+          <lido:eventPlace>
+            <lido:displayPlace>Stockholm</lido:displayPlace>
+            <lido:place>
+              <lido:placeID lido:type="uri" lido:source="xTree">http://digicult.vocnet.org/ort/6.870</lido:placeID>
+              <lido:namePlaceSet>
+                <lido:appellationValue lido:pref="preferred" xml:lang="de">Stockholm</lido:appellationValue>
+              </lido:namePlaceSet>
+            </lido:place>
+          </lido:eventPlace>
+          <lido:eventMaterialsTech>
+            <lido:displayMaterialsTech>Fayence</lido:displayMaterialsTech>
+            <lido:materialsTech>
+              <lido:termMaterialsTech lido:type="Material">
+<!-- http://d-nb.info/gnd/4127928-1 Fayence BT Keramik ; http://vocab.getty.edu/aat/300265183 faience (composite material) ;
+     Wozu wird noch ein weiteres Vokabular "Material" benötigt? Sind die vielen partikularen Vokabulare zu einem 
+     Thema/Aspekt nicht der Idee von Linked Data entgegengesetzt? Auf jeden Fall ist die Vielfalt "proprietärer" und sich oft 
+     widersprechender Vokabulare hinderlich für das Retrieval (in "xTree" weitere Einträge für "Fayence: 
+     http://digicult.vocnet.org/material/7.44 ; http://helmsmuseum.vocnet.org/material/71.55 ;  
+     S.a. https://www.deutsche-digitale-bibliothek.de/item/XCWWJHD35B4U4YXJQO6H5FRQUUHVIRIY -->
+                <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00406</lido:conceptID>
+                <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Fayence</lido:term>
+              </lido:termMaterialsTech>
+            </lido:materialsTech>
+          </lido:eventMaterialsTech>
+          <lido:eventMaterialsTech>
+            <lido:displayMaterialsTech>Unterglasurdekor</lido:displayMaterialsTech>
+            <lido:materialsTech>
+              <lido:termMaterialsTech lido:type="Technik">
+<!-- http://vocab.getty.edu/aat/300048642 underglazing ; http://d-nb.info/gnd/4707892-3 Unterglasurmalerei. 
+     Ist "Unterglasurdekor" eine Technik? Welchen Zweck haben die wiederholten Display-Elemente? 
+     http://digicult.vocnet.org/technik/8.130 Unterglasurmalerei ; 
+     Das Hamburger Technikvokabular widerspricht den Regeln und Standards für kontrollierte Vokabulare und ist meines Erachtens nicht  
+     zur Nutzung zu empfehlen. 
+     S.a. Unterglasurdekor: https://www.deutsche-digitale-bibliothek.de/item/HG4ZNKDSJJNTWCKQVWTJZMKUKHTTYVWR
+     DHM https://www.deutsche-digitale-bibliothek.de/item/LWY7LXNBS2SGWE2M6WPJJTUJDNOEKEVM -->
+                <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/technik/tech00235</lido:conceptID>
+                <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Unterglasurdekor</lido:term>
+              </lido:termMaterialsTech>
+            </lido:materialsTech>
+          </lido:eventMaterialsTech>
+          <lido:eventMaterialsTech>
+<!-- http://vocab.getty.edu/aat/300048642 underglazing 
+     Note: In ceramics, the application of color to the surface of a clay body before application of a transparent glaze; 
+     http://d-nb.info/gnd/4707892-3 Unterglasurmalerei. "Unterglasurmalerei" schließt Keramik und Bemalung ein.
+     Heißt der Indexterm "bemalt (Keramik)" im Vokabular genau so? Das geht in kontrollierten Vokabularen nicht. -->
+            <lido:displayMaterialsTech>bemalt (Keramik)</lido:displayMaterialsTech>
+            <lido:materialsTech>
+              <lido:termMaterialsTech lido:type="Technik">
+                <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/technik/tech00844</lido:conceptID>
+                <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">bemalt (Keramik)</lido:term>
+              </lido:termMaterialsTech>
+            </lido:materialsTech>
+          </lido:eventMaterialsTech>
+        </lido:event>
+      </lido:eventSet>
+    </lido:eventWrap>
+    <lido:objectRelationWrap>
+      <lido:subjectWrap>
+        <lido:subjectSet>
+<!-- Warum type="Ikonographie"? Iconclass ist zur Beschreibung kunstgeschichtlicher Objekte, insbesondere der Mythologie, geeignet. 
+     Der GND-Deskriptor "Fische (Motiv)" ist geeignet; ist http://d-nb.info/gnd/7529255-5 Karpfen (Motiv) angebracht, woher kommt das Schlagwort?
+     Karpfen sind keine Meerwasserfische und sehen anders aus; wenn es sich um Karpfen handelt, dann ist das Gewässer kein Meer (Seestück sowieso nicht),
+     sondern ein Binnensee; Rörstrand ist bekannt für Motive der Meeresbiologie, also eher keine Karpfen; indexiert werden sollt nur, was wirklich
+     gesichert ist oder Ungesichertes sollte mit Erläuterung versehen sein. S.a. Abbildung http://resources.digicult-museen.net/dam/provided_image/m57d2e02270223 ;
+     http://vocab.getty.edu/aat/300266085 fish (animals) ; http://vocab.getty.edu/aat/300250185 carp? -->
+          <lido:subject lido:type="Ikonographie">
+            <lido:subjectConcept>
+              <lido:conceptID lido:type="uri" lido:source="xTree">http://digicult.vocnet.org/ikonographie/3.814</lido:conceptID>
+              <lido:conceptID lido:type="uri" lido:source="GND">http://d-nb.info/gnd/4154461-4</lido:conceptID>
+              <lido:conceptID lido:type="local" lido:source="Iconclass">25F6</lido:conceptID>
+              <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Fische (Tiere)</lido:term>
+              <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">Karpfen</lido:term>
+            </lido:subjectConcept>
+          </lido:subject>
+        </lido:subjectSet>
+        <lido:subjectSet>
+          <lido:subject lido:type="Ikonographie">
+<!-- http://d-nb.info/gnd/4123940-4 Pflanzendarstellung ist geeignet. NT http://d-nb.info/gnd/4547898-3 Algen (Motiv) ;  
+     http://d-nb.info/gnd/4174047-6 Pflanzen (Motiv) Zweifelsfall in der GND ; http://d-nb.info/gnd/4064761-4 Wasserpflanzen 
+     Die Eigenschaft, als "Motiv" aufzutreten, ist in "subject" implizit 
+     http://www.getty.edu/research/publications/electronic_publications/cdwa/18subject.html.
+     Eine Typisierung in general/specific subject und description, identification, interpretation ist sinnvoll. 
+     In der DDB kein Treffer für "Pflanzenabbildung"; 642 für "Pflanzen, Vegetation", einschließlich dieser Bodenvase ; 
+     209 für "Pflanzen (Motiv)", diese Bodenvase nicht enthalten. -->            
+            <lido:subjectConcept>
+              <lido:conceptID lido:type="uri" lido:source="xTree">http://digicult.vocnet.org/ikonographie/3.531</lido:conceptID>
+              <lido:conceptID lido:type="uri" lido:source="GND">http://d-nb.info/gnd/4123940-4</lido:conceptID>
+              <lido:conceptID lido:type="local" lido:source="Iconclass">25G</lido:conceptID>
+              <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Pflanzen, Vegetation</lido:term>
+              <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Pflanzen &lt;Motiv&gt; / Kunst</lido:term>
+              <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Pflanzenabbildung</lido:term>
+              <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">Wasserpflanze, Alge</lido:term>
+            </lido:subjectConcept>
+          </lido:subject>
+        </lido:subjectSet>
+        <lido:subjectSet>
+          <lido:subject lido:type="Ikonographie">
+<!-- http://d-nb.info/gnd/4169235-4 Meer (Motiv)" ist geeignet; http://d-nb.info/gnd/4037563-8 Marinemalerei trifft nicht zu, ist kein Seestück; 
+     http://www.iconclass.org/rkd/25H2/ Landschaften mit Gewässern trifft nicht zu; http://www.iconclass.org/rkd/25H23/ Meer (Seestück) trifft nicht zu;
+     http://d-nb.info/gnd/4480256-0 Unterwasserwelt ist geeignet, ohne HZ für Motiv, märchenhafte Welt -->
+            <lido:subjectConcept>
+              <lido:conceptID lido:type="uri" lido:source="xTree">http://digicult.vocnet.org/ikonographie/3.793</lido:conceptID>
+              <lido:conceptID lido:type="uri" lido:source="GND">http://d-nb.info/gnd/4037563-8</lido:conceptID>
+              <lido:conceptID lido:type="uri" lido:source="GND">http://d-nb.info/gnd/4169235-4</lido:conceptID>
+              <lido:conceptID lido:type="local" lido:source="Iconclass">25H23</lido:conceptID>
+              <lido:conceptID lido:type="local" lido:source="Iconclass">25H232</lido:conceptID>
+              <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Meer (Seest&#xFC;ck)</lido:term>
+              <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">Unterwasserwelt</lido:term>
+            </lido:subjectConcept>
+          </lido:subject>
+        </lido:subjectSet>
+      </lido:subjectWrap>
+      <lido:relatedWorksWrap/>
+    </lido:objectRelationWrap>
+  </lido:descriptiveMetadata>
+  <lido:administrativeMetadata xml:lang="de">
+    <lido:rightsWorkWrap>
+      <lido:rightsWorkSet>
+        <lido:rightsType>
+          <lido:term>gemeinfrei</lido:term>
+        </lido:rightsType>
+        <lido:creditLine>Geschenk von Dr. Horst St&#xFC;tzer, Hamburg</lido:creditLine>
+      </lido:rightsWorkSet>
+    </lido:rightsWorkWrap>
+    <lido:recordWrap>
+      <lido:recordID lido:type="local">dc00000680</lido:recordID>
+      <lido:recordType>
+        <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Einzelobjekt</lido:term>
+      </lido:recordType>
+      <lido:recordSource>
+        <lido:legalBodyName>
+          <lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+        </lido:legalBodyName>
+        <lido:legalBodyWeblink>http://www.digicult-verbund.de</lido:legalBodyWeblink>
+      </lido:recordSource>
+      <lido:recordSource>
+        <lido:legalBodyName>
+          <lido:appellationValue>Museum f&#xFC;r Kunst und Gewerbe Hamburg</lido:appellationValue>
+        </lido:legalBodyName>
+        <lido:legalBodyWeblink>http://www.mkg-hamburg.de</lido:legalBodyWeblink>
+      </lido:recordSource>
+      <lido:recordRights>
+        <lido:rightsType>
+          <lido:conceptID lido:type="URI" lido:source="http://creativecommons.org">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+          <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">CC0 1.0</lido:term>
+        </lido:rightsType>
+      </lido:recordRights>
+      <lido:recordInfoSet>
+        <lido:recordInfoLink>http://sammlungonline.mkg-hamburg.de/de/object/Bodenvase/1988.234/dc00000680</lido:recordInfoLink>
+        <lido:recordMetadataDate lido:type="Erstellt">2016-09-15T19:23:53+02:00</lido:recordMetadataDate>
+      </lido:recordInfoSet>
+    </lido:recordWrap>
+    <lido:resourceWrap>
+      <lido:resourceSet lido:sortorder="1">
+        <lido:resourceRepresentation lido:type="provided_image">
+          <lido:linkResource lido:formatResource="JPEG">http://resources.digicult-museen.net/dam/provided_image/m57d2e02270223</lido:linkResource>
+        </lido:resourceRepresentation>
+        <lido:resourceType>
+          <lido:term>digitales Bild</lido:term>
+        </lido:resourceType>
+        <lido:resourceSource lido:type="Fotograf">
+          <lido:legalBodyName>
+            <lido:appellationValue>Luther &amp; Fellenberg</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:resourceSource>
+        <lido:rightsResource>
+          <lido:rightsType>
+            <lido:conceptID lido:type="URI">http://creativecommons.org/licenses/by/3.0/de/</lido:conceptID>
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">CC BY 3.0 DE</lido:term>
+          </lido:rightsType>
+        </lido:rightsResource>
+      </lido:resourceSet>
+    </lido:resourceWrap>
+  </lido:administrativeMetadata>
+</lido:lido>
+</lido:lidoWrap>

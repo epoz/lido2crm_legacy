@@ -1,0 +1,550 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:fmc="http://www.fotomarburg.de/content/"
+    xmlns:crm_pc="http://www.cidoc-crm.org/cidoc-crm-pc/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20225099">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_23">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20225099_704">
+      <rdfs:label>Digitales Bild</rdfs:label>
+      <rdfs:label>Digitales Bild (retrodigitalisiert)</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650a09</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650a09</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.015.820</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_6">
+    <crm:P3_has_note>Inneres - 3. Stock: Dichterzimmer; Detail: Schreibtisch</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650b04</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650b04</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.218/3</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_37">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmc453661</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmc453661</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>C 453.661</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_32">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi05276d13</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi05276d13</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>901.920</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_24">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650a14</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650a14</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.015.821</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_18">
+    <crm:P3_has_note>Inneres - Erdgeschoss: Gartensaal</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650a02</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650a02</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.213/7</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20225099_102_1">
+    <crm:P3_has_note>Architektur</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4002851-3</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300263552</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20225099_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20225099_301_3"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_17">
+    <crm:P3_has_note>Inneres - Erdgeschoss: Gartensaal</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650a01</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650a01</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.218/12</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_4">
+    <crm:P3_has_note>Inneres - 3. Stock: Dichterzimmer</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650b01</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650b01</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.217/12</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_26">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi00608d04</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi00608d04</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>189.989</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_16">
+    <crm:P3_has_note>Inneres - 1. Stock: Mittleres Zimmer, das sogenannte "Peking"</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650a07</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650a07</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.217/3</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_1">
+    <crm:P3_has_note>Teilansicht der Hauptfassade</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10649g09</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10649g09</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.213/5</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20225099_101_1">
+    <crm:P3_has_note>Profanbau öffentlich</crm:P3_has_note>
+    <crm:P3_has_note>Bauwerk</crm:P3_has_note>
+    <crm:P3_has_note>Bildungsbau</crm:P3_has_note>
+    <crm:P3_has_note>Museum</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4040795-0</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300005768</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_10">
+    <crm:P3_has_note>Inneres - 2. Stock: Gemäldezimmer</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650a10</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650a10</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.217/9</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_31">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi05276d12</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi05276d12</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>901.922</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_21">
+    <crm:P3_has_note>Gartenansicht</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10649g13</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10649g13</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.213/9</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_3">
+    <crm:P3_has_note>Inneres - 3. Stock: Dichterzimmer</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650b02</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650b02</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.213/11</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_13">
+    <crm:P3_has_note>Inneres - 2. Stock: Gemäldezimmer</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650a13</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650a13</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.217/6</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_30">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi05276d11</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi05276d11</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>901.921</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_22">
+    <crm:P3_has_note>Blick in den Garten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10649g12</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10649g12</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.218/11</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_12">
+    <crm:P3_has_note>Inneres - 2. Stock: Gemäldezimmer</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650a12</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650a12</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.217/4</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_33">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi05276d14</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi05276d14</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>901.919</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20225099_301_2"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_19">
+    <crm:P3_has_note>Inneres - Zimmer, Detail: Sitzecke</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650b05</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650b05</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.217/8</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20225099_201_1">
+    <crm:P1_is_identified_by>Goethehaus</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_15">
+    <crm:P3_has_note>Inneres - 1. Stock: Mittleres Zimmer, das sogenannte "Peking"</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650a06</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650a06</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.217/2</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20225099_301_1"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_36">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650d08</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650d08</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>LA 5.925/38</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_29">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fm827849</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fm827849</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>827.849</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_9">
+    <crm:P3_has_note>Inneres - Erdgeschoss: Küche, Teilansicht</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650a03</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650a03</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.218/7</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_11">
+    <crm:P3_has_note>Inneres - 2. Stock: Gemäldezimmer</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650a11</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650a11</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.217/5</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E5_Event rdf:about="http://www.fotomarburg.de/content/obj20225099_301_5">
+    <crm:P4_has_time-span>
+     <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20225099_312__5">
+      <crm:P80_end_is_qualified_by>1944</crm:P80_end_is_qualified_by>
+      <crm:P79_beginning_is_qualified_by>1944</crm:P79_beginning_is_qualified_by>
+     </crm:E52_Time-Span>
+    </crm:P4_has_time-span>
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20225099_304_5">
+      <crm:P3_has_note>Zerstörung</crm:P3_has_note>
+      <crm:P3_has_note>Destruction</crm:P3_has_note>
+      <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00026</crm:P1_is_identified_by>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E5_Event>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_20">
+    <crm:P3_has_note>Gartenansicht</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10649g14</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10649g14</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>LA 8.294/25</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_2">
+    <crm:P3_has_note>Teilansicht der Gartenseite mit Blick in den Innenhof</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10649g11</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10649g11</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.217/11</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_7">
+    <crm:P3_has_note>Inneres - 1. Stock: Musikzimmer</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650a08</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650a08</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.218/6</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20225099_205"/>
+  </crm:P55_has_current_location>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_35">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10649g05</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10649g05</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>LA 5.925/39</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_25">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi00608d03</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi00608d03</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>189.988</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_34">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10649g04</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10649g04</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.037.252</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_5">
+    <crm:P3_has_note>Inneres - 3. Stock: Dichterzimmer; Detail: Schreibtisch</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650b03</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650b03</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.213/12</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20225099_301_6"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_27">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmkbb10509</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmkbb10509</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>KBB 10.509</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_14">
+    <crm:P3_has_note>Inneres - 1. Stock: Mittleres Zimmer, das sogenannte "Peking"</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650a05</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650a05</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.217/1</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_28">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fm820213</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fm820213</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>820.213</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_701_8">
+    <crm:P3_has_note>Inneres - Erdgeschoss: Küche, Teilansicht</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20225099_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi10650a04</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi10650a04</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 4.218/8</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20225099_301_4"/>
+  </crm:P12i_was_present_at>
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20225099_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20225099</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+ </crm:E18_Physical_Thing>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20225099P1P1">
+  <crm:P46i_forms_part_of>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20225099P1P1P1"/>
+  </crm:P46i_forms_part_of>
+  <crm:P1_is_identified_by>Darmstadt, Regierungsbezirk</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20225099P1P1P1P1">
+  <crm:P1_is_identified_by>Deutschland</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20225099_205">
+  <crm:P46i_forms_part_of>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20225099P1"/>
+  </crm:P46i_forms_part_of>
+  <crm:P1_is_identified_by>Frankfurt (Main), Großer Hirschgraben 23</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20225099P1P1P1">
+  <crm:P46i_forms_part_of rdf:resource="http://www.fotomarburg.de/content/obj20225099P1P1P1P1"/>
+  <crm:P1_is_identified_by>Hessen</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20225099P1">
+  <crm:P46i_forms_part_of rdf:resource="http://www.fotomarburg.de/content/obj20225099P1P1"/>
+  <crm:P1_is_identified_by>kreisfrei</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20225099_301_1">
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20225099_316_1_2">
+    <rdfs:label>Putz</rdfs:label>
+    <rdfs:label>verputzt</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20225099_316_1_1">
+    <rdfs:label>Skelettbau</rdfs:label>
+    <rdfs:label>Fachwerk</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20225099_312__1">
+    <crm:P80_end_is_qualified_by>1719</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1719</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20225099_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20225099_301_6">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20225099_312__6">
+    <crm:P80_end_is_qualified_by>1951</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1946</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20225099_304_6">
+    <crm:P3_has_note>Wiederaufbau</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20225099_301_2">
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20225099_304_2">
+    <crm:P3_has_note>Geburtshaus</crm:P3_has_note>
+    <crm:P3_has_note>Use</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00011</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20225099_301_3">
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20225099_304_3">
+    <crm:P3_has_note>Nutzung</crm:P3_has_note>
+    <crm:P3_has_note>Use</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00011</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20225099_301_4">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20225099_312__4">
+    <crm:P80_end_is_qualified_by>1756</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1755</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20225099_304_4">
+    <crm:P3_has_note>Umbau</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20225099_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20225099_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20225099_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20225099_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20225099_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20225099_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20225099_603">
+    <rdfs:label>Einzelobjekt</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00141</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20225099_309_3_2">
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20225099_301_3"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20225099_309_2_1">
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20225099_301_2"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20225099_309_3_1">
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20225099_301_3"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20225099_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20225099_310_1_1_1">
+    <rdfs:label>Entwerfer</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20225099_301_1"/>
+ </crm:PC14_carried_out_by>
+</rdf:RDF>

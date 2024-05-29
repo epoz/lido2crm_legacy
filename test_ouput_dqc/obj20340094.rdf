@@ -1,0 +1,1096 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:fmc="http://www.fotomarburg.de/content/"
+    xmlns:crm_pc="http://www.cidoc-crm.org/cidoc-crm-pc/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20340094">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20340094_704">
+      <rdfs:label>Digitales Bild</rdfs:label>
+      <rdfs:label>Digitales Bild (retrodigitalisiert)</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009h06</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009h06</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.047.403</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_96">
+    <crm:P3_has_note>Inneres - Südliches Seitenschiff; nach Westen</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437f10</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437f10</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.425/26</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20340094_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_52">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009h17</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009h17</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 5.151/9</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_17">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02946a07</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02946a07</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>Z 13.425</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_18">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009h10</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009h10</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.056.969</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_26">
+    <crm:P3_has_note>nördliches Querhaus, Portal von Norden</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454112</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454112</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454112</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_76">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009i07</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009i07</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.047.406</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_81">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009i06</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009i06</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.046.210</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_62">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02946a13</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02946a13</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>Z 36.003</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_30">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009h13</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009h13</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.012.947</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_44">
+    <crm:P3_has_note>Ansicht von Südwesten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454118</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454118</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454118</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_28">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009h12</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009h12</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 5.151/8</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_11">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02946a06</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02946a06</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>LA 3.107/7</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20340094_301_5"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_29">
+    <crm:P3_has_note>Giebel des nördlichen Querhauses; von Norden</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437c04</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437c04</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.457/12</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_90">
+    <crm:P3_has_note>Inneres, südliches Querhaus von Norden</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454184</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454184</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454184</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_78">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009i09</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009i09</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 5.150/5</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20340094_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20340094</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20340094_201_1">
+    <crm:P1_is_identified_by>Evangelischer Dom Sankt Nikolaus</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_50">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009h18</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009h18</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 5.150/1</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_59">
+    <crm:P3_has_note>Inneres - Blick durch das Mittelschiff in das nördliche Seitenschiff; nach Nordwesten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437d12</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437d12</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.460/8</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20340094_301_2"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_46">
+    <crm:P3_has_note>Südseite des Langhauses mit Nebenportal; von Südwesten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437d02</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437d02</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.496/5</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_47">
+    <crm:P3_has_note>mit Teilansicht der Südseite des Langhauses; von Süden</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437b05</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437b05</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.496/8</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_7">
+    <crm:P3_has_note>Teilansicht der Westfassade; von Westen</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437b08</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437b08</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.423/35</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_13">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009h08</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009h08</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.047.411</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20340094_301_3"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_14">
+    <crm:P3_has_note>Ansicht von Norden</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454116</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454116</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454116</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_92">
+    <crm:P3_has_note>Inneres - Blick in das südliche Querhaus; nach Süden</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437f02</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437f02</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.424/11</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_73">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02946b01</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02946b01</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>Z 36.318</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P43_has_dimension>
+   <crm:E54_Dimension rdf:about="http://www.fotomarburg.de/content/obj20340094_208_1">
+    <crm:P3_has_note>Staffelhalle</crm:P3_has_note>
+   </crm:E54_Dimension>
+  </crm:P43_has_dimension>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_22">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009h11</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009h11</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 5.151/7</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_75">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009i05</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009i05</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.203.562</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_89">
+    <crm:P3_has_note>Inneres - Blick in das südliche Querhaus; nach Süden</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437f01</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437f01</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.461/18</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_49">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02946a12</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02946a12</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>Z 13.426</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_9">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02946a04</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02946a04</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>LA 3.107/6</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_207_1">
+    <crm:P1_is_identified_by>Westbau: 1201/1300</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_37">
+    <crm:P3_has_note>Detail des nördlichen Querhauses am Anschluss zum Chor; von Nordosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437c08</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437c08</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.459/29</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_16">
+    <crm:P3_has_note>Nordseite des Langhauses; von Norden</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437b09</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437b09</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.457/14</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_4">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009h07</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009h07</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.046.242</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_24">
+    <crm:P3_has_note>nördliches Querhaus, Portal von Norden</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454111</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454111</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454111</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_25">
+    <crm:P3_has_note>Portal des nördlichen Querhauses, genannt "Paradiespforte"; von Norden</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437b14</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437b14</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.457/16</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_99">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fm834706</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fm834706</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>834.706</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_55">
+    <crm:P3_has_note>Inneres - Blick durch das Mittelschiff auf den Orgelprospekt; nach Westen</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437d09</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437d09</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.459/39</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_40">
+    <crm:P3_has_note>mit Teilansicht des Domkapitels; von Südosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437c12</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437c12</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.497/20</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_39">
+    <crm:P3_has_note>Gesamtansicht; von Osten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437c10</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437c10</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.478/11</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_61">
+    <crm:P3_has_note>Inneres - Nördliches Seitenschiff; nach Osten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437e02</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437e02</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.460/14</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_60">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009i01</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009i01</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 5.150/2</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_43">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fm830175</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fm830175</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>830.175</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_42">
+    <crm:P3_has_note>Schmuckgesims am Eingang zum Domkapitel; von Osten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13438a14</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13438a14</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.496/12</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20340094_102_1">
+    <crm:P3_has_note>Architektur</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4002851-3</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300263552</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20340094_205"/>
+  </crm:P55_has_current_location>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_6">
+    <crm:P3_has_note>Westfassade, Portale von Westen</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454120</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454120</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454120</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20340094_301_7"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_10">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02946a05</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02946a05</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>LA 3.107/5</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_27">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02946a10</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02946a10</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>LA 3.107/4</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_63">
+    <crm:P3_has_note>Inneres - Nördliches Seitenschiff; nach Westen</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437d10</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437d10</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.460/16</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_57">
+    <crm:P3_has_note>Inneres, Blick von Süden aus dem Mittelschiff ins nördliche Seitenschiff mit Schwalbennestempore</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454180</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454180</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454180</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_58">
+    <crm:P3_has_note>Inneres - Blick durch das Mittelschiff ins nördliche Seitenschiff; nach Nordosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437d13</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437d13</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.461/20</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_84">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009j02</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009j02</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.012.956</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_66">
+    <crm:P3_has_note>Inneres - Nördliches Seitenschiff mit Kapellen; nach Nordosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437e01</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437e01</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.461/22</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_45">
+    <crm:P3_has_note>Südseite des Langhauses; von Südwesten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437d03</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437d03</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.458/22</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_33">
+    <crm:P3_has_note>Ostseite des nördlichen Querhauses und Chor von Nordosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454124</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454124</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454124</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_12">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02946a08</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02946a08</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>304.933</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20340094_301_1"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_86">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02946b03</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02946b03</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>Z 36.004</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_71">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02946a14</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02946a14</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>KBB 3.552</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_87">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009i13</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009i13</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.047.409</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_72">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009h16</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009h16</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.012.948</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_20">
+    <crm:P3_has_note>nördliches Querhaus von Nordwesten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454117</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454117</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454117</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_21">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02946a09</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02946a09</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>LA 3.107/3</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_74">
+    <crm:P3_has_note>Inneres, Chor nach Osten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454170</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454170</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454170</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_68">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009i03</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009i03</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 5.151/12</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_69">
+    <crm:P3_has_note>Inneres - Blick in das nördliche Querhaus; nach Norden</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437e05</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437e05</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.424/15</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_35">
+    <crm:P3_has_note>Chor und Teilansicht des nördlichen Querhauses; von Nordosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437c06</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437c06</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.458/26</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_36">
+    <crm:P3_has_note>Detail des nördlichen Querhauses am Anschluss zum Chor; von Nordosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437c07</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437c07</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.458/28</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20340094_101_1">
+    <crm:P3_has_note>Bauwerk</crm:P3_has_note>
+    <crm:P3_has_note>Sakralbau</crm:P3_has_note>
+    <crm:P3_has_note>Dom</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4070532-8</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300007501</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_95">
+    <crm:P3_has_note>Inneres - Blick durch das Mittelschiff in das südliche Seitenschiff; nach Südwesten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437f05</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437f05</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.425/18</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_2">
+    <crm:P3_has_note>Westfassade von Westen</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454119</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454119</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454119</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_51">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009h15</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009h15</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.047.405</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_3">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02946a02</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02946a02</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>LA 4.175/5</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_23">
+    <crm:P3_has_note>nördliches Querhaus und Chor von Nordosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454123</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454123</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454123</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_97">
+    <crm:P3_has_note>Inneres - Südliches Seitenschiff; nach Osten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437f07</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437f07</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.425/29</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_98">
+    <crm:P3_has_note>Inneres, südliches Seitenschiff nach Südosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454179</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454179</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454179</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_53">
+    <crm:P3_has_note>Inneres - Blick durch das Mittelschiff auf den Lettner; nach Osten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437d05</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437d05</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.460/12</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_54">
+    <crm:P3_has_note>Inneres nach Osten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454172</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454172</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454172</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_38">
+    <crm:P3_has_note>Chor; von Osten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437c09</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437c09</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.459/33</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_19">
+    <crm:P3_has_note>Nordquerhaus und nördliches Langhaus von Nordosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454122</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454122</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454122</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_80">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02946b02</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02946b02</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>139.991</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_41">
+    <crm:P3_has_note>Südliches Querhaus; von Osten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437c14</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437c14</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.459/31</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_5">
+    <crm:P3_has_note>Teilansicht der Westfassade: Portale; von Westen</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437b07</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437b07</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.423/33</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_77">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009i08</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009i08</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 5.149/5</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_56">
+    <crm:P3_has_note>Inneres nach Westen</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454171</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454171</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454171</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20340094_301_6"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_82">
+    <crm:P3_has_note>Inneres - Blick in den Chor; nach Nordosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437e09</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437e09</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.498/16</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_83">
+    <crm:P3_has_note>Inneres, Chorfenster von Westen</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454188</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454188</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454188</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_64">
+    <crm:P3_has_note>Inneres - Blick in das nördliche Seitenschiff mit kleiner Empore; nach Norden</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437d11</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437d11</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.460/5</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_65">
+    <crm:P3_has_note>Inneres, nördliches Seitenschiff, Nordwand mit Kapellen von Südwesten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454182</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454182</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454182</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_31">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02946a11</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02946a11</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>KBB 3.551</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_32">
+    <crm:P3_has_note>nördliches Querhaus, Giebel</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454115</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454115</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454115</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_91">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009i14</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009i14</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 5.150/12</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_85">
+    <crm:P3_has_note>Inneres - Blick auf die Glasfenster im Chor; nach Südosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437e10</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437e10</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.425/22</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_70">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009i04</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009i04</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 5.149/9</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_79">
+    <crm:P3_has_note>Inneres - Blick in den Chor; nach Osten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437e07</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437e07</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.497/29</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20340094_301_4"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_88">
+    <crm:P3_has_note>Inneres - Blick aus dem Chor ins Gewölbe des südlichen Querhauses; nach Süden</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437e13</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437e13</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.498/3</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_67">
+    <crm:P3_has_note>Inneres, nördliches Seitenschiff nach Südosten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454183</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454183</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454183</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P43_has_dimension>
+   <crm:E54_Dimension rdf:about="http://www.fotomarburg.de/content/obj20340094_208_2">
+    <crm:P3_has_note>dreischiffig</crm:P3_has_note>
+   </crm:E54_Dimension>
+  </crm:P43_has_dimension>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_48">
+    <crm:P3_has_note>mit Teilansicht der Südseite des Langhauses; von Südwesten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437b06</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437b06</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.423/37</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_34">
+    <crm:P3_has_note>Nördliches Querhaus; von Osten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi13437c05</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi13437c05</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.458/24</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_8">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi02946a03</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi02946a03</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>LA 3.107/9</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_15">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009h09</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009h09</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>1.012.946</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_93">
+    <crm:P3_has_note>Inneres, südliches Querhaus von Nordwesten</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd454177</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd454177</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd454177</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_701_94">
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20340094_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi09009i16</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi09009i16</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 5.149/8</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+ </crm:E18_Physical_Thing>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20340094P1P1P1">
+  <crm:P1_is_identified_by>Deutschland</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20340094P1">
+  <crm:P46i_forms_part_of>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20340094P1P1"/>
+  </crm:P46i_forms_part_of>
+  <crm:P1_is_identified_by>Stendal, Kreis</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20340094P1P1">
+  <crm:P46i_forms_part_of rdf:resource="http://www.fotomarburg.de/content/obj20340094P1P1P1"/>
+  <crm:P1_is_identified_by>Sachsen-Anhalt</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20340094_205">
+  <crm:P46i_forms_part_of rdf:resource="http://www.fotomarburg.de/content/obj20340094P1"/>
+  <crm:P1_is_identified_by>Stendal</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20340094_301_4">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20340094_312__4">
+    <crm:P80_end_is_qualified_by>1847</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1843</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20340094_304_4">
+    <crm:P3_has_note>Restaurierung_5060_5</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20340094_301_3">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20340094_312__3">
+    <crm:P80_end_is_qualified_by>1473</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1423</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20340094_304_3">
+    <crm:P3_has_note>Neubau</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20340094_301_2">
+  <crm:P32_used_general_technique>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20340094_316_2_1">
+    <rdfs:label>Keramik</rdfs:label>
+    <rdfs:label>Backstein</rdfs:label>
+    <skos:closeMatch>http://vocab.getty.edu/aat/300010463</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P32_used_general_technique>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20340094_312__2">
+    <crm:P80_end_is_qualified_by>1300</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1201</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20340094_304_2">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20340094_301_1">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20340094_312__1">
+    <crm:P80_end_is_qualified_by>1258</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1258</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20340094_304_1">
+    <crm:P3_has_note>Weihe</crm:P3_has_note>
+    <crm:P3_has_note>Use</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00011</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20340094_301_7">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20340094_312__7">
+    <crm:P80_end_is_qualified_by>1952</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1945</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20340094_304_7">
+    <crm:P3_has_note>Rekonstruktion</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20340094_301_6">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20340094_312__6">
+    <crm:P80_end_is_qualified_by>1945</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1945</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20340094_304_6">
+    <crm:P3_has_note>Teilzerstörung</crm:P3_has_note>
+    <crm:P3_has_note>Part Removal</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00021</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20340094_301_5">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20340094_312__5">
+    <crm:P80_end_is_qualified_by>1893</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1887</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20340094_304_5">
+    <crm:P3_has_note>Restaurierung_5060_6</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20340094_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20340094_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20340094_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20340094_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20340094_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20340094_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20340094_603">
+    <rdfs:label>Einzelobjekt</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00141</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+</rdf:RDF>

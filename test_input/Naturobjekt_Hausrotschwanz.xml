@@ -1,0 +1,210 @@
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:xalan="http://xml.apache.org/xalan">
+  <lido:lido>
+    <lido:lidoRecID lido:type="local">DE-MUS-813712/TSA/TSA:Phoenicurus_ochruros_Tre_N_42_11_1</lido:lidoRecID>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType>
+            <lido:conceptID lido:type="URI" lido:source="GND">http://d-nb.info/gnd/4052020-1</lido:conceptID>
+            <lido:term lido:addedSearchTerm="yes" xml:lang="en">animal sound recording</lido:term>
+            <lido:term lido:addedSearchTerm="yes" xml:lang="de">Tierstimmenaufzeichnung</lido:term>
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="no">Tonaufnahme</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue>Hausrotschwanz | Phoenicurus ochruros - Gesang</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet>
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="local" lido:source="ISIL">DE-MUS-813712</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue xml:lang="de">Tierstimmenarchiv - Museum für Naturkunde Berlin</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>http://www.tierstimmenarchiv.de</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="Inventarnummer">TSA:Phoenicurus_ochruros_Tre_N_42_11_1</lido:workID>
+            <lido:repositoryLocation>
+              <lido:placeID lido:type="URI" lido:source="TGN">http://vocab.getty.edu/tgn/7003712</lido:placeID>
+              <lido:namePlaceSet>
+                <lido:appellationValue xml:lang="de">Berlin</lido:appellationValue>
+              </lido:namePlaceSet>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteValue>Lauttyp: Gesang</lido:descriptiveNoteValue>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:displayEvent>Aufnahme</lido:displayEvent>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="URI" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+              <lido:term lido:addedSearchTerm="no" xml:lang="de">Herstellung</lido:term>
+            </lido:eventType>
+            <lido:eventActor>
+              <lido:displayActorInRole>Tretzel, Erwin</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Tretzel, Erwin</lido:appellationValue>
+                  </lido:nameActorSet>
+                </lido:actor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:displayDate>27.04.1973</lido:displayDate>
+            </lido:eventDate>
+            <lido:eventPlace>
+              <lido:displayPlace>Garmisch-Partenkirchen, Deutschland</lido:displayPlace>
+              <lido:place>
+                <lido:namePlaceSet>
+                  <lido:appellationValue lido:pref="alternate">Garmisch-Partenkirchen</lido:appellationValue>
+                </lido:namePlaceSet>
+                <lido:partOfPlace lido:politicalEntity="Land">
+                  <lido:namePlaceSet>
+                    <lido:appellationValue lido:pref="alternate">Deutschland</lido:appellationValue>
+                  </lido:namePlaceSet>
+                </lido:partOfPlace>
+              </lido:place>
+            </lido:eventPlace>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Nagra IV</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech>
+                  <lido:term lido:addedSearchTerm="no">Nagra IV</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+          <lido:subjectSet>
+            <lido:displaySubject>Tierstimme</lido:displaySubject>
+            <lido:displaySubject>animal voice</lido:displaySubject>
+            <lido:displaySubject>animal sound recording</lido:displaySubject>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:term lido:addedSearchTerm="yes">Hausrotschwanz</lido:term>
+              </lido:subjectConcept>
+              <lido:subjectConcept>
+                <lido:term lido:addedSearchTerm="yes">Phoenicurus ochruros</lido:term>
+              </lido:subjectConcept>
+              <lido:subjectConcept>
+                <lido:term lido:addedSearchTerm="yes">Fliegenschnäpper</lido:term>
+              </lido:subjectConcept>
+              <lido:subjectConcept>
+                <lido:term lido:addedSearchTerm="yes">Muscicapidae</lido:term>
+              </lido:subjectConcept>
+              <lido:subjectConcept>
+                <lido:term lido:addedSearchTerm="yes">Sperlingsvögel</lido:term>
+              </lido:subjectConcept>
+              <lido:subjectConcept>
+                <lido:term lido:addedSearchTerm="yes">Passeriformes</lido:term>
+              </lido:subjectConcept>
+              <lido:subjectConcept>
+                <lido:term lido:addedSearchTerm="yes">Vögel</lido:term>
+              </lido:subjectConcept>
+              <lido:subjectConcept>
+                <lido:term lido:addedSearchTerm="yes">Aves</lido:term>
+              </lido:subjectConcept>
+              <lido:subjectObject>
+                <lido:displayObject>Klasse: Vögel | Aves; Ordnung: Sperlingsvögel | Passeriformes; Familie: Fliegenschnäpper | Muscicapidae</lido:displayObject>
+              </lido:subjectObject>
+            </lido:subject>
+          </lido:subjectSet>
+        </lido:subjectWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsHolder>
+            <lido:legalBodyID lido:type="local" lido:source="ISIL">DE-MUS-813712</lido:legalBodyID>
+            <lido:legalBodyName>
+              <lido:appellationValue xml:lang="de">Tierstimmenarchiv - Museum für Naturkunde Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://www.tierstimmenarchiv.de</lido:legalBodyWeblink>
+          </lido:rightsHolder>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="local">TSA:Phoenicurus_ochruros_Tre_N_42_11_1</lido:recordID>
+        <lido:recordType>
+          <lido:conceptID lido:type="URI" lido:source="http://terminology.lido-schema.org/recordType">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+          <lido:term lido:addedSearchTerm="no" xml:lang="de">Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource>
+          <lido:legalBodyID lido:type="local" lido:source="ISIL">DE-MUS-813712</lido:legalBodyID>
+          <lido:legalBodyName>
+            <lido:appellationValue xml:lang="de">Tierstimmenarchiv - Museum für Naturkunde Berlin</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>http://www.tierstimmenarchiv.de</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="URI" lido:source="CC">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyID lido:type="local" lido:source="ISIL">DE-MUS-813712</lido:legalBodyID>
+            <lido:legalBodyName>
+              <lido:appellationValue xml:lang="de">Tierstimmenarchiv - Museum für Naturkunde Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://www.tierstimmenarchiv.de</lido:legalBodyWeblink>
+          </lido:rightsHolder>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink>http://www.tierstimmenarchiv.de/webinterface/contents/showdetails.php?edit=-1&amp;unique_id=TSA:Phoenicurus_ochruros_Tre_N_42_11_1&amp;autologin=true</lido:recordInfoLink>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="local">Phoenicurus_ochruros_Tre_N0042_11_short.mp3</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image">
+            <lido:linkResource lido:formatResource="image/jpeg" lido:codecResource="jpg">http://www.tierstimmenarchiv.de/spectrograms/Phoenicurus_ochruros_Tre_N0042_11_short.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="sound">
+            <lido:linkResource lido:formatResource="audio/mpeg" lido:codecResource="mp3">http://www.tierstimmenarchiv.de/recordings/Phoenicurus_ochruros_Tre_N0042_11_short.mp3</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term lido:addedSearchTerm="no">Audio</lido:term>
+          </lido:resourceType>
+          <lido:resourceSource lido:type="creator">
+            <lido:legalBodyName>
+              <lido:appellationValue>Tretzel, Erwin</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:resourceSource lido:type="owner">
+            <lido:legalBodyID lido:type="local" lido:source="ISIL">DE-MUS-813712</lido:legalBodyID>
+            <lido:legalBodyName>
+              <lido:appellationValue xml:lang="de">Tierstimmenarchiv - Museum für Naturkunde Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://www.tierstimmenarchiv.de</lido:legalBodyWeblink>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI" lido:source="CC">http://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyID lido:type="local" lido:source="ISIL">DE-MUS-813712</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue xml:lang="de">Tierstimmenarchiv - Museum für Naturkunde</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>http://www.tierstimmenarchiv.de</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

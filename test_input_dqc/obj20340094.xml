@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="UTF-8"?><lido:lidoWrap xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:stx="http://www.startext.de/stxmap" xmlns:lido="http://www.lido-schema.org" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+   <lido:lido>
+      <lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg">DE-Mb112/lido/obj20340094</lido:lidoRecID>
+      <lido:objectPublishedID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg">DE-Mb112/object/obj20340094</lido:objectPublishedID>
+      <lido:category>
+         <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://www.cidoc-crm.org/rdfs/cidoc-crm-english-label#E22.Man-Made_Object</lido:conceptID>
+         <lido:term xml:lang="en">Man-Made Object</lido:term>
+      </lido:category>
+      <lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap><lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://vocab.getty.edu/aat">http://vocab.getty.edu/aat/300007501</lido:conceptID>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">http://d-nb.info/gnd/4070532-8</lido:conceptID>
+                  <lido:term>Dom</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Sakralbau</lido:term>
+                  <lido:term lido:addedSearchTerm="yes">Bauwerk</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap><lido:classificationWrap><lido:classification lido:type="Objektklassifikation">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://vocab.getty.edu/aat">http://vocab.getty.edu/aat/300263552</lido:conceptID>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">http://d-nb.info/gnd/4002851-3</lido:conceptID>
+                  <lido:term>Architektur</lido:term>
+               </lido:classification></lido:classificationWrap></lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet>
+                  <lido:appellationValue lido:pref="preferred">Evangelischer Dom Sankt Nikolaus</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryLocation>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Stendal</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:partOfPlace lido:politicalEntity="Kreis">
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Stendal, Kreis</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:partOfPlace lido:politicalEntity="Bundesland">
+                           <lido:namePlaceSet>
+                              <lido:appellationValue>Sachsen-Anhalt</lido:appellationValue>
+                           </lido:namePlaceSet>
+                           <lido:partOfPlace lido:politicalEntity="Staat">
+                              <lido:namePlaceSet>
+                                 <lido:appellationValue>Deutschland</lido:appellationValue>
+                              </lido:namePlaceSet>
+                           </lido:partOfPlace>
+                        </lido:partOfPlace>
+                     </lido:partOfPlace>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            <lido:objectDescriptionWrap>
+               <lido:objectDescriptionSet lido:type="Detail">
+                  <lido:descriptiveNoteValue>Westbau: 1201/1300</lido:descriptiveNoteValue>
+               </lido:objectDescriptionSet>
+            </lido:objectDescriptionWrap>
+            <lido:objectMeasurementsWrap>
+               <lido:objectMeasurementsSet>
+                  <lido:objectMeasurements>
+                     <lido:shapeMeasurements>Staffelhalle</lido:shapeMeasurements>
+                  </lido:objectMeasurements>
+               </lido:objectMeasurementsSet>
+               <lido:objectMeasurementsSet>
+                  <lido:objectMeasurements>
+                     <lido:shapeMeasurements>dreischiffig</lido:shapeMeasurements>
+                  </lido:objectMeasurements>
+               </lido:objectMeasurementsSet>
+            </lido:objectMeasurementsWrap>
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00011</lido:conceptID>
+                     <lido:term xml:lang="en">Use</lido:term>
+                     <lido:term lido:addedSearchTerm="yes">Weihe</lido:term>
+                  </lido:eventType>
+                  <lido:eventDate>
+                     <lido:displayDate>1258</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1258</lido:earliestDate>
+                        <lido:latestDate>1258</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term xml:lang="en">Production</lido:term>
+                     <lido:term lido:addedSearchTerm="yes">Herstellung</lido:term>
+                  </lido:eventType>
+                  <lido:eventDate>
+                     <lido:displayDate>13. Jahrhundert</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1201</lido:earliestDate>
+                        <lido:latestDate>1300</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://vocab.getty.edu/aat">http://vocab.getty.edu/aat/300010463</lido:conceptID>
+                           <lido:term>Backstein</lido:term>
+                           <lido:term lido:addedSearchTerm="yes">Keramik</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term xml:lang="en">Production</lido:term>
+                     <lido:term lido:addedSearchTerm="yes">Neubau</lido:term>
+                  </lido:eventType>
+                  <lido:eventDate>
+                     <lido:displayDate>1423-1473</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1423</lido:earliestDate>
+                        <lido:latestDate>1473</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00034</lido:conceptID>
+                     <lido:term xml:lang="en">Restoration</lido:term>
+                     <lido:term lido:addedSearchTerm="yes">Restaurierung_5060_5</lido:term>
+                  </lido:eventType>
+                  <lido:eventDate>
+                     <lido:displayDate>1843-1847</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1843</lido:earliestDate>
+                        <lido:latestDate>1847</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00034</lido:conceptID>
+                     <lido:term xml:lang="en">Restoration</lido:term>
+                     <lido:term lido:addedSearchTerm="yes">Restaurierung_5060_6</lido:term>
+                  </lido:eventType>
+                  <lido:eventDate>
+                     <lido:displayDate>1887-1893</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1887</lido:earliestDate>
+                        <lido:latestDate>1893</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00021</lido:conceptID>
+                     <lido:term xml:lang="en">Part Removal</lido:term>
+                     <lido:term lido:addedSearchTerm="yes">Teilzerstörung</lido:term>
+                  </lido:eventType>
+                  <lido:eventDate>
+                     <lido:displayDate>1945</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1945</lido:earliestDate>
+                        <lido:latestDate>1945</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00006</lido:conceptID>
+                     <lido:term xml:lang="en">Modification</lido:term>
+                     <lido:term lido:addedSearchTerm="yes">Rekonstruktion</lido:term>
+                  </lido:eventType>
+                  <lido:eventDate>
+                     <lido:displayDate>1945-1952</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1945</lido:earliestDate>
+                        <lido:latestDate>1952</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap/>
+      </lido:descriptiveMetadata>
+      <lido:administrativeMetadata xml:lang="de">
+         <lido:recordWrap><lido:recordID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg">obj20340094</lido:recordID><lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+               <lido:term>Einzelobjekt</lido:term>
+            </lido:recordType><lido:recordSource><lido:legalBodyName><lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue></lido:legalBodyName></lido:recordSource><lido:recordRights><lido:rightsType><lido:conceptID lido:type="URI">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID><lido:term>CC0 1.0 Public Domain Dedication</lido:term></lido:rightsType><lido:rightsHolder><lido:legalBodyName><lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue></lido:legalBodyName></lido:rightsHolder></lido:recordRights><lido:recordInfoSet>
+               <lido:recordInfoLink>http://www.bildindex.de/document/obj20340094</lido:recordInfoLink>
+            </lido:recordInfoSet></lido:recordWrap>
+         <lido:resourceWrap>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">1.047.403</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009h06</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009h06</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1895/1920?</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454119</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454119</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454119</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Westfassade von Westen</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">LA 4.175/5</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi02946a02</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi02946a02</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>1945/1955</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">1.046.242</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009h07</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009h07</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1895/1920?</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.423/33</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437b07</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437b07</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Teilansicht der Westfassade: Portale; von Westen</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454120</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454120</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454120</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Westfassade, Portale von Westen</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.423/35</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437b08</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437b08</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Teilansicht der Westfassade; von Westen</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">LA 3.107/9</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi02946a03</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi02946a03</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>1956/1968</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">LA 3.107/6</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi02946a04</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi02946a04</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>1956/1968</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">LA 3.107/5</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi02946a05</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi02946a05</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>1956/1968</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">LA 3.107/7</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi02946a06</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi02946a06</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>1956/1968</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">304.933</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi02946a08</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi02946a08</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>1945/1955</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">1.047.411</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009h08</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009h08</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1895/1920?</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454116</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454116</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454116</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Ansicht von Norden</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">1.012.946</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009h09</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009h09</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1895/1920?</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.457/14</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437b09</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437b09</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Nordseite des Langhauses; von Norden</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">Z 13.425</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi02946a07</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi02946a07</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">1.056.969</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009h10</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009h10</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1895/1920?</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454122</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454122</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454122</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Nordquerhaus und nördliches Langhaus von Nordosten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454117</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454117</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454117</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">nördliches Querhaus von Nordwesten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">LA 3.107/3</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi02946a09</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi02946a09</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>1956/1968</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 5.151/7</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009h11</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009h11</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1935/1970</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454123</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454123</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454123</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">nördliches Querhaus und Chor von Nordosten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454111</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454111</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454111</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">nördliches Querhaus, Portal von Norden</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.457/16</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437b14</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437b14</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Portal des nördlichen Querhauses, genannt "Paradiespforte"; von Norden</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454112</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454112</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454112</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">nördliches Querhaus, Portal von Norden</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">LA 3.107/4</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi02946a10</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi02946a10</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>1956/1968</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 5.151/8</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009h12</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009h12</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1935/1970</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.457/12</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437c04</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437c04</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Giebel des nördlichen Querhauses; von Norden</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">1.012.947</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009h13</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009h13</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1895/1920?</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">KBB 3.551</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi02946a11</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi02946a11</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>1885/1920</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454115</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454115</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454115</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">nördliches Querhaus, Giebel</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454124</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454124</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454124</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Ostseite des nördlichen Querhauses und Chor von Nordosten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.458/24</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437c05</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437c05</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Nördliches Querhaus; von Osten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.458/26</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437c06</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437c06</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Chor und Teilansicht des nördlichen Querhauses; von Nordosten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.458/28</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437c07</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437c07</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Detail des nördlichen Querhauses am Anschluss zum Chor; von Nordosten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.459/29</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437c08</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437c08</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Detail des nördlichen Querhauses am Anschluss zum Chor; von Nordosten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.459/33</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437c09</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437c09</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Chor; von Osten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.478/11</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437c10</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437c10</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Gesamtansicht; von Osten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.497/20</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437c12</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437c12</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">mit Teilansicht des Domkapitels; von Südosten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.459/31</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437c14</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437c14</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Südliches Querhaus; von Osten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.496/12</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13438a14</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13438a14</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Schmuckgesims am Eingang zum Domkapitel; von Osten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">830.175</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fm830175</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fm830175</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454118</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454118</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454118</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Ansicht von Südwesten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.458/22</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437d03</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437d03</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Südseite des Langhauses; von Südwesten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.496/5</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437d02</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437d02</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Südseite des Langhauses mit Nebenportal; von Südwesten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.496/8</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437b05</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437b05</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">mit Teilansicht der Südseite des Langhauses; von Süden</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.423/37</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437b06</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437b06</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">mit Teilansicht der Südseite des Langhauses; von Südwesten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">Z 13.426</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi02946a12</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi02946a12</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 5.150/1</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009h18</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009h18</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1935/1970</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">1.047.405</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009h15</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009h15</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1895/1920?</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 5.151/9</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009h17</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009h17</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1935/1970</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.460/12</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437d05</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437d05</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres - Blick durch das Mittelschiff auf den Lettner; nach Osten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454172</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454172</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454172</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres nach Osten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.459/39</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437d09</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437d09</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres - Blick durch das Mittelschiff auf den Orgelprospekt; nach Westen</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454171</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454171</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454171</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres nach Westen</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454180</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454180</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454180</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres, Blick von Süden aus dem Mittelschiff ins nördliche Seitenschiff mit Schwalbennestempore</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.461/20</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437d13</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437d13</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres - Blick durch das Mittelschiff ins nördliche Seitenschiff; nach Nordosten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.460/8</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437d12</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437d12</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres - Blick durch das Mittelschiff in das nördliche Seitenschiff; nach Nordwesten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 5.150/2</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009i01</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009i01</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1935/1970</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.460/14</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437e02</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437e02</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres - Nördliches Seitenschiff; nach Osten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">Z 36.003</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi02946a13</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi02946a13</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>1885/1920</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.460/16</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437d10</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437d10</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres - Nördliches Seitenschiff; nach Westen</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.460/5</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437d11</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437d11</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres - Blick in das nördliche Seitenschiff mit kleiner Empore; nach Norden</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454182</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454182</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454182</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres, nördliches Seitenschiff, Nordwand mit Kapellen von Südwesten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.461/22</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437e01</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437e01</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres - Nördliches Seitenschiff mit Kapellen; nach Nordosten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454183</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454183</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454183</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres, nördliches Seitenschiff nach Südosten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 5.151/12</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009i03</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009i03</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1935/1970</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.424/15</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437e05</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437e05</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres - Blick in das nördliche Querhaus; nach Norden</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 5.149/9</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009i04</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009i04</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1935/1970</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">KBB 3.552</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi02946a14</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi02946a14</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>1885/1920</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">1.012.948</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009h16</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009h16</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1895/1920?</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">Z 36.318</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi02946b01</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi02946b01</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>1885/1920</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454170</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454170</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454170</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres, Chor nach Osten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">1.203.562</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009i05</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009i05</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1939/1940?</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">1.047.406</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009i07</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009i07</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1895/1920?</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 5.149/5</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009i08</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009i08</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1935/1970</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 5.150/5</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009i09</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009i09</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1935/1970</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.497/29</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437e07</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437e07</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres - Blick in den Chor; nach Osten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">139.991</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi02946b02</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi02946b02</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">1.046.210</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009i06</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009i06</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1895/1920?</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.498/16</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437e09</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437e09</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres - Blick in den Chor; nach Nordosten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454188</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454188</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454188</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres, Chorfenster von Westen</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">1.012.956</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009j02</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009j02</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1895/1920?</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.425/22</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437e10</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437e10</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres - Blick auf die Glasfenster im Chor; nach Südosten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">Z 36.004</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi02946b03</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi02946b03</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>1885/1920</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">1.047.409</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009i13</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009i13</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1895/1920?</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.498/3</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437e13</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437e13</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres - Blick aus dem Chor ins Gewölbe des südlichen Querhauses; nach Süden</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.461/18</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437f01</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437f01</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres - Blick in das südliche Querhaus; nach Süden</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454184</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454184</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454184</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres, südliches Querhaus von Norden</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 5.150/12</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009i14</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009i14</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1935/1970</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.424/11</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437f02</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437f02</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres - Blick in das südliche Querhaus; nach Süden</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454177</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454177</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454177</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres, südliches Querhaus von Nordwesten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 5.149/8</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi09009i16</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi09009i16</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDateTaken>
+                  <lido:displayDate>um 1935/1970</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.425/18</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437f05</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437f05</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres - Blick durch das Mittelschiff in das südliche Seitenschiff; nach Südwesten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.425/26</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437f10</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437f10</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres - Südliches Seitenschiff; nach Westen</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">B 18.425/29</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/mi13437f07</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/mi13437f07</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres - Südliches Seitenschiff; nach Osten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>1991</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">fmd454179</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fmd454179</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fmd454179</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:resourceDescription lido:type="Beschreibung">Inneres, südliches Seitenschiff nach Südosten</lido:resourceDescription><lido:resourceDateTaken>
+                  <lido:displayDate>2010.08.06/2010.08.08</lido:displayDate>
+               </lido:resourceDateTaken><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+            <lido:resourceSet><lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">834.706</lido:resourceID><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>http://www.bildindex.de/bilder/m/fm834706</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>http://www.bildindex.de/bilder/d/fm834706</lido:linkResource>
+               </lido:resourceRepresentation><lido:resourceType>
+                  <lido:term>Digitales Bild</lido:term>
+               </lido:resourceType><lido:rightsResource><lido:rightsType><lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID><lido:term lido:pref="preferred">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:term></lido:rightsType><lido:rightsHolder>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">DE-Mb112</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:rightsHolder></lido:rightsResource></lido:resourceSet>
+         </lido:resourceWrap>
+      </lido:administrativeMetadata>
+   </lido:lido>
+</lido:lidoWrap>

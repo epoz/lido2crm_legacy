@@ -1,0 +1,520 @@
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dex="http://schema.digicult-verbund.de/dex" xmlns:gml="http://www.opengis.net/gml" xmlns:schemaLocation="http://schemas.opengis.net/gml/3.1.1/base/feature.xsd" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:type="local" lido:source="digiCULT Verbund eG">DE-MUS-059918/lido/dc00119713</lido:lidoRecID>
+    <lido:category>
+      <lido:conceptID lido:type="URI" lido:source="CIDOC-CRM">http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object</lido:conceptID>
+    </lido:category>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType lido:type="Objektbezeichnung">
+            <lido:conceptID lido:type="uri" lido:source="xTree">http://obg.vocnet.org/fra00001</lido:conceptID>
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Cembalo</lido:term>
+            <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">Cembalo</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="Sachgruppe">
+            <lido:conceptID lido:type="uri" lido:source="xTree">http://digicult.vocnet.org/sachgruppe/hs00020</lido:conceptID>
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Musikinstrumente</lido:term>
+          </lido:classification>
+          <lido:classification lido:type="Sammlung">
+            <lido:conceptID lido:type="URI" lido:source="http://collection.vocnet.org" />
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Musikinstrumente</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred">Zweimanualiges Cembalo</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:inscriptionsWrap>
+          <lido:inscriptions lido:type="Signatur">
+            <lido:inscriptionDescription>
+              <lido:descriptiveNoteValue>Zettel (Instrumentenbau)</lido:descriptiveNoteValue>
+            </lido:inscriptionDescription>
+          </lido:inscriptions>
+        </lido:inscriptionsWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet>
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="URI">info:isil/DE-MUS-059918</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Museum für Kunst und Gewerbe Hamburg</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>http://www.mkg-hamburg.de</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="Inventarnummer">1962.115</lido:workID>
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Hamburg</lido:appellationValue>
+              </lido:namePlaceSet>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet lido:type="Beschreibung Veröffentlichung">
+            <lido:descriptiveNoteValue>Das prachtvolle, zweimanualige Cembalo aus der Werkstatt von Christian Zell stammt aus einer Zeit, in der das Hamburger Musikleben in hoher Blüte stand. Die Instrumente Zells zeichnen sich durch Klangreichtum und prächtige künstlerische Gestaltung aus. Die Lackmalereien mit Darstellungen aus der antiken Mythologie sowie den damals beliebten Chinoiserien machen die Musikinstrumente gleichzeitig zu kostbaren Möbelstücken, mit denen wohlhabende Hamburger Musikliebhaber ihre Kulturliebe darstellen konnten. Nur drei der wertvollen Instrumente Christian Zells sind heute noch erhalten.</lido:descriptiveNoteValue>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:displayObjectMeasurements>Gesamt: Höhe: 88,00 cm; Breite: 93,20 cm; Länge: 245,80 cm</lido:displayObjectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="URI" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+              <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Herstellung</lido:term>
+            </lido:eventType>
+            <lido:eventActor>
+              <lido:displayActorInRole>Zell, Christian (Musikinstrumentenbauer/in)</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor lido:type="person">
+                  <lido:actorID lido:type="local" lido:source="digiCULT.web">11328</lido:actorID>
+                  <lido:actorID lido:type="URI" lido:source="ULAN">http://vocab.getty.edu/ulan/500122395</lido:actorID>
+                  <lido:actorID lido:type="URI" lido:source="VIAF">http://viaf.org/viaf/96583947</lido:actorID>
+                  <lido:actorID lido:type="URL" lido:source="wiki">https://de.wikipedia.org/wiki/Christian_Zell</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue lido:pref="preferred">Zell, Christian</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate>1683</lido:earliestDate>
+                    <lido:latestDate>1763</lido:latestDate>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+                <lido:roleActor>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Musikinstrumentenbauer/in</lido:term>
+                </lido:roleActor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:date>
+                <lido:earliestDate>1728</lido:earliestDate>
+                <lido:latestDate>1728</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventPlace>
+              <lido:displayPlace>Hamburg</lido:displayPlace>
+              <lido:place>
+                <lido:placeID lido:type="uri" lido:source="xTree">http://digicult.vocnet.org/ort/6.67</lido:placeID>
+                <lido:placeID lido:type="uri" lido:source="GND">http://d-nb.info/gnd/4023118-5</lido:placeID>
+                <lido:placeID lido:type="local" lido:source="TGN">7005289</lido:placeID>
+                <lido:namePlaceSet>
+                  <lido:appellationValue lido:pref="preferred" xml:lang="de">Hamburg</lido:appellationValue>
+                </lido:namePlaceSet>
+              </lido:place>
+            </lido:eventPlace>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Fichte</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00376</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Fichte</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Kiefer (?)</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00378</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Kiefer</lido:term>
+                  <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">?</lido:term>
+                </lido:termMaterialsTech>
+                <lido:extentMaterialsTech>?</lido:extentMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Buche</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00301</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Buche</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Ahorn</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00288</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Ahorn</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Linde</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00335</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Linde</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Kirschbaum (?)</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00334</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Kirschbaum</lido:term>
+                  <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">?</lido:term>
+                </lido:termMaterialsTech>
+                <lido:extentMaterialsTech>?</lido:extentMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Buchsbaum</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00307</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Buchsbaum</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Nussbaum</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00339</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Nussbaum</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Ebenholz</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00308</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Ebenholz</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Elfenbein</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00919</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Elfenbein</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Schildpatt</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00771</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Schildpatt</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Gold (Blattgold)</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00540</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Gold</lido:term>
+                  <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">Blattgold</lido:term>
+                </lido:termMaterialsTech>
+                <lido:extentMaterialsTech>Blattgold</lido:extentMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Bronze (Goldbronze)</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00528</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Bronze</lido:term>
+                  <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">Goldbronze</lido:term>
+                </lido:termMaterialsTech>
+                <lido:extentMaterialsTech>Goldbronze</lido:extentMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Lack (rote und grüne Farbe)</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00453</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Lack</lido:term>
+                  <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">rote und grüne Farbe</lido:term>
+                </lido:termMaterialsTech>
+                <lido:extentMaterialsTech>rote und grüne Farbe</lido:extentMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Pappe</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00651</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Pappe</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Papier</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00627</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Papier</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Textilfaser (Filz)</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00831</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Textilfaser</lido:term>
+                  <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">Filz</lido:term>
+                </lido:termMaterialsTech>
+                <lido:extentMaterialsTech>Filz</lido:extentMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Kupfer</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00561</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Kupfer</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Messing</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00563</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Messing</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Stahl (Stahldraht)</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00535</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Stahl</lido:term>
+                  <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">Stahldraht</lido:term>
+                </lido:termMaterialsTech>
+                <lido:extentMaterialsTech>Stahldraht</lido:extentMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Eisen</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00532</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Eisen</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Blei (?)</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00527</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Blei</lido:term>
+                  <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">?</lido:term>
+                </lido:termMaterialsTech>
+                <lido:extentMaterialsTech>?</lido:extentMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Kunststoff (Delrin)</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/material/mat00444</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Kunststoff</lido:term>
+                  <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Plastik</lido:term>
+                  <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">Delrin</lido:term>
+                </lido:termMaterialsTech>
+                <lido:extentMaterialsTech>Delrin</lido:extentMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Malerei (Tempera-, Öl- und Lackmalerei)</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Technik">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://hamburg.vocnet.org/technik/tech00271</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Malerei</lido:term>
+                  <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">Tempera-, Öl- und Lackmalerei</lido:term>
+                </lido:termMaterialsTech>
+                <lido:extentMaterialsTech>Tempera-, Öl- und Lackmalerei</lido:extentMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+          <lido:subjectSet>
+            <lido:subject lido:type="Ikonographie">
+              <lido:subjectConcept>
+                <lido:conceptID lido:type="uri" lido:source="xTree">http://digicult.vocnet.org/ikonographie/3.5</lido:conceptID>
+                <lido:conceptID lido:type="local" lido:source="Iconclass">9</lido:conceptID>
+                <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Klassische Mythologie/Antike Geschichte</lido:term>
+                <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">Metamorphosen Ovids</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject lido:type="Ikonographie">
+              <lido:subjectConcept>
+                <lido:conceptID lido:type="uri" lido:source="xTree">http://digicult.vocnet.org/ikonographie/3.1912</lido:conceptID>
+                <lido:conceptID lido:type="uri" lido:source="GND">http://d-nb.info/gnd/4043886-7</lido:conceptID>
+                <lido:conceptID lido:type="local" lido:source="Iconclass">48A98</lido:conceptID>
+                <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Ornamente</lido:term>
+                <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">Chinoiserien</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject lido:type="Ikonographie">
+              <lido:subjectConcept>
+                <lido:conceptID lido:type="uri" lido:source="xTree">http://digicult.vocnet.org/ikonographie/3.1111</lido:conceptID>
+                <lido:conceptID lido:type="local" lido:source="Iconclass">48C1</lido:conceptID>
+                <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Architektur</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+        </lido:subjectWrap>
+        <lido:relatedWorksWrap />
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsType>
+            <lido:term lido:addedSearchTerm="no">gemeinfrei</lido:term>
+          </lido:rightsType>
+          <lido:creditLine>Eigentum der Stiftung für die Hamburger Kunstsammlungen</lido:creditLine>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="local">dc00119713</lido:recordID>
+        <lido:recordType>
+          <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource>
+          <lido:legalBodyName>
+            <lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>http://www.digicult-verbund.de</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordSource>
+          <lido:legalBodyName>
+            <lido:appellationValue>Museum für Kunst und Gewerbe Hamburg</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>http://www.mkg-hamburg.de</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="URI" lido:source="http://creativecommons.org">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">CC0 1.0</lido:term>
+          </lido:rightsType>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink>http://sammlungonline.mkg-hamburg.de/de/object/Zweimanualiges+Cembalo/1962.115/dc00119713</lido:recordInfoLink>
+          <lido:recordMetadataDate lido:type="Erstellt">2016-09-15T20:13:32+02:00</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet lido:sortorder="1">
+          <lido:resourceRepresentation lido:type="provided_image">
+            <lido:linkResource lido:formatResource="JPEG">http://resources.digicult-museen.net/dam/provided_image/m57d2f80b51f56</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term lido:addedSearchTerm="no">digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceSource lido:type="Fotograf" />
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+              <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">CC0 1.0</lido:term>
+            </lido:rightsType>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        <lido:resourceSet lido:sortorder="2">
+          <lido:resourceRepresentation lido:type="provided_image">
+            <lido:linkResource lido:formatResource="JPEG">http://resources.digicult-museen.net/dam/provided_image/m57d2f80b89571</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term lido:addedSearchTerm="no">digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceSource lido:type="Fotograf" />
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+              <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">CC0 1.0</lido:term>
+            </lido:rightsType>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        <lido:resourceSet lido:sortorder="3">
+          <lido:resourceRepresentation lido:type="provided_image">
+            <lido:linkResource lido:formatResource="JPEG">http://resources.digicult-museen.net/dam/provided_image/m57d2f80ba8a05</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term lido:addedSearchTerm="no">digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceSource lido:type="Fotograf" />
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+              <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">CC0 1.0</lido:term>
+            </lido:rightsType>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        <lido:resourceSet lido:sortorder="4">
+          <lido:resourceRepresentation lido:type="provided_image">
+            <lido:linkResource lido:formatResource="JPEG">http://resources.digicult-museen.net/dam/provided_image/m57d2f80bcd02e</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term lido:addedSearchTerm="no">digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceSource lido:type="Fotograf" />
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+              <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">CC0 1.0</lido:term>
+            </lido:rightsType>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        <lido:resourceSet lido:sortorder="5">
+          <lido:resourceRepresentation lido:type="provided_image">
+            <lido:linkResource lido:formatResource="JPEG">http://resources.digicult-museen.net/dam/provided_image/m57d2f80c04c4d</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term lido:addedSearchTerm="no">digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceSource lido:type="Fotograf" />
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+              <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">CC0 1.0</lido:term>
+            </lido:rightsType>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        <lido:resourceSet lido:sortorder="6">
+          <lido:resourceRepresentation lido:type="provided_image">
+            <lido:linkResource lido:formatResource="JPEG">http://resources.digicult-museen.net/dam/provided_image/m57d2f80c354cd</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term lido:addedSearchTerm="no">digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceSource lido:type="Fotograf" />
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+              <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">CC0 1.0</lido:term>
+            </lido:rightsType>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

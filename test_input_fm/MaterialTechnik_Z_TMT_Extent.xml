@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Öl auf Leinwand – Material und Technik unspezifiziert, Extent nicht anwendbar – JL -->
+<eventMaterialsTech>
+    <displayMaterialsTech>oil on canvas</displayMaterialsTech>
+    <materialsTech>
+         <termMaterialsTech type="material">
+            <conceptID lido:type="URI">http://vocab.getty.edu/aat/300015050</conceptID>
+            <term lido:pref="preferred" xml:lang="en">oil paint (paint)</term>
+        </termMaterialsTech>
+        <termMaterialsTech type="material">
+            <conceptID lido:type="URI">http://vocab.getty.edu/aat/300014078</conceptID>
+            <term lido:pref="preferred" xml:lang="en">canvas</term>
+        </termMaterialsTech>
+        <termMaterialsTech type="technique">
+            <conceptID lido:type="URI">http://vocab.getty.edu/aat/300178684</conceptID>
+            <term lido:pref="preferred" xml:lang="en">oil painting (technique)</term>
+        </termMaterialsTech>
+        <termMaterialsTech type="technique">
+            <conceptID lido:type="URI">http://vocab.getty.edu/aat/300022552</conceptID>
+            <term lido:pref="preferred" xml:lang="en">artist's brush</term>
+        </termMaterialsTech>
+        <extentMaterialsTech></extentMaterialsTech>
+        <sourceMaterialsTech></sourceMaterialsTech>
+    </materialsTech>
+</eventMaterialsTech>
+
+<!-- Öl auf Leinwand – Material und Technik spezifiziert, Extent nicht anwendbar. NB: Anstelle von "process" kann auch "technique" stehen. – JL -->
+
+<eventMaterialsTech>
+    <displayMaterialsTech>oil on canvas</displayMaterialsTech>
+    <materialsTech>
+         <termMaterialsTech type="medium">
+            <conceptID lido:type="URI">http://vocab.getty.edu/aat/300015050</conceptID>
+            <term lido:pref="preferred" xml:lang="en">oil paint (paint)</term>
+        </termMaterialsTech>
+        <termMaterialsTech type="support">
+            <conceptID lido:type="URI">http://vocab.getty.edu/aat/300014078</conceptID>
+            <term lido:pref="preferred" xml:lang="en">canvas</term>
+        </termMaterialsTech>
+        <termMaterialsTech type="process">
+            <conceptID lido:type="URI">http://vocab.getty.edu/aat/300178684</conceptID>
+            <term lido:pref="preferred" xml:lang="en">oil painting (technique)</term>
+        </termMaterialsTech>
+        <termMaterialsTech type="implement">
+            <conceptID lido:type="URI">http://vocab.getty.edu/aat/300022552</conceptID>
+            <term lido:pref="preferred" xml:lang="en">artist's brush</term>
+        </termMaterialsTech>
+        <extentMaterialsTech></extentMaterialsTech>
+        <sourceMaterialsTech></sourceMaterialsTech>
+    </materialsTech>
+</eventMaterialsTech>
+
+<!-- Beispiel aus der DDB: https://www.deutsche-digitale-bibliothek.de/item/WEE4DBX5UVOFHKPCVRH7TYA2LRWM4DOR --> 
+
+ <lido:eventMaterialsTech>
+  <lido:displayMaterialsTech>Öl auf Leinwand, Eichenholz (Rahmen), Glas</lido:displayMaterialsTech>
+  <lido:materialsTech>
+    <lido:termMaterialsTech lido:type="Material">
+      <lido:term lido:addedSearchTerm="no">Öl auf Leinwand</lido:term>
+    </lido:termMaterialsTech>
+    <lido:termMaterialsTech lido:type="Material">
+      <lido:term lido:addedSearchTerm="no">Glas</lido:term>
+    </lido:termMaterialsTech>
+    <lido:termMaterialsTech lido:type="Material">
+      <lido:term lido:addedSearchTerm="no">Eichenholz (Rahmen)</lido:term>
+    </lido:termMaterialsTech>
+   </lido:materialsTech>
+</lido:eventMaterialsTech>
+
+<!-- Medium/Support als Material-Spezifizierungen und Extent für den Eichenholzrahmen unter der Annahme, dass Malen und Rahmen in demselben Event stattgefunden haben - JL --> 
+
+<lido:eventMaterialsTech>
+  <lido:displayMaterialsTech>Öl auf Leinwand; Eichenholz (Rahmen)</lido:displayMaterialsTech>
+  <lido:materialsTech>
+     <lido:termMaterialsTech type="medium">
+        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300015050</lido:conceptID>
+        <lido:term lido:pref="preferred" xml:lang="en">oil paint (paint)</lido:term>
+     </lido:termMaterialsTech>
+     <lido:termMaterialsTech type="support">
+        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300014078</lido:conceptID>
+        <lido:term lido:pref="preferred" xml:lang="en">canvas</lido:term>
+     </lido:termMaterialsTech>
+     <lido:extentMaterialsTech>http://vocab.getty.edu/aat/300033799 oil painting</lido:extentMaterialsTech>
+  </lido:materialsTech>
+  <lido:materialsTech> 
+      <lido:termMaterialsTech type="material">
+        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300012264</lido:conceptID>
+        <lido:term lido:pref="preferred" xml:lang="en">oak (wood)</lido:term>
+     </lido:termMaterialsTech>
+     <lido:extentMaterialsTech>http://vocab.getty.edu/aat/300189814 frame (protective furnishing)</lido:extentMaterialsTech>
+  </lido:materialsTech>
+</lido:eventMaterialsTech>
+
+<!-- Medium/Support und Eichenholzrahmen als Extent unter der Annahme, dass Malen und Rahmen in demselben Event stattgefunden haben - JL
+     Das Problem: Die Beziehung zwischen "medium=oil paint" und "support=canvas" geht verloren. Darstellbar wäre der Zusammenhang nur, wenn "extent" in 
+     "termMaterialsTech" geschachtelt wäre. Oder wenn man mit xLinks arbeitet oder ... --> 
+
+<!-- Kommentar RS: Das Snippet ist nicht valide, lido:materialsTech hat die Kardinalität 0-1 und darf also nicht doppelt innerhalb des eventMaterialsTech vorkommen.
+     JL: Siehe Kommentar oben: Darstellbar wäre der Zusammenhang nur, wenn "extent" in "termMaterialsTech" geschachtelt wäre. Dieses Snippet ist experimentell. -->
+<lido:eventMaterialsTech>
+  <lido:displayMaterialsTech>Öl auf Leinwand; Eichenholz (Rahmen)</lido:displayMaterialsTech>
+  <lido:materialsTech>
+     <lido:termMaterialsTech type="material">
+        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300015050</lido:conceptID>
+        <lido:term lido:pref="preferred" xml:lang="en">oil paint (paint)</lido:term>
+     </lido:termMaterialsTech>
+     <lido:termMaterialsTech type="material">
+        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300014078</lido:conceptID>
+        <lido:term lido:pref="preferred" xml:lang="en">canvas</lido:term>
+     </lido:termMaterialsTech>
+     <lido:extentMaterialsTech>http://vocab.getty.edu/aat/300033799 oil painting</lido:extentMaterialsTech>
+     <lido:extentMaterialsTech>medium</lido:extentMaterialsTech>
+     <lido:extentMaterialsTech>support</lido:extentMaterialsTech>
+  </lido:materialsTech>
+  <lido:materialsTech> 
+      <lido:termMaterialsTech type="material">
+        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300012264</lido:conceptID>
+        <lido:term lido:pref="preferred" xml:lang="en">oak (wood)</lido:term>
+     </lido:termMaterialsTech>
+     <lido:extentMaterialsTech>http://vocab.getty.edu/aat/300189814 frame (protective furnishing)</lido:extentMaterialsTech>
+  </lido:materialsTech>
+</lido:eventMaterialsTech>
+
+<!-- ... jedes Medium/Support in einem eigenen eventMaterialsTech beschreibt, was zu Problemen bei displayMaterialsTech führt. --> 
+
+<lido:eventMaterialsTech>
+  <lido:displayMaterialsTech>Öl</lido:displayMaterialsTech>
+  <lido:materialsTech>
+     <lido:termMaterialsTech type="material">
+        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300015050</lido:conceptID>
+        <lido:term lido:pref="preferred" xml:lang="en">oil paint (paint)</lido:term>
+     </lido:termMaterialsTech>
+     <lido:extentMaterialsTech>http://vocab.getty.edu/aat/300033799 oil painting</lido:extentMaterialsTech>
+     <lido:extentMaterialsTech>medium</lido:extentMaterialsTech>
+  </lido:materialsTech> 
+</lido:eventMaterialsTech>
+<lido:eventMaterialsTech>
+  <lido:displayMaterialsTech>Leinwand</lido:displayMaterialsTech>
+  <lido:materialsTech>
+     <lido:termMaterialsTech type="material">
+        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300014078</lido:conceptID>
+        <lido:term lido:pref="preferred" xml:lang="en">canvas</lido:term>
+     </lido:termMaterialsTech>
+     <lido:extentMaterialsTech>http://vocab.getty.edu/aat/300033799 oil painting</lido:extentMaterialsTech>
+     <lido:extentMaterialsTech>support</lido:extentMaterialsTech>
+  </lido:materialsTech> 
+</lido:eventMaterialsTech>
+<lido:eventMaterialsTech>
+  <lido:displayMaterialsTech>Rahmen</lido:displayMaterialsTech>
+  <lido:materialsTech>
+      <lido:termMaterialsTech type="material">
+        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300012264</lido:conceptID>
+        <lido:term lido:pref="preferred" xml:lang="en">oak (wood)</lido:term>
+     </lido:termMaterialsTech>
+     <lido:extentMaterialsTech>http://vocab.getty.edu/aat/300189814 frame (protective furnishing)</lido:extentMaterialsTech>
+  </lido:materialsTech>
+</lido:eventMaterialsTech>

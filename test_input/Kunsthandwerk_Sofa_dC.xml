@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+               xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.lido-schema.org lido-v1.0.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:type="local" lido:source="digiCULT Verbund eG">DE-MUS-092717/lido/dc00028077</lido:lidoRecID>
+    <lido:category>
+      <lido:conceptID lido:type="URI" lido:source="CIDOC-CRM">http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object</lido:conceptID>
+    </lido:category>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType lido:type="Objektbezeichnung">
+            <lido:conceptID lido:type="uri" lido:source="xTree">http://lvr.vocnet.org/wnk/wk009729</lido:conceptID>
+            <lido:conceptID lido:type="uri" lido:source="GND">http://d-nb.info/gnd/4181725-4</lido:conceptID>
+            <lido:conceptID lido:type="uri" lido:source="AAT">http://vocab.getty.edu/aat/300038634</lido:conceptID>
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Sofa</lido:term>
+            <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Couch</lido:term>
+            <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Sofas</lido:term>
+            <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">Sofa (wk009729)</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+<!--
+          <lido:classification lido:type="Quellentyp">
+            <lido:conceptID lido:type="uri" lido:source="xTree">http://digicult.vocnet.org/terminology/ter01098</lido:conceptID>
+            <lido:conceptID lido:type="uri" lido:source="dublincore">http://purl.org/dc/dcmitype/PhysicalObject</lido:conceptID>
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Objekt</lido:term>
+            <lido:term lido:addedSearchTerm="yes" xml:lang="de">Objekt</lido:term>
+          </lido:classification> 
+-->
+          <lido:classification lido:type="generic">
+            <lido:conceptID lido:type="uri" lido:source="http://lvr.vocnet.org/wnk/">http://lvr.vocnet.org/wnk/wk???</lido:conceptID>
+            <lido:conceptID lido:type="uri" lido:source="dublincore">http://purl.org/dc/dcmitype/PhysicalObject</lido:conceptID>
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Möbel</lido:term>
+            <lido:term lido:addedSearchTerm="yes" xml:lang="de">Möbel</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue>Sofa</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:inscriptionsWrap>
+          <lido:inscriptions lido:type="Signatur">
+            <lido:inscriptionDescription>
+              <lido:descriptiveNoteValue />
+            </lido:inscriptionDescription>
+          </lido:inscriptions>
+        </lido:inscriptionsWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet>
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="URI">info:isil/DE-MUS-092717</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>LVR-Freilichtmuseum Kommern</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>http://www.kommern.lvr.de</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="Inventarnummer">2015/27</lido:workID>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet lido:type="Beschreibung">
+            <lido:descriptiveNoteValue>Dreiteiliges Sofa bzw. Couch mit zwei geschweiften, zum Stand verjüngenden Füßen auf der Vorderseite und zwei konischen Vierkantklötzen auf der Rückseite. Hierauf ein Sitzrahmen, woran an innenseitig verschraubten Metallhaken und Spiralfedern Spanngurte befestigt sind, die die drei Sitzpolsterkissen tragen. Mittig auf der Vorderseite des kannelierten und geschweiften Sitzrahmens ein geschnitztes und stilisiertes Akanthus-Blatt. Die Sitzfläche der drei Polsterkissen ist z.T. so mit rotem Samt bezogen, dass es ein florales Muster auf dem Stoff bildet. Aus den beiden hinteren Beinen hervorgehend die leicht geschwungenen Seiten der Rückenlehne, die in einen geschweiften Lehnholm übergehen. Innen ist der Rahmen der Rückenlehne mit einem Rattangeflecht bespannt, auf dem die Rückenpolster ruhen. Das gleiche Rattangeflecht ist zwischen den Seiten der Rückenlehne und den Stützen der Armlehnen gezogen, die am Sitzrahmen befestigt sind.</lido:descriptiveNoteValue>
+          </lido:objectDescriptionSet>
+          <lido:objectDescriptionSet lido:type="Objektgeschichte">
+            <lido:descriptiveNoteValue>Die Couch gehört zu einer Wohnzimmereinrichtung im "Neo-Chippendale-Stil", die Mitte der 1960er-Jahren erworben wurde und als besonders stilvoll galt. Die Couchgarnitur, der Schrank und der Tisch waren ebenso wie die Lampen und das kleine Schränkchen sorgsam aufeinander abgestimmt. Als die Familie der Vorbesitzerin 1973 in einen neu errichteten Bungalow in Quadrath-Ichendorf umzog, wurde die komplette Wohnzimmereinrichtung mitgenommen. Als der ältere Bruder der Schenkerin auszog, wurde die Einrichtung im "Neo-Chippendale-Stil" in seinem Kinderzimmer aufgebaut und der Raum nur noch als "gute Stube" benutzt, wenn z. B. Besuch kam. Die "gute Stube" blieb bis 2010 im Bungalow bestehen, als der Vater der Schenkerin in ein Altersheim umzog. Obwohl die Polstermöbel nur selten benutzt worden waren, wurden um 1975 alle Bezüge erneuert. Im Anschluss versuchte man, Sofa und Sessel möglichst selten zu besetzen, um die neuen Bezüge zu schonen.</lido:descriptiveNoteValue>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:displayObjectMeasurements>Gesamt: Breite: 177,00 cm; Tiefe: 84,00 cm; Höhe: 83,00 cm</lido:displayObjectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="URI" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+              <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Herstellung</lido:term>
+            </lido:eventType>
+            <lido:eventActor>
+              <lido:displayActorInRole>unbekannt (Hersteller/in (Firma/Fabrikant/Manufaktur))</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor lido:type="corporation">
+                  <lido:actorID lido:type="local" lido:source="digiCULT.web" />
+                  <lido:nameActorSet>
+                    <lido:appellationValue lido:pref="preferred">unbekannt</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor />
+                </lido:actor>
+                <lido:roleActor>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Hersteller/in (Firma/Fabrikant/Manufaktur)</lido:term>
+                </lido:roleActor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:displayDate>um 1965</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1960</lido:earliestDate>
+                <lido:latestDate>1970</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Holz</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://lvr.vocnet.org/wnk/wk000096</lido:conceptID>
+                  <lido:conceptID lido:type="uri" lido:source="GND">http://d-nb.info/gnd/4025668-6</lido:conceptID>
+                  <lido:conceptID lido:type="uri" lido:source="AAT">http://vocab.getty.edu/aat/300011914</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Holz</lido:term>
+                  <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Hölzer</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Textilfaser</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://lvr.vocnet.org/wnk/wk002974</lido:conceptID>
+                  <lido:conceptID lido:type="uri" lido:source="LCSH">http://id.loc.gov/authorities/sh85134360#concept</lido:conceptID>
+                  <lido:conceptID lido:type="uri" lido:source="Rameau">http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11944439s</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Textilfaser</lido:term>
+                  <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Textilfasern</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Metall</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Material">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://lvr.vocnet.org/wnk/wk000101</lido:conceptID>
+                  <lido:conceptID lido:type="uri" lido:source="GND">http://d-nb.info/gnd/4038860-8</lido:conceptID>
+                  <lido:conceptID lido:type="uri" lido:source="Rameau">http://dataprod.bnf.fr/ark:/12148/cb11935875s</lido:conceptID>
+                  <lido:conceptID lido:type="uri" lido:source="AAT">http://vocab.getty.edu/aat/300010900</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Metall</lido:term>
+                  <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Metalle</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Polsterung</lido:displayMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="Technik">
+                  <lido:conceptID lido:type="uri" lido:source="xTree">http://digicult.vocnet.org/technik/8.195</lido:conceptID>
+                  <lido:conceptID lido:type="uri" lido:source="GND">http://d-nb.info/gnd/4201707-5</lido:conceptID>
+                  <lido:conceptID lido:type="url" lido:source="Wikipedia de">http://de.wikipedia.org/wiki/Polsterung</lido:conceptID>
+                  <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Polsterung</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="URI" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00011</lido:conceptID>
+              <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Gebrauch</lido:term>
+            </lido:eventType>
+            <lido:eventDate>
+              <lido:displayDate>1965 - 2009</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1965</lido:earliestDate>
+                <lido:latestDate>2009</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:periodName>
+              <lido:conceptID lido:type="uri" lido:source="xTree">http://lvr.vocnet.org/datierung/dat</lido:conceptID>
+            </lido:periodName>
+            <lido:eventPlace>
+              <lido:displayPlace>Bergheim (Erft) (Quadrat-Ichendorf)</lido:displayPlace>
+              <lido:place>
+                <lido:placeID lido:type="uri" lido:source="xTree">http://digicult.vocnet.org/ort/ort01967</lido:placeID>
+                <lido:placeID lido:type="uri" lido:source="GND">http://d-nb.info/gnd/4087260-9</lido:placeID>
+                <lido:namePlaceSet>
+                  <lido:appellationValue lido:pref="preferred" xml:lang="de">Bergheim (Erft)</lido:appellationValue>
+                </lido:namePlaceSet>
+              </lido:place>
+            </lido:eventPlace>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="URI" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00006</lido:conceptID>
+              <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Bearbeitung</lido:term>
+            </lido:eventType>
+            <lido:eventDate>
+              <lido:displayDate>1975</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1975</lido:earliestDate>
+                <lido:latestDate>1975</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+          <lido:subjectSet>
+            <lido:subject lido:type="Schlagwort">
+              <lido:subjectConcept>
+                <lido:conceptID lido:type="uri" lido:source="xTree">http://lvr.vocnet.org/wnk/wk015577</lido:conceptID>
+                <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Wohnen</lido:term>
+                <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">Wohnen (wk015577)</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject lido:type="Schlagwort">
+              <lido:subjectConcept>
+                <lido:conceptID lido:type="uri" lido:source="xTree">http://lvr.vocnet.org/wnk/wk004975</lido:conceptID>
+                <lido:conceptID lido:type="uri" lido:source="GND">http://d-nb.info/gnd/4190192-7</lido:conceptID>
+                <lido:conceptID lido:type="uri" lido:source="AAT">http://vocab.getty.edu/aat/300004435</lido:conceptID>
+                <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Wohnzimmer</lido:term>
+                <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Wohnstube</lido:term>
+                <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Gute Stube</lido:term>
+                <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">Wohnzimmer (wk004975)</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject lido:type="Schlagwort">
+              <lido:subjectConcept>
+                <lido:conceptID lido:type="uri" lido:source="xTree">http://lvr.vocnet.org/wnk/wk018146</lido:conceptID>
+                <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Chippendalestil</lido:term>
+                <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">Chippendalestil (wk018146)</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject lido:type="Schlagwort">
+              <lido:subjectConcept>
+                <lido:conceptID lido:type="uri" lido:source="xTree">http://lvr.vocnet.org/wnk/wk010629</lido:conceptID>
+                <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Historismus</lido:term>
+                <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">Historismus (wk010629)</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject lido:type="Schlagwort">
+              <lido:subjectConcept>
+                <lido:conceptID lido:type="uri" lido:source="xTree">http://lvr.vocnet.org/wnk/wk005800</lido:conceptID>
+                <lido:conceptID lido:type="uri" lido:source="GND">http://d-nb.info/gnd/4043886-7</lido:conceptID>
+                <lido:conceptID lido:type="uri" lido:source="AAT">http://vocab.getty.edu/aat/300266794</lido:conceptID>
+                <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Ornament (Kunst)</lido:term>
+                <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Verzierung (Kunst)</lido:term>
+                <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Schmuckelement (Kunst)</lido:term>
+                <lido:term lido:pref="alternative" lido:addedSearchTerm="yes" xml:lang="de">Ornamente (Kunst)</lido:term>
+                <lido:term lido:addedSearchTerm="yes" lido:label="Zusatz">Ornament (Kunst) (wk005800)</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+        </lido:subjectWrap>
+        <lido:relatedWorksWrap>
+          <lido:relatedWorkSet>
+            <lido:relatedWork>
+              <lido:object>
+                <lido:objectID lido:type="local">DE-MUS-092717/lido/563cb7d4b185a2.81015185</lido:objectID>
+                <lido:objectNote>Bungalow Wohnzimmer</lido:objectNote>
+              </lido:object>
+            </lido:relatedWork>
+            <lido:relatedWorkRelType>
+              <lido:conceptID lido:type="URI" lido:source="http://digicult.vocnet.org/terminology">http://digicult.vocnet.org/terminology/ter00819</lido:conceptID>
+              <lido:term lido:pref="preferred" xml:lang="de">gehört zu Sammlung</lido:term>
+            </lido:relatedWorkRelType>
+          </lido:relatedWorkSet>
+          <lido:relatedWorkSet>
+            <lido:relatedWork>
+<!-- Referenz muss aufgelöst werden
+              <lido:object>
+                <lido:objectID lido:type="local">DE-MUS-092717/lido/dc00028078</lido:objectID>
+                <lido:objectNote>Sessel</lido:objectNote>
+              </lido:object>
+-->
+            </lido:relatedWork>
+            <lido:relatedWorkRelType>
+              <lido:conceptID lido:type="URI" lido:source="http://digicult.vocnet.org/terminology">http://digicult.vocnet.org/terminology/ter00821</lido:conceptID>
+              <lido:term lido:pref="preferred" xml:lang="de">verwandt mit</lido:term>
+            </lido:relatedWorkRelType>
+          </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>LVR-Freilichtmuseum Kommern</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+          <lido:creditLine>DFG-Projekt "Digitales Portal Alltagskulturen im Rheinland - Wandel im ländlichen Raum 1900-2000"</lido:creditLine>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="local">dc00028077</lido:recordID>
+        <lido:recordType>
+          <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource>
+          <lido:legalBodyName>
+            <lido:appellationValue>digiCULT-Verbund eG</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>http://www.digicult-verbund.de</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordSource>
+          <lido:legalBodyName>
+            <lido:appellationValue>LVR-Freilichtmuseum Kommern</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>http://www.kommern.lvr.de</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="URI" lido:source="http://creativecommons.org">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">CC0 1.0</lido:term>
+          </lido:rightsType>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink />
+          <lido:recordMetadataDate lido:type="Erstellt">2015-12-03T20:54:18+01:00</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet lido:sortorder="1">
+          <lido:resourceRepresentation lido:type="image_thumbnail">
+            <lido:linkResource lido:formatResource="jpg">http://digicult-web-lvr-test.digicult-verbund.de/entity-resources/images/digicult-web-lvr-test/4/DISPLAY_LVR_DFG-Alltagskultur_0000098115.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_overview">
+            <lido:linkResource lido:formatResource="jpg">http://digicult-web-lvr-test.digicult-verbund.de/entity-resources/images/digicult-web-lvr-test/4/DISPLAY600_LVR_DFG-Alltagskultur_0000098115.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_master">
+            <lido:linkResource lido:formatResource="jpg">http://digicult-web-lvr-test.digicult-verbund.de/entity-resources/images/digicult-web-lvr-test/4/LVR_DFG-Alltagskultur_0000098115.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>digitales Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceSource lido:type="Fotograf">
+            <lido:legalBodyName>
+              <lido:appellationValue>Gerhards, Hans-Theo</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="URI">https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz</lido:conceptID>
+              <lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="de">Rechte vorbehalten - freier Zugang</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyName>
+                <lido:appellationValue>Landschaftsverband Rheinland</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

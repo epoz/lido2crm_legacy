@@ -1,0 +1,3341 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:fmc="http://www.fotomarburg.de/content/"
+    xmlns:crm_pc="http://www.cidoc-crm.org/cidoc-crm-pc/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20428552">
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20428552_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20428552</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428552_701_1">
+    <crm:P3_has_note>Gesamtansicht</crm:P3_has_note>
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428552_704">
+      <rdfs:label>Digitales Bild</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd465243</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd465243</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd465243</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428552_101_1">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P3_has_note>Figur</crm:P3_has_note>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428552_301_1"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428552_207_1">
+    <crm:P1_is_identified_by>transloziert</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20428552_201_1">
+    <crm:P1_is_identified_by>Renaissance-Kanzel mit Tugenden und Heiligenfiguren — Kanzelkorb mit Heiligenfiguren — Apostel- und Evangelistenfiguren — Evangelist Johannes</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428552_207_2">
+    <crm:P1_is_identified_by>Beschlagwerk</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>Rollwerk</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428552_205"/>
+  </crm:P55_has_current_location>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428552_301_2"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428552_401_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285521_1">
+      <rdfs:label>Johannes der Evangelist (Heiliger)</rdfs:label>
+      <rdfs:label>Apostel</rdfs:label>
+      <rdfs:label>Palmwedel</rdfs:label>
+      <rdfs:label>Adler</rdfs:label>
+      <rdfs:label>Evangelist</rdfs:label>
+      <rdfs:label>Kelch</rdfs:label>
+      <rdfs:label>Johannes der Evangelist, Apostel; mögliche Attribute: Buch, Kessel, Kelch mit Schlange, Adler, Palme, Schriftrolle</rdfs:label>
+      <rdfs:label>11H (JOHN)</rdfs:label>
+      <rdfs:label>Buch</rdfs:label>
+      <rdfs:label>Schlange</rdfs:label>
+      <rdfs:label>Kessel</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/11H(JOHN)</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428552_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428552_301_3"/>
+  </crm:P12i_was_present_at>
+  <crm:P43_has_dimension>
+   <crm:E54_Dimension rdf:about="http://www.fotomarburg.de/content/obj20428552_208_1">
+    <crm:P3_has_note>polygonal</crm:P3_has_note>
+   </crm:E54_Dimension>
+  </crm:P43_has_dimension>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428552_102_1">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4046277-8</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300047090</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E18_Physical_Thing>
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20428574">
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428574_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428574_205"/>
+  </crm:P55_has_current_location>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428574_301_1"/>
+  </crm:P12i_was_present_at>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20428574_201_1">
+    <crm:P1_is_identified_by>Renaissance-Kanzel mit Tugenden und Heiligenfiguren — Kanzelaufgang mit personifizierten Tugenden — Personifikationen von Geduld, Hoffnung und Seligkeit</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428574_401_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285741_1">
+      <rdfs:label>11 M 32</rdfs:label>
+      <rdfs:label>Anker</rdfs:label>
+      <rdfs:label>Speranza divina e certa (Ripa)</rdfs:label>
+      <rdfs:label>spes</rdfs:label>
+      <rdfs:label>Hoffnung</rdfs:label>
+      <rdfs:label>Hoffnung, Spes (Ripa: Speranza divina e certa), als eine der drei theologischen Tugenden</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/11M32</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20428574_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20428574</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428574_101_1">
+    <crm:P3_has_note>Zyklus</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4846614-1</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300184300</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428574_207_1">
+    <crm:P1_is_identified_by>transloziert</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428574_301_2"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428574_701_1">
+    <crm:P3_has_note>Bemalung der Westseite</crm:P3_has_note>
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428574_704">
+      <rdfs:label>Digitales Bild</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd465240</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd465240</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd465240</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428574_401_2">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285742_1">
+      <rdfs:label>54A4 (+11)</rdfs:label>
+      <rdfs:label>Unerschütterlichkeit</rdfs:label>
+      <rdfs:label>Gleichmut</rdfs:label>
+      <rdfs:label>Ruhe</rdfs:label>
+      <rdfs:label>Gemütsruhe, Gleichmut, Unerschütterlichkeit, Gelassenheit</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/54A4(+11)</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428574_207_2">
+    <crm:P1_is_identified_by>Beschlagwerk</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>Rollwerk</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428574_102_1">
+    <crm:P3_has_note>Malerei</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4037220-0</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300033618</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428574_401_3">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285743_1">
+      <rdfs:label>11 S 63</rdfs:label>
+      <rdfs:label>anbeten</rdfs:label>
+      <rdfs:label>die Seligen im Himmel verehren Gott</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/11S63</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428574_301_3"/>
+  </crm:P12i_was_present_at>
+ </crm:E18_Physical_Thing>
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20428573">
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20428573_201_1">
+    <crm:P1_is_identified_by>Renaissance-Kanzel mit Tugenden und Heiligenfiguren — Kanzelaufgang mit personifizierten Tugenden — Personifikationen von Glaube und Liebe</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428573_301_3"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428573_401_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285731_1">
+      <rdfs:label>11 M 31</rdfs:label>
+      <rdfs:label>fede</rdfs:label>
+      <rdfs:label>Glaube</rdfs:label>
+      <rdfs:label>Glaube, Fides (Ripa: Fede, Fede catholica, Fede christiana, Fede christiana catholica), als eine der drei theologischen Tugenden</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/11M31</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428573_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428573_101_1">
+    <crm:P3_has_note>Zyklus</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4846614-1</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300184300</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428573_207_1">
+    <crm:P1_is_identified_by>transloziert</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428573_102_1">
+    <crm:P3_has_note>Malerei</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4037220-0</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300033618</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428573_301_1"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428573_401_2">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285732_1">
+      <rdfs:label>11 M 33</rdfs:label>
+      <rdfs:label>caritas</rdfs:label>
+      <rdfs:label>Nächstenliebe</rdfs:label>
+      <rdfs:label>(Nächsten)liebe, Caritas (Ripa: Carità) als eine der drei theologischen Tugenden</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/11M33</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428573_207_2">
+    <crm:P1_is_identified_by>Beschlagwerk</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>Rollwerk</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428573_205"/>
+  </crm:P55_has_current_location>
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20428573_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20428573</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428573_301_2"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428573_701_1">
+    <crm:P3_has_note>Bemalung der Ostseite</crm:P3_has_note>
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428573_704">
+      <rdfs:label>Digitales Bild</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd465239</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd465239</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd465239</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+ </crm:E18_Physical_Thing>
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20428551">
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20428551_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20428551</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20428551_201_1">
+    <crm:P1_is_identified_by>Renaissance-Kanzel mit Tugenden und Heiligenfiguren — Kanzelkorb mit Heiligenfiguren — Apostel- und Evangelistenfiguren — Evangelist Lukas</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428551_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428551_701_1">
+    <crm:P3_has_note>Gesamtansicht</crm:P3_has_note>
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428551_704">
+      <rdfs:label>Digitales Bild</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd465242</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd465242</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd465242</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428551_301_2"/>
+  </crm:P12i_was_present_at>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428551_101_1">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P3_has_note>Figur</crm:P3_has_note>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428551_207_1">
+    <crm:P1_is_identified_by>transloziert</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428551_207_2">
+    <crm:P1_is_identified_by>Beschlagwerk</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>Rollwerk</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428551_102_1">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4046277-8</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300047090</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P43_has_dimension>
+   <crm:E54_Dimension rdf:about="http://www.fotomarburg.de/content/obj20428551_208_1">
+    <crm:P3_has_note>polygonal</crm:P3_has_note>
+   </crm:E54_Dimension>
+  </crm:P43_has_dimension>
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428551_205"/>
+  </crm:P55_has_current_location>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428551_301_3"/>
+  </crm:P12i_was_present_at>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428551_301_1"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428551_401_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285511_1">
+      <rdfs:label>Instrument</rdfs:label>
+      <rdfs:label>Lukas (Heiliger)</rdfs:label>
+      <rdfs:label>11H (LUKE)</rdfs:label>
+      <rdfs:label>chirurgische Instrumente</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/11H(LUKE)</skos:closeMatch>
+      <rdfs:label>Malwerkzeug</rdfs:label>
+      <rdfs:label>Maria (Jungfrau)</rdfs:label>
+      <rdfs:label>Werkzeug</rdfs:label>
+      <rdfs:label>Evangelist</rdfs:label>
+      <rdfs:label>Ochse</rdfs:label>
+      <rdfs:label>Schriftrolle</rdfs:label>
+      <rdfs:label>der Evangelist Lukas; mögliche Attribute: Buch, (geflügelter) Ochse, Marienbildnis, chirurgische Instrumente, Malwerkzeuge, Schriftrolle</rdfs:label>
+      <rdfs:label>Porträt</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+ </crm:E18_Physical_Thing>
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20428554">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428554_701_1">
+    <crm:P3_has_note>Gesamtansicht</crm:P3_has_note>
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428554_704">
+      <rdfs:label>Digitales Bild</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd465247</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd465247</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd465247</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20428554_201_1">
+    <crm:P1_is_identified_by>Renaissance-Kanzel mit Tugenden und Heiligenfiguren — Kanzelkorb mit Heiligenfiguren — Apostel- und Evangelistenfiguren — Evangelist Markus</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428554_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20428554_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20428554</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428554_401_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285541_1">
+      <rdfs:label>Löwe</rdfs:label>
+      <rdfs:label>Markus (Heiliger)</rdfs:label>
+      <rdfs:label>11H (MARK)</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/11H(MARK)</skos:closeMatch>
+      <rdfs:label>der Evangelist Markus, Bischof von Alexandria; mögliche Attribute: Buch, (geflügelter) Löwe, Schreibfeder und Tintenfass, Schriftrolle</rdfs:label>
+      <rdfs:label>Evangelist</rdfs:label>
+      <rdfs:label>Schriftrolle</rdfs:label>
+      <rdfs:label>Tintenfass (eingelassenes)</rdfs:label>
+      <rdfs:label>Schreibfeder</rdfs:label>
+      <rdfs:label>Tinte</rdfs:label>
+      <rdfs:label>Buch</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428554_207_1">
+    <crm:P1_is_identified_by>transloziert</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428554_301_1"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428554_207_2">
+    <crm:P1_is_identified_by>Beschlagwerk</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>Rollwerk</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P43_has_dimension>
+   <crm:E54_Dimension rdf:about="http://www.fotomarburg.de/content/obj20428554_208_1">
+    <crm:P3_has_note>polygonal</crm:P3_has_note>
+   </crm:E54_Dimension>
+  </crm:P43_has_dimension>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428554_101_1">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P3_has_note>Figur</crm:P3_has_note>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428554_102_1">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4046277-8</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300047090</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428554_301_3"/>
+  </crm:P12i_was_present_at>
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428554_205"/>
+  </crm:P55_has_current_location>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428554_301_2"/>
+  </crm:P12i_was_present_at>
+ </crm:E18_Physical_Thing>
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20428553">
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20428553_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20428553</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428553_101_1">
+    <crm:P3_has_note>Zyklus</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4846614-1</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300184300</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428553_102_1">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4046277-8</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300047090</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428553_301_2"/>
+  </crm:P12i_was_present_at>
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428553_205"/>
+  </crm:P55_has_current_location>
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428553_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428553_401_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285531_1">
+      <rdfs:label>11 I 3</rdfs:label>
+      <rdfs:label>Paulus (Heiliger)</rdfs:label>
+      <rdfs:label>Matthias (Heiliger)</rdfs:label>
+      <rdfs:label>Apostel</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/11I3</skos:closeMatch>
+      <rdfs:label>Buch</rdfs:label>
+      <rdfs:label>Schriftrolle</rdfs:label>
+      <rdfs:label>zwölf</rdfs:label>
+      <rdfs:label>die zwölf Apostel (als Gruppe), in der Regel mit Büchern oder Schriftrollen (nicht im biblischen Kontext), mit Paulus statt Judas</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428553_401_3">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285533_1">
+      <rdfs:label>11 G 19 11</rdfs:label>
+      <rdfs:label>Flügel</rdfs:label>
+      <rdfs:label>Cherub</rdfs:label>
+      <rdfs:label>Cherubim, d.h. Kinderköpfe mit Flügeln</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/11G1911</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428553_401_2">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285532_1">
+      <rdfs:label>11 I 4</rdfs:label>
+      <rdfs:label>Schriftrolle</rdfs:label>
+      <rdfs:label>Buch</rdfs:label>
+      <rdfs:label>Evangelist</rdfs:label>
+      <rdfs:label>Evangelisten, in der Regel mit Büchern oder Schriftrollen (nicht im biblischen Kontext), mit ihren Symbolen</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/11I4</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428553_401_4">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285534_1">
+      <rdfs:label>48 A 98 53</rdfs:label>
+      <rdfs:label>Muschel</rdfs:label>
+      <rdfs:label>Ornamente in Form von Muscheln</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/48A9853</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428553_301_3"/>
+  </crm:P12i_was_present_at>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20428553_201_1">
+    <crm:P1_is_identified_by>Renaissance-Kanzel mit Tugenden und Heiligenfiguren — Kanzelkorb mit Heiligenfiguren — Apostel- und Evangelistenfiguren</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428553_207_1">
+    <crm:P1_is_identified_by>transloziert</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428553_301_1"/>
+  </crm:P12i_was_present_at>
+  <crm:P43_has_dimension>
+   <crm:E54_Dimension rdf:about="http://www.fotomarburg.de/content/obj20428553_208_1">
+    <crm:P3_has_note>polygonal</crm:P3_has_note>
+   </crm:E54_Dimension>
+  </crm:P43_has_dimension>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428553_207_2">
+    <crm:P1_is_identified_by>Beschlagwerk</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>Rollwerk</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+ </crm:E18_Physical_Thing>
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20428570">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428570_401_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285701_1">
+      <rdfs:label>11 G 19 1</rdfs:label>
+      <rdfs:label>Kind</rdfs:label>
+      <rdfs:label>Engel als Kind(er) dargestellt</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/11G191</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428570_102_2">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4046277-8</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300047090</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428570_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P43_has_dimension>
+   <crm:E54_Dimension rdf:about="http://www.fotomarburg.de/content/obj20428570_208_1">
+    <crm:P3_has_note>polygonal</crm:P3_has_note>
+   </crm:E54_Dimension>
+  </crm:P43_has_dimension>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428570_207_2">
+    <crm:P1_is_identified_by>Beschlagwerk</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>Rollwerk</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428570_701_1">
+    <crm:P3_has_note>Gesamtansicht nach Nordosten</crm:P3_has_note>
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428570_704">
+      <rdfs:label>Digitales Bild</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd465236</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd465236</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd465236</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428570_301_2"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428570_207_1">
+    <crm:P1_is_identified_by>transloziert</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428570_102_3">
+    <crm:P3_has_note>Malerei</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4037220-0</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300033618</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20428570_201_1">
+    <crm:P1_is_identified_by>Renaissance-Kanzel mit Tugenden und Heiligenfiguren — Engel mit Arma Christi und Wappen</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428570_401_4">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285704_1">
+      <rdfs:label>46A122 (ELEMANNI UPLING)</rdfs:label>
+      <rdfs:label>Heraldik</rdfs:label>
+      <rdfs:label>Wappen</rdfs:label>
+      <rdfs:label>Wappenschild, heraldisches Symbol (mit NAMEN der Familie)</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/46A122(ELEMANNI UPLING)</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428570_205"/>
+  </crm:P55_has_current_location>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428570_301_1"/>
+  </crm:P12i_was_present_at>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428570_301_3"/>
+  </crm:P12i_was_present_at>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428570_101_1">
+    <crm:P3_has_note>Sakralraumausstattung</crm:P3_has_note>
+    <crm:P3_has_note>Kanzel</crm:P3_has_note>
+    <crm:P3_has_note>Schalldeckel</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4137684-5</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300003798</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428570_401_3">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285703_1">
+      <rdfs:label>46A122 (HETLING)</rdfs:label>
+      <rdfs:label>Heraldik</rdfs:label>
+      <rdfs:label>Wappen</rdfs:label>
+      <rdfs:label>Wappenschild, heraldisches Symbol (mit NAMEN der Familie)</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/46A122(HETLING)</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428570_102_1">
+    <crm:P3_has_note>Angewandte Kunst</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/7593577-6</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300054704</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300054168</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20428570_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20428570</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428570_401_2">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285702_1">
+      <rdfs:label>73 D 81</rdfs:label>
+      <rdfs:label>Leidenswerkzeuge</rdfs:label>
+      <rdfs:label>Arma Christi</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/73D81</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+ </crm:E18_Physical_Thing>
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20428572">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428572_207_2">
+    <crm:P1_is_identified_by>Beschlagwerk</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>Rollwerk</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20428572_201_1">
+    <crm:P1_is_identified_by>Renaissance-Kanzel mit Tugenden und Heiligenfiguren — Kanzelaufgang mit personifizierten Tugenden</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428572_102_1">
+    <crm:P3_has_note>Angewandte Kunst</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/7593577-6</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300054704</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300054168</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428572_301_2"/>
+  </crm:P12i_was_present_at>
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20428572_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20428572</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428572_101_1">
+    <crm:P3_has_note>Sakralraumausstattung</crm:P3_has_note>
+    <crm:P3_has_note>Kanzel</crm:P3_has_note>
+    <crm:P3_has_note>Kanzelaufgang</crm:P3_has_note>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428572_102_3">
+    <crm:P3_has_note>Malerei</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4037220-0</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300033618</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428572_205"/>
+  </crm:P55_has_current_location>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428572_301_1"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428572_207_1">
+    <crm:P1_is_identified_by>transloziert</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428572_102_2">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4046277-8</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300047090</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428572_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428572_301_3"/>
+  </crm:P12i_was_present_at>
+ </crm:E18_Physical_Thing>
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20428550">
+  <crm:P128_carries>
+   <crm:E34_Inscription rdf:about="http://www.fotomarburg.de/content/obj20428550_202_1">
+    <crm:P3_has_note>Inschrift: Boden — ANNO 1650 / HAT MICHAEL HETLING GOTT / UND DER KIRCHEN ZU EHREN / DIESEN BREDIGSTUEL VERGUL= / DEN UND VERMAHLEN / LASSEN</crm:P3_has_note>
+   </crm:E34_Inscription>
+  </crm:P128_carries>
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428550_205"/>
+  </crm:P55_has_current_location>
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428550_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20428550_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20428550</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+  <crm:P43_has_dimension>
+   <crm:E54_Dimension rdf:about="http://www.fotomarburg.de/content/obj20428550_208_1">
+    <crm:P3_has_note>polygonal</crm:P3_has_note>
+   </crm:E54_Dimension>
+  </crm:P43_has_dimension>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428550_207_2">
+    <crm:P1_is_identified_by>Beschlagwerk</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>Rollwerk</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428550_207_1">
+    <crm:P1_is_identified_by>transloziert</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428550_102_1">
+    <crm:P3_has_note>Angewandte Kunst</crm:P3_has_note>
+    <crm:P3_has_note>Schriftkunst</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4180005-9</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300266660</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428550_701_1">
+    <crm:P3_has_note>Stifterinschrift (Datierung der Neufassung und Vergoldung 1650) und Bibelzitate</crm:P3_has_note>
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428550_704">
+      <rdfs:label>Digitales Bild</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd465238</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd465238</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd465238</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20428550_201_1">
+    <crm:P1_is_identified_by>Renaissance-Kanzel mit Tugenden und Heiligenfiguren — Kanzelkorb mit Heiligenfiguren — Stifterinschrift und Bibelzitate</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428550_101_1">
+    <crm:P3_has_note>Dokument</crm:P3_has_note>
+    <crm:P3_has_note>Inschrift</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300028702</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428550_301_1"/>
+  </crm:P12i_was_present_at>
+ </crm:E18_Physical_Thing>
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20428571">
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428571_205"/>
+  </crm:P55_has_current_location>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428571_207_2">
+    <crm:P1_is_identified_by>Beschlagwerk</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>Rollwerk</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20428571_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20428571</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428571_701_1">
+    <crm:P3_has_note>Gesamtansicht</crm:P3_has_note>
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428571_704">
+      <rdfs:label>Digitales Bild</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd465237</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd465237</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd465237</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428571_207_1">
+    <crm:P1_is_identified_by>transloziert</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428571_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428571_401_2">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285712_1">
+      <rdfs:label>44A1 (+4)</rdfs:label>
+      <rdfs:label>Wappen</rdfs:label>
+      <rdfs:label>Wappen (als Staatssymbol, etc.)</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/44A1(+4)(OSTERWIECK)</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428571_101_1">
+    <crm:P3_has_note>Sakralraumausstattung</crm:P3_has_note>
+    <crm:P3_has_note>Kanzel</crm:P3_has_note>
+    <crm:P3_has_note>Kanzelträger</crm:P3_has_note>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428571_401_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285711_1">
+      <rdfs:label>11H (STEPHEN)</rdfs:label>
+      <rdfs:label>Stein</rdfs:label>
+      <rdfs:label>Weihrauchgefäß</rdfs:label>
+      <rdfs:label>Stephanus (Heiliger)</rdfs:label>
+      <rdfs:label>Stephanus, Diakon und Erzmärtyrer; mögliche Attribute: Weihrauchgefäß, Steine</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/11H(STEPHEN)</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428571_301_1"/>
+  </crm:P12i_was_present_at>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428571_102_1">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4046277-8</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300047090</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20428571_201_1">
+    <crm:P1_is_identified_by>Renaissance-Kanzel mit Tugenden und Heiligenfiguren — Heiliger Stephanus</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+ </crm:E18_Physical_Thing>
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20320081">
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20320081_205"/>
+  </crm:P55_has_current_location>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20320081_201_1">
+    <crm:P1_is_identified_by>Renaissance-Kanzel mit Tugenden und Heiligenfiguren</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20320081_301_3"/>
+  </crm:P12i_was_present_at>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20320081_301_1"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20320081_701_1">
+    <crm:P3_has_note>Gesamtansicht nach Nordwesten</crm:P3_has_note>
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20320081_704">
+      <rdfs:label>Digitales Bild (retrodigitalisiert)</rdfs:label>
+      <rdfs:label>Digitales Bild</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd465235</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd465235</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd465235</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20320081_102_3">
+    <crm:P3_has_note>Malerei</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4037220-0</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300033618</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20320081_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20320081</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20320081_701_2">
+    <crm:P3_has_note>Gesamtansicht vor der Restaurierung</crm:P3_has_note>
+    <crm:P2_has_type rdf:resource="http://www.fotomarburg.de/content/obj20320081_704"/>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/mi12996e08</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/mi12996e08</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>B 18.846/7</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20320081_207_1">
+    <crm:P1_is_identified_by>transloziert</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20320081_301_2"/>
+  </crm:P12i_was_present_at>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20320081_102_1">
+    <crm:P3_has_note>Angewandte Kunst</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/7593577-6</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300054704</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300054168</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20320081_101_1">
+    <crm:P3_has_note>Sakralraumausstattung</crm:P3_has_note>
+    <crm:P3_has_note>Kanzel</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4137684-5</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300003790</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20320081_207_2">
+    <crm:P1_is_identified_by>Beschlagwerk</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>Rollwerk</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20320081_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20320081_102_2">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4046277-8</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300047090</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E18_Physical_Thing>
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20428549">
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428549_205"/>
+  </crm:P55_has_current_location>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428549_102_1">
+    <crm:P3_has_note>Angewandte Kunst</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/7593577-6</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300054704</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300054168</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428549_301_2"/>
+  </crm:P12i_was_present_at>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428549_301_3"/>
+  </crm:P12i_was_present_at>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428549_101_1">
+    <crm:P3_has_note>Sakralraumausstattung</crm:P3_has_note>
+    <crm:P3_has_note>Kanzel</crm:P3_has_note>
+    <crm:P3_has_note>Kanzelkorb</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4137684-5</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300003790</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428549_207_1">
+    <crm:P1_is_identified_by>transloziert</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20428549_201_1">
+    <crm:P1_is_identified_by>Renaissance-Kanzel mit Tugenden und Heiligenfiguren — Kanzelkorb mit Heiligenfiguren</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428549_102_2">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4046277-8</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300047090</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428549_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428549_102_3">
+    <crm:P3_has_note>Malerei</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4037220-0</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300033618</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P43_has_dimension>
+   <crm:E54_Dimension rdf:about="http://www.fotomarburg.de/content/obj20428549_208_1">
+    <crm:P3_has_note>polygonal</crm:P3_has_note>
+   </crm:E54_Dimension>
+  </crm:P43_has_dimension>
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20428549_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20428549</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428549_207_2">
+    <crm:P1_is_identified_by>Beschlagwerk</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>Rollwerk</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428549_301_1"/>
+  </crm:P12i_was_present_at>
+ </crm:E18_Physical_Thing>
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20428559">
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428559_101_1">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P3_has_note>Figur</crm:P3_has_note>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428559_301_1"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428559_207_1">
+    <crm:P1_is_identified_by>transloziert</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428559_301_3"/>
+  </crm:P12i_was_present_at>
+  <crm:P43_has_dimension>
+   <crm:E54_Dimension rdf:about="http://www.fotomarburg.de/content/obj20428559_208_1">
+    <crm:P3_has_note>polygonal</crm:P3_has_note>
+   </crm:E54_Dimension>
+  </crm:P43_has_dimension>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428559_301_2"/>
+  </crm:P12i_was_present_at>
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428559_205"/>
+  </crm:P55_has_current_location>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428559_102_1">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4046277-8</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300047090</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20428559_201_1">
+    <crm:P1_is_identified_by>Renaissance-Kanzel mit Tugenden und Heiligenfiguren — Kanzelkorb mit Heiligenfiguren — Apostel- und Evangelistenfiguren — Apostel Andreas</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428559_701_1">
+    <crm:P3_has_note>Gesamtansicht</crm:P3_has_note>
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428559_704">
+      <rdfs:label>Digitales Bild</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd465249</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd465249</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd465249</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428559_207_2">
+    <crm:P1_is_identified_by>Beschlagwerk</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>Rollwerk</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428559_401_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285591_1">
+      <rdfs:label>Andreaskreuz</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/11H(ANDREW)</skos:closeMatch>
+      <rdfs:label>Buch</rdfs:label>
+      <rdfs:label>Netz</rdfs:label>
+      <rdfs:label>Strick</rdfs:label>
+      <rdfs:label>Andreas (Heiliger)</rdfs:label>
+      <rdfs:label>Fisch</rdfs:label>
+      <rdfs:label>der Apostel Andreas; mögliche Attribute: Buch, Andreaskreuz,Fisch, Fischnetz, Strick, Schriftrolle</rdfs:label>
+      <rdfs:label>Schriftrolle</rdfs:label>
+      <rdfs:label>Kreuz</rdfs:label>
+      <rdfs:label>11H (ANDREW)</rdfs:label>
+      <rdfs:label>Seil</rdfs:label>
+      <rdfs:label>Apostel</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428559_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20428559_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20428559</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+ </crm:E18_Physical_Thing>
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20428556">
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428556_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428556_701_1">
+    <crm:P3_has_note>Gesamtansicht</crm:P3_has_note>
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428556_704">
+      <rdfs:label>Digitales Bild</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd465244</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd465244</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd465244</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428556_401_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285561_1">
+      <rdfs:label>Bischofsstab</rdfs:label>
+      <rdfs:label>Kreuz</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/11H(PETER)</skos:closeMatch>
+      <rdfs:label>Apostel</rdfs:label>
+      <rdfs:label>Schlüssel</rdfs:label>
+      <rdfs:label>Tiara</rdfs:label>
+      <rdfs:label>Buch</rdfs:label>
+      <rdfs:label>Krummstab</rdfs:label>
+      <rdfs:label>Schriftrolle</rdfs:label>
+      <rdfs:label>Schiff</rdfs:label>
+      <rdfs:label>der Apostel Petrus, erster Bischof von Rom; mögliche Attribute: Buch, Hahn, (umgekehrtes) Kreuz, Krummstab mit drei Querbalken, Fisch, Schlüssel, Schriftrolle, Schiff, Tiara</rdfs:label>
+      <rdfs:label>11H (PETER)</rdfs:label>
+      <rdfs:label>Petrus (Heiliger)</rdfs:label>
+      <rdfs:label>Hahn</rdfs:label>
+      <rdfs:label>Fisch</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428556_207_2">
+    <crm:P1_is_identified_by>Beschlagwerk</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>Rollwerk</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428556_102_1">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4046277-8</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300047090</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P43_has_dimension>
+   <crm:E54_Dimension rdf:about="http://www.fotomarburg.de/content/obj20428556_208_1">
+    <crm:P3_has_note>polygonal</crm:P3_has_note>
+   </crm:E54_Dimension>
+  </crm:P43_has_dimension>
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20428556_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20428556</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428556_301_3"/>
+  </crm:P12i_was_present_at>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428556_101_1">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P3_has_note>Figur</crm:P3_has_note>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20428556_201_1">
+    <crm:P1_is_identified_by>Renaissance-Kanzel mit Tugenden und Heiligenfiguren — Kanzelkorb mit Heiligenfiguren — Apostel- und Evangelistenfiguren — Apostel Petrus</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428556_207_1">
+    <crm:P1_is_identified_by>transloziert</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428556_205"/>
+  </crm:P55_has_current_location>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428556_301_2"/>
+  </crm:P12i_was_present_at>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428556_301_1"/>
+  </crm:P12i_was_present_at>
+ </crm:E18_Physical_Thing>
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20428577">
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428577_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428577_301_1"/>
+  </crm:P12i_was_present_at>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428577_101_1">
+    <crm:P3_has_note>Sakralraumausstattung</crm:P3_has_note>
+    <crm:P3_has_note>Kanzel</crm:P3_has_note>
+    <crm:P3_has_note>Kanzeltür</crm:P3_has_note>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428577_401_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285771_1">
+      <rdfs:label>Greif</rdfs:label>
+      <rdfs:label>Delphin</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/11D131</skos:closeMatch>
+      <rdfs:label>Pfau</rdfs:label>
+      <rdfs:label>Hirsch</rdfs:label>
+      <rdfs:label>Taube</rdfs:label>
+      <rdfs:label>11 D 13 1</rdfs:label>
+      <rdfs:label>Hase</rdfs:label>
+      <rdfs:label>Einhorn</rdfs:label>
+      <rdfs:label>Phönix</rdfs:label>
+      <rdfs:label>Christussymbole aus der Tierwelt</rdfs:label>
+      <rdfs:label>Löwe</rdfs:label>
+      <rdfs:label>Skarabäus</rdfs:label>
+      <rdfs:label>Tier</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428577_102_3">
+    <crm:P3_has_note>Malerei</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4037220-0</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300033618</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20428577_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20428577</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428577_207_2">
+    <crm:P1_is_identified_by>Beschlagwerk</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>Rollwerk</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428577_205"/>
+  </crm:P55_has_current_location>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428577_102_2">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4046277-8</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300047090</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428577_301_2"/>
+  </crm:P12i_was_present_at>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428577_102_1">
+    <crm:P3_has_note>Angewandte Kunst</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/7593577-6</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300054704</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300054168</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428577_301_3"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428577_401_2">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285772_1">
+      <rdfs:label>25F36 (PELICAN)</rdfs:label>
+      <rdfs:label>Pelikan</rdfs:label>
+      <rdfs:label>Wasservögel: Pelikan</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/25F36(PELICAN)</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20428577_201_1">
+    <crm:P1_is_identified_by>Renaissance-Kanzel mit Tugenden und Heiligenfiguren — Kanzeltür mit Pelikan als Christussymbol</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428577_207_1">
+    <crm:P1_is_identified_by>transloziert</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428577_701_1">
+    <crm:P3_has_note>Detailansicht des bekrönenden Pelikans</crm:P3_has_note>
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428577_704">
+      <rdfs:label>Digitales Bild</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd465241</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd465241</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd465241</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+ </crm:E18_Physical_Thing>
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20428555">
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428555_102_1">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4046277-8</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300047090</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428555_205"/>
+  </crm:P55_has_current_location>
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428555_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428555_207_2">
+    <crm:P1_is_identified_by>Beschlagwerk</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>Rollwerk</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428555_101_1">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P3_has_note>Figur</crm:P3_has_note>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20428555_201_1">
+    <crm:P1_is_identified_by>Renaissance-Kanzel mit Tugenden und Heiligenfiguren — Kanzelkorb mit Heiligenfiguren — Apostel- und Evangelistenfiguren — Evangelist Matthäus</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P43_has_dimension>
+   <crm:E54_Dimension rdf:about="http://www.fotomarburg.de/content/obj20428555_208_1">
+    <crm:P3_has_note>polygonal</crm:P3_has_note>
+   </crm:E54_Dimension>
+  </crm:P43_has_dimension>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428555_301_1"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428555_401_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285551_1">
+      <rdfs:label>Apostel</rdfs:label>
+      <rdfs:label>Buch</rdfs:label>
+      <rdfs:label>Evangelist</rdfs:label>
+      <rdfs:label>11H (MATTHEW)</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/11H(MATTHEW)</skos:closeMatch>
+      <rdfs:label>Engel</rdfs:label>
+      <rdfs:label>Schreibfeder</rdfs:label>
+      <rdfs:label>Schriftrolle</rdfs:label>
+      <rdfs:label>Beil</rdfs:label>
+      <rdfs:label>Schwert</rdfs:label>
+      <rdfs:label>Axt</rdfs:label>
+      <rdfs:label>Winkelmaß</rdfs:label>
+      <rdfs:label>der Apostel und Evangelist Matthäus; mögliche Attribute: Engel, Axt, Buch, Hellebarde, Schreibfeder und Tintenfass, Geldbörse, Schriftrolle, Winkelmaß, Schwert</rdfs:label>
+      <rdfs:label>Tintenfass (eingelassenes)</rdfs:label>
+      <rdfs:label>Hellebarde</rdfs:label>
+      <rdfs:label>Geldbeutel</rdfs:label>
+      <rdfs:label>Matthäus (Heiliger)</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428555_207_1">
+    <crm:P1_is_identified_by>transloziert</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20428555_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20428555</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428555_701_1">
+    <crm:P3_has_note>Gesamtansicht</crm:P3_has_note>
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428555_704">
+      <rdfs:label>Digitales Bild</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd465248</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd465248</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd465248</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428555_301_2"/>
+  </crm:P12i_was_present_at>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428555_301_3"/>
+  </crm:P12i_was_present_at>
+ </crm:E18_Physical_Thing>
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20428558">
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428558_601"/>
+  </crm:P70i_is_documented_in>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428558_401_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285581_1">
+      <rdfs:label>11H (PAUL)</rdfs:label>
+      <rdfs:label>Schwert</rdfs:label>
+      <rdfs:label>Schriftrolle</rdfs:label>
+      <rdfs:label>Buch</rdfs:label>
+      <rdfs:label>Apostel</rdfs:label>
+      <rdfs:label>Paulus (Heiliger)</rdfs:label>
+      <rdfs:label>der Apostel Paulus (von Tarsus); mögliche Attribute: Buch, Schriftrolle, Schwert</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/11H(PAUL)</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428558_102_1">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4046277-8</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300047090</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428558_101_1">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P3_has_note>Figur</crm:P3_has_note>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428558_205"/>
+  </crm:P55_has_current_location>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20428558_201_1">
+    <crm:P1_is_identified_by>Renaissance-Kanzel mit Tugenden und Heiligenfiguren — Kanzelkorb mit Heiligenfiguren — Apostel- und Evangelistenfiguren — Apostel Paulus</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P43_has_dimension>
+   <crm:E54_Dimension rdf:about="http://www.fotomarburg.de/content/obj20428558_208_1">
+    <crm:P3_has_note>polygonal</crm:P3_has_note>
+   </crm:E54_Dimension>
+  </crm:P43_has_dimension>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428558_301_3"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428558_207_2">
+    <crm:P1_is_identified_by>Beschlagwerk</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>Rollwerk</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428558_301_1"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428558_207_1">
+    <crm:P1_is_identified_by>transloziert</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428558_301_2"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428558_701_1">
+    <crm:P3_has_note>Gesamtansicht</crm:P3_has_note>
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428558_704">
+      <rdfs:label>Digitales Bild</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd465246</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd465246</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd465246</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20428558_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20428558</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+ </crm:E18_Physical_Thing>
+ <crm:E18_Physical_Thing rdf:about="http://www.fotomarburg.de/content/obj20428557">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428557_401_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/_402_obj204285571_1">
+      <rdfs:label>Pilgertasche</rdfs:label>
+      <rdfs:label>Schriftrolle</rdfs:label>
+      <rdfs:label>Schwert</rdfs:label>
+      <skos:closeMatch>http://iconclass.org/11H(JAMES THE GREAT)</skos:closeMatch>
+      <rdfs:label>11H (JAMES THE GREAT)</rdfs:label>
+      <rdfs:label>Pilgerhut</rdfs:label>
+      <rdfs:label>Pilgermantel</rdfs:label>
+      <rdfs:label>Jakobus Major (Heiliger)</rdfs:label>
+      <rdfs:label>Jakobus der Ältere (Major), Apostel; mögliche Attribute: Buch, Pilgermantel, -hut, -stab, und -tasche, Muschel, Schriftrolle, Schwert</rdfs:label>
+      <rdfs:label>Pilgerstab</rdfs:label>
+      <rdfs:label>Buch</rdfs:label>
+      <rdfs:label>Apostel</rdfs:label>
+      <rdfs:label>Pilger</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P43_has_dimension>
+   <crm:E54_Dimension rdf:about="http://www.fotomarburg.de/content/obj20428557_208_1">
+    <crm:P3_has_note>polygonal</crm:P3_has_note>
+   </crm:E54_Dimension>
+  </crm:P43_has_dimension>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428557_301_2"/>
+  </crm:P12i_was_present_at>
+  <crm:P1_is_identified_by>
+   <crm:E42_Identifier rdf:about="http://www.fotomarburg.de/content/obj20428557_001_1">
+    <crm:P3_has_note>DE-Mb112/lido/obj20428557</crm:P3_has_note>
+   </crm:E42_Identifier>
+  </crm:P1_is_identified_by>
+  <crm:P55_has_current_location>
+   <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428557_205"/>
+  </crm:P55_has_current_location>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428557_101_1">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P3_has_note>Figur</crm:P3_has_note>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428557_207_1">
+    <crm:P1_is_identified_by>transloziert</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428557_301_3"/>
+  </crm:P12i_was_present_at>
+  <crm:P12i_was_present_at>
+   <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428557_301_1"/>
+  </crm:P12i_was_present_at>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428557_701_1">
+    <crm:P3_has_note>Gesamtansicht</crm:P3_has_note>
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428557_704">
+      <rdfs:label>Digitales Bild</rdfs:label>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/d/fmd465245</crm:P3_has_note>
+    <crm:P3_has_note>http://www.bildindex.de/bilder/m/fmd465245</crm:P3_has_note>
+    <crm:P48_has_preferred_identifier>fmd465245</crm:P48_has_preferred_identifier>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428557_102_1">
+    <crm:P3_has_note>Skulptur</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://d-nb.info/gnd/4046277-8</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>http://vocab.getty.edu/aat/300047090</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <crm:P102_has_title>
+   <crm:E35_Title rdf:about="http://www.fotomarburg.de/content/obj20428557_201_1">
+    <crm:P1_is_identified_by>Renaissance-Kanzel mit Tugenden und Heiligenfiguren — Kanzelkorb mit Heiligenfiguren — Apostel- und Evangelistenfiguren — Apostel Jakobus</crm:P1_is_identified_by>
+   </crm:E35_Title>
+  </crm:P102_has_title>
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428557_207_2">
+    <crm:P1_is_identified_by>Beschlagwerk</crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>Rollwerk</crm:P1_is_identified_by>
+   </crm:E73_Information_Object>
+  </crm:P129i_is_subject_of>
+  <crm:P70i_is_documented_in>
+   <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428557_601"/>
+  </crm:P70i_is_documented_in>
+ </crm:E18_Physical_Thing>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428558_205">
+  <crm:P1_is_identified_by>Osterwieck, Evangelische Kirche Sankt Stephani, Mittelschiff, Nordseite, 3. Pfeiler von Osten</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428551_205">
+  <crm:P1_is_identified_by>Osterwieck, Evangelische Kirche Sankt Stephani, Mittelschiff, Nordseite, 3. Pfeiler von Osten</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428555_205">
+  <crm:P1_is_identified_by>Osterwieck, Evangelische Kirche Sankt Stephani, Mittelschiff, Nordseite, 3. Pfeiler von Osten</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428554_205">
+  <crm:P1_is_identified_by>Osterwieck, Evangelische Kirche Sankt Stephani, Mittelschiff, Nordseite, 3. Pfeiler von Osten</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428570_205">
+  <crm:P1_is_identified_by>Osterwieck, Evangelische Kirche Sankt Stephani, Mittelschiff, Nordseite, 3. Pfeiler von Osten</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428552_205">
+  <crm:P1_is_identified_by>Osterwieck, Evangelische Kirche Sankt Stephani, Mittelschiff, Nordseite, 3. Pfeiler von Osten</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428549_205">
+  <crm:P1_is_identified_by>Osterwieck, Evangelische Kirche Sankt Stephani, Mittelschiff, Nordseite, 3. Pfeiler von Osten</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428573_205">
+  <crm:P1_is_identified_by>Ostseite</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428557_205">
+  <crm:P1_is_identified_by>Osterwieck, Evangelische Kirche Sankt Stephani, Mittelschiff, Nordseite, 3. Pfeiler von Osten</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428553_205">
+  <crm:P1_is_identified_by>Osterwieck, Evangelische Kirche Sankt Stephani, Mittelschiff, Nordseite, 3. Pfeiler von Osten</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428556_205">
+  <crm:P1_is_identified_by>Osterwieck, Evangelische Kirche Sankt Stephani, Mittelschiff, Nordseite, 3. Pfeiler von Osten</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428574_205">
+  <crm:P1_is_identified_by>Westseite</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428571_205">
+  <crm:P1_is_identified_by>Osterwieck, Evangelische Kirche Sankt Stephani, Mittelschiff, Nordseite, 3. Pfeiler von Osten</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428550_205">
+  <crm:P1_is_identified_by>Kanzelboden</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428559_205">
+  <crm:P1_is_identified_by>Osterwieck, Evangelische Kirche Sankt Stephani, Mittelschiff, Nordseite, 3. Pfeiler von Osten</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20320081_205">
+  <crm:P1_is_identified_by>Osterwieck, Evangelische Kirche Sankt Stephani, Mittelschiff, Nordseite, 3. Pfeiler von Osten</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428572_205">
+  <crm:P1_is_identified_by>Osterwieck, Evangelische Kirche Sankt Stephani, Mittelschiff, Nordseite, 3. Pfeiler von Osten</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E53_Place rdf:about="http://www.fotomarburg.de/content/obj20428577_205">
+  <crm:P1_is_identified_by>Osterwieck, Evangelische Kirche Sankt Stephani, Mittelschiff, Nordseite, 3. Pfeiler von Osten</crm:P1_is_identified_by>
+ </crm:E53_Place>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428549_301_2">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428549_312__2">
+    <crm:P80_end_is_qualified_by>1650</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1650</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428549_304_2">
+    <crm:P3_has_note>Umgestaltung</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20320081_301_3">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20320081_312__3">
+    <crm:P80_end_is_qualified_by>1993</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1993</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20320081_304_3">
+    <crm:P3_has_note>Restaurierung</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428577_301_1">
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20428577_316_1_2">
+    <rdfs:label>gefasst</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P32_used_general_technique>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428577_316_1_1">
+    <rdfs:label>Holz</rdfs:label>
+    <skos:closeMatch>http://vocab.getty.edu/aat/300011914</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P32_used_general_technique>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428577_312__1">
+    <crm:P80_end_is_qualified_by>1604</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1603</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428577_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428572_301_1">
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20428572_316_1_2">
+    <rdfs:label>gefasst</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P32_used_general_technique>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428572_316_1_1">
+    <rdfs:label>Holz</rdfs:label>
+    <skos:closeMatch>http://vocab.getty.edu/aat/300011914</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P32_used_general_technique>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428572_312__1">
+    <crm:P80_end_is_qualified_by>1604</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1603</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428572_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428573_301_3">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428573_312__3">
+    <crm:P80_end_is_qualified_by>1993</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1993</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428573_304_3">
+    <crm:P3_has_note>Restaurierung</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428574_301_1">
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20428574_316_1_2">
+    <rdfs:label>gefasst</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P32_used_general_technique>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428574_316_1_1">
+    <rdfs:label>Holz</rdfs:label>
+    <skos:closeMatch>http://vocab.getty.edu/aat/300011914</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P32_used_general_technique>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428574_312__1">
+    <crm:P80_end_is_qualified_by>1604</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1603</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428574_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428570_301_1">
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20428570_316_1_2">
+    <rdfs:label>gefasst</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P32_used_general_technique>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428570_316_1_1">
+    <rdfs:label>Holz</rdfs:label>
+    <skos:closeMatch>http://vocab.getty.edu/aat/300011914</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P32_used_general_technique>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428570_312__1">
+    <crm:P80_end_is_qualified_by>1604</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1603</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428570_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428551_301_3">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428551_312__3">
+    <crm:P80_end_is_qualified_by>1993</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1993</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428551_304_3">
+    <crm:P3_has_note>Restaurierung</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428549_301_1">
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20428549_316_1_2">
+    <rdfs:label>gefasst</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P32_used_general_technique>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428549_316_1_1">
+    <rdfs:label>Holz</rdfs:label>
+    <skos:closeMatch>http://vocab.getty.edu/aat/300011914</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P32_used_general_technique>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428549_312__1">
+    <crm:P80_end_is_qualified_by>1604</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1603</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428549_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428553_301_3">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428553_312__3">
+    <crm:P80_end_is_qualified_by>1993</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1993</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428553_304_3">
+    <crm:P3_has_note>Restaurierung</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428558_301_1">
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20428558_316_1_2">
+    <rdfs:label>gefasst</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P32_used_general_technique>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428558_316_1_1">
+    <rdfs:label>Holz</rdfs:label>
+    <skos:closeMatch>http://vocab.getty.edu/aat/300011914</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P32_used_general_technique>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428558_312__1">
+    <crm:P80_end_is_qualified_by>1604</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1603</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428558_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428557_301_3">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428557_312__3">
+    <crm:P80_end_is_qualified_by>1993</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1993</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428557_304_3">
+    <crm:P3_has_note>Restaurierung</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428556_301_1">
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20428556_316_1_2">
+    <rdfs:label>gefasst</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P32_used_general_technique>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428556_316_1_1">
+    <rdfs:label>Holz</rdfs:label>
+    <skos:closeMatch>http://vocab.getty.edu/aat/300011914</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P32_used_general_technique>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428556_312__1">
+    <crm:P80_end_is_qualified_by>1604</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1603</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428556_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428555_301_3">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428555_312__3">
+    <crm:P80_end_is_qualified_by>1993</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1993</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428555_304_3">
+    <crm:P3_has_note>Restaurierung</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428559_301_3">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428559_312__3">
+    <crm:P80_end_is_qualified_by>1993</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1993</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428559_304_3">
+    <crm:P3_has_note>Restaurierung</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428554_301_1">
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20428554_316_1_2">
+    <rdfs:label>gefasst</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P32_used_general_technique>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428554_316_1_1">
+    <rdfs:label>Holz</rdfs:label>
+    <skos:closeMatch>http://vocab.getty.edu/aat/300011914</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P32_used_general_technique>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428554_312__1">
+    <crm:P80_end_is_qualified_by>1604</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1603</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428554_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428550_301_1">
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20428550_316_1_2">
+    <rdfs:label>gefasst</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P32_used_general_technique>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428550_316_1_1">
+    <rdfs:label>Holz</rdfs:label>
+    <skos:closeMatch>http://vocab.getty.edu/aat/300011914</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P32_used_general_technique>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428550_312__1">
+    <crm:P80_end_is_qualified_by>1650</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1650</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428550_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428552_301_1">
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20428552_316_1_2">
+    <rdfs:label>gefasst</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P32_used_general_technique>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428552_316_1_1">
+    <rdfs:label>Holz</rdfs:label>
+    <skos:closeMatch>http://vocab.getty.edu/aat/300011914</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P32_used_general_technique>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428552_312__1">
+    <crm:P80_end_is_qualified_by>1604</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1603</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428552_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20320081_301_2">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20320081_312__2">
+    <crm:P80_end_is_qualified_by>1650</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1650</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20320081_304_2">
+    <crm:P3_has_note>Umgestaltung</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428577_301_2">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428577_312__2">
+    <crm:P80_end_is_qualified_by>1650</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1650</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428577_304_2">
+    <crm:P3_has_note>Umgestaltung</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428572_301_2">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428572_312__2">
+    <crm:P80_end_is_qualified_by>1650</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1650</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428572_304_2">
+    <crm:P3_has_note>Umgestaltung</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428573_301_2">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428573_312__2">
+    <crm:P80_end_is_qualified_by>1650</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1650</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428573_304_2">
+    <crm:P3_has_note>Umgestaltung</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428574_301_2">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428574_312__2">
+    <crm:P80_end_is_qualified_by>1650</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1650</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428574_304_2">
+    <crm:P3_has_note>Umgestaltung</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428570_301_2">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428570_312__2">
+    <crm:P80_end_is_qualified_by>1650</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1650</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428570_304_2">
+    <crm:P3_has_note>Umgestaltung</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428551_301_2">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428551_312__2">
+    <crm:P80_end_is_qualified_by>1650</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1650</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428551_304_2">
+    <crm:P3_has_note>Umgestaltung</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428553_301_2">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428553_312__2">
+    <crm:P80_end_is_qualified_by>1650</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1650</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428553_304_2">
+    <crm:P3_has_note>Umgestaltung</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428554_301_2">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428554_312__2">
+    <crm:P80_end_is_qualified_by>1650</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1650</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428554_304_2">
+    <crm:P3_has_note>Umgestaltung</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428552_301_2">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428552_312__2">
+    <crm:P80_end_is_qualified_by>1650</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1650</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428552_304_2">
+    <crm:P3_has_note>Umgestaltung</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428558_301_2">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428558_312__2">
+    <crm:P80_end_is_qualified_by>1650</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1650</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428558_304_2">
+    <crm:P3_has_note>Umgestaltung</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428557_301_2">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428557_312__2">
+    <crm:P80_end_is_qualified_by>1650</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1650</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428557_304_2">
+    <crm:P3_has_note>Umgestaltung</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428556_301_2">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428556_312__2">
+    <crm:P80_end_is_qualified_by>1650</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1650</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428556_304_2">
+    <crm:P3_has_note>Umgestaltung</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428555_301_2">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428555_312__2">
+    <crm:P80_end_is_qualified_by>1650</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1650</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428555_304_2">
+    <crm:P3_has_note>Umgestaltung</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428559_301_2">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428559_312__2">
+    <crm:P80_end_is_qualified_by>1650</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1650</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428559_304_2">
+    <crm:P3_has_note>Umgestaltung</crm:P3_has_note>
+    <crm:P3_has_note>Modification</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00006</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20320081_301_1">
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20320081_316_1_2">
+    <rdfs:label>gefasst</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P32_used_general_technique>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20320081_316_1_1">
+    <rdfs:label>Holz</rdfs:label>
+    <skos:closeMatch>http://vocab.getty.edu/aat/300011914</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P32_used_general_technique>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20320081_312__1">
+    <crm:P80_end_is_qualified_by>1604</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1603</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20320081_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428577_301_3">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428577_312__3">
+    <crm:P80_end_is_qualified_by>1993</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1993</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428577_304_3">
+    <crm:P3_has_note>Restaurierung</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428555_301_1">
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20428555_316_1_2">
+    <rdfs:label>gefasst</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P32_used_general_technique>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428555_316_1_1">
+    <rdfs:label>Holz</rdfs:label>
+    <skos:closeMatch>http://vocab.getty.edu/aat/300011914</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P32_used_general_technique>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428555_312__1">
+    <crm:P80_end_is_qualified_by>1604</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1603</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428555_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428554_301_3">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428554_312__3">
+    <crm:P80_end_is_qualified_by>1993</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1993</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428554_304_3">
+    <crm:P3_has_note>Restaurierung</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428573_301_1">
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20428573_316_1_2">
+    <rdfs:label>gefasst</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P32_used_general_technique>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428573_316_1_1">
+    <rdfs:label>Holz</rdfs:label>
+    <skos:closeMatch>http://vocab.getty.edu/aat/300011914</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P32_used_general_technique>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428573_312__1">
+    <crm:P80_end_is_qualified_by>1604</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1603</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428573_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428571_301_1">
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20428571_316_1_2">
+    <rdfs:label>gefasst</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P32_used_general_technique>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428571_316_1_1">
+    <rdfs:label>Holz</rdfs:label>
+    <skos:closeMatch>http://vocab.getty.edu/aat/300011914</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P32_used_general_technique>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428571_312__1">
+    <crm:P80_end_is_qualified_by>1640</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1640</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428571_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428572_301_3">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428572_312__3">
+    <crm:P80_end_is_qualified_by>1993</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1993</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428572_304_3">
+    <crm:P3_has_note>Restaurierung</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428574_301_3">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428574_312__3">
+    <crm:P80_end_is_qualified_by>1993</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1993</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428574_304_3">
+    <crm:P3_has_note>Restaurierung</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428570_301_3">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428570_312__3">
+    <crm:P80_end_is_qualified_by>1993</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1993</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428570_304_3">
+    <crm:P3_has_note>Restaurierung</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428558_301_3">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428558_312__3">
+    <crm:P80_end_is_qualified_by>1993</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1993</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428558_304_3">
+    <crm:P3_has_note>Restaurierung</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428559_301_1">
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20428559_316_1_2">
+    <rdfs:label>gefasst</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P32_used_general_technique>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428559_316_1_1">
+    <rdfs:label>Holz</rdfs:label>
+    <skos:closeMatch>http://vocab.getty.edu/aat/300011914</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P32_used_general_technique>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428559_312__1">
+    <crm:P80_end_is_qualified_by>1604</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1603</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428559_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428549_301_3">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428549_312__3">
+    <crm:P80_end_is_qualified_by>1993</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1993</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428549_304_3">
+    <crm:P3_has_note>Restaurierung</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428557_301_1">
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20428557_316_1_2">
+    <rdfs:label>gefasst</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P32_used_general_technique>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428557_316_1_1">
+    <rdfs:label>Holz</rdfs:label>
+    <skos:closeMatch>http://vocab.getty.edu/aat/300011914</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P32_used_general_technique>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428557_312__1">
+    <crm:P80_end_is_qualified_by>1604</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1603</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428557_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428556_301_3">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428556_312__3">
+    <crm:P80_end_is_qualified_by>1993</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1993</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428556_304_3">
+    <crm:P3_has_note>Restaurierung</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428552_301_3">
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428552_312__3">
+    <crm:P80_end_is_qualified_by>1993</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1993</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428552_304_3">
+    <crm:P3_has_note>Restaurierung</crm:P3_has_note>
+    <crm:P3_has_note>Restoration</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00034</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428551_301_1">
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20428551_316_1_2">
+    <rdfs:label>gefasst</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P32_used_general_technique>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428551_316_1_1">
+    <rdfs:label>Holz</rdfs:label>
+    <skos:closeMatch>http://vocab.getty.edu/aat/300011914</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P32_used_general_technique>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428551_312__1">
+    <crm:P80_end_is_qualified_by>1604</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1603</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428551_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E7_Activity rdf:about="http://www.fotomarburg.de/content/obj20428553_301_1">
+  <crm:P126_employed>
+   <crm:E57_Material rdf:about="http://www.fotomarburg.de/content/obj20428553_316_1_2">
+    <rdfs:label>gefasst</rdfs:label>
+   </crm:E57_Material>
+  </crm:P126_employed>
+  <crm:P32_used_general_technique>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428553_316_1_1">
+    <rdfs:label>Holz</rdfs:label>
+    <skos:closeMatch>http://vocab.getty.edu/aat/300011914</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P32_used_general_technique>
+  <crm:P4_has_time-span>
+   <crm:E52_Time-Span rdf:about="http://www.fotomarburg.de/content/obj20428553_312__1">
+    <crm:P80_end_is_qualified_by>1604</crm:P80_end_is_qualified_by>
+    <crm:P79_beginning_is_qualified_by>1603</crm:P79_beginning_is_qualified_by>
+   </crm:E52_Time-Span>
+  </crm:P4_has_time-span>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428553_304_1">
+    <crm:P3_has_note>Herstellung</crm:P3_has_note>
+    <crm:P3_has_note>Production</crm:P3_has_note>
+    <crm:P1_is_identified_by>http://terminology.lido-schema.org/lido00007</crm:P1_is_identified_by>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+ </crm:E7_Activity>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20428553_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20428553_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428553_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20428556_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20428556_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428556_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20428573_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20428573_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428573_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20428549_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20428549_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428549_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20428551_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20428551_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428551_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20428570_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20428570_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428570_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20428559_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20428559_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428559_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20428552_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20428552_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428552_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20428571_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20428571_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428571_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20428574_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20428574_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428574_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20428558_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20428558_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428558_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20428555_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20428555_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428555_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20320081_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20320081_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20320081_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20428577_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20428577_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428577_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20428554_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20428554_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428554_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20428557_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20428557_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428557_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20428572_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20428572_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428572_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E39_Actor rdf:about="http://www.fotomarburg.de/content/obj20428550_608_1_1">
+  <crm:P75_possesses>
+   <crm:E30_Right rdf:about="http://www.fotomarburg.de/content/obj20428550_605_1">
+    <crm:P2_has_type>
+     <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428550_6061_1">
+      <rdfs:label>CC0 1.0 Public Domain Dedication</rdfs:label>
+      <skos:closeMatch>http://creativecommons.org/publicdomain/zero/1.0/</skos:closeMatch>
+     </crm:E55_Type>
+    </crm:P2_has_type>
+   </crm:E30_Right>
+  </crm:P75_possesses>
+  <crm:P1_is_identified_by>Bildarchiv Foto Marburg</crm:P1_is_identified_by>
+ </crm:E39_Actor>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428555_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428555_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20428555_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20428555_603">
+    <rdfs:label>Einzelobjekt</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00141</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428558_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428558_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20428558_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20428558_603">
+    <rdfs:label>Einzelobjekt</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00141</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428570_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428570_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20428570_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20428570_603">
+    <rdfs:label>Einzelobjekt</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00141</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428554_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428554_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20428554_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20428554_603">
+    <rdfs:label>Einzelobjekt</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00141</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428557_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428557_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20428557_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20428557_603">
+    <rdfs:label>Einzelobjekt</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00141</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428573_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428573_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20428573_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20428573_603">
+    <rdfs:label>Zyklus</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00453</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428552_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428552_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20428552_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20428552_603">
+    <rdfs:label>Einzelobjekt</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00141</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428571_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428571_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20428571_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20428571_603">
+    <rdfs:label>Einzelobjekt</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00141</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428574_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428574_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20428574_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20428574_603">
+    <rdfs:label>Zyklus</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00453</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428553_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428553_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20428553_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20428553_603">
+    <rdfs:label>Zyklus</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00453</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428549_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428549_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20428549_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20428549_603">
+    <rdfs:label>Einzelobjekt</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00141</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428559_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428559_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20428559_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20428559_603">
+    <rdfs:label>Einzelobjekt</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00141</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428550_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428550_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20428550_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20428550_603">
+    <rdfs:label>Einzelobjekt</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00141</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428551_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428551_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20428551_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20428551_603">
+    <rdfs:label>Einzelobjekt</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00141</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428577_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428577_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20428577_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20428577_603">
+    <rdfs:label>Einzelobjekt</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00141</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428572_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428572_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20428572_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20428572_603">
+    <rdfs:label>Einzelobjekt</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00141</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20428556_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20428556_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20428556_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20428556_603">
+    <rdfs:label>Einzelobjekt</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00141</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:E31_Document rdf:about="http://www.fotomarburg.de/content/obj20320081_601">
+  <crm:P129i_is_subject_of>
+   <crm:E73_Information_Object rdf:about="http://www.fotomarburg.de/content/obj20320081_609_1"/>
+  </crm:P129i_is_subject_of>
+  <crm:P104_is_subject_to rdf:resource="http://www.fotomarburg.de/content/obj20320081_605_1"/>
+  <crm:P2_has_type>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/recordType/obj20320081_603">
+    <rdfs:label>Einzelobjekt</rdfs:label>
+    <skos:closeMatch>http://terminology.lido-schema.org/lido00141</skos:closeMatch>
+   </crm:E55_Type>
+  </crm:P2_has_type>
+ </crm:E31_Document>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20428574_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428574_310_1_1_1">
+    <rdfs:label>Bildhauer</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20428574_301_1"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20428577_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428577_310_1_1_1">
+    <rdfs:label>Bildhauer</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20428577_301_1"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20428552_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428552_310_1_1_1">
+    <rdfs:label>Bildhauer</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20428552_301_1"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20428558_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428558_310_1_1_1">
+    <rdfs:label>Bildhauer</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20428558_301_1"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20428571_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428571_310_1_1_1">
+    <rdfs:label>Bildhauer</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20428571_301_1"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20428554_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428554_310_1_1_1">
+    <rdfs:label>Bildhauer</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20428554_301_1"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20428553_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428553_310_1_1_1">
+    <rdfs:label>Bildhauer</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20428553_301_1"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20428572_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428572_310_1_1_1">
+    <rdfs:label>Bildhauer</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20428572_301_1"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20428557_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428557_310_1_1_1">
+    <rdfs:label>Bildhauer</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20428557_301_1"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20428550_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428550_310_1_1_1">
+    <rdfs:label>Bildhauer</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20428550_301_1"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20428573_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428573_310_1_1_1">
+    <rdfs:label>Bildhauer</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20428573_301_1"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20428556_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428556_310_1_1_1">
+    <rdfs:label>Bildhauer</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20428556_301_1"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20428549_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428549_310_1_1_1">
+    <rdfs:label>Bildhauer</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20428549_301_1"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20428551_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428551_310_1_1_1">
+    <rdfs:label>Bildhauer</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20428551_301_1"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20428559_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428559_310_1_1_1">
+    <rdfs:label>Bildhauer</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20428559_301_1"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20320081_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20320081_310_1_1_1">
+    <rdfs:label>Bildhauer</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20320081_301_1"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20428555_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428555_310_1_1_1">
+    <rdfs:label>Bildhauer</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20428555_301_1"/>
+ </crm:PC14_carried_out_by>
+ <crm:PC14_carried_out_by rdf:about="http://www.fotomarburg.de/content/obj20428570_309_1_1">
+  <crm:P14.1_in_the_role_of>
+   <crm:E55_Type rdf:about="http://www.fotomarburg.de/content/obj20428570_310_1_1_1">
+    <rdfs:label>Bildhauer</rdfs:label>
+   </crm:E55_Type>
+  </crm:P14.1_in_the_role_of>
+  <crm:P02_has_range rdf:resource="http://www.fotomarburg.de/content/http://terminology.lido-schema.org/lido00100"/>
+  <crm:P01_has_domain rdf:resource="http://www.fotomarburg.de/content/obj20428570_301_1"/>
+ </crm:PC14_carried_out_by>
+</rdf:RDF>
